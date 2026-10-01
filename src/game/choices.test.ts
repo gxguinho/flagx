@@ -34,3 +34,10 @@ describe('buildChoices', () => {
     expect(buildChoices(conmebol[0], all, createRng(5))).toEqual(buildChoices(conmebol[0], all, createRng(5)))
   })
 })
+
+describe('buildChoices — independência da ordem de entrada', () => {
+  it('dá as mesmas opções qualquer que seja a ordem da lista de membros', () => {
+    const reversed = [...all].reverse()
+    expect(buildChoices(conmebol[0], reversed, createRng(5))).toEqual(buildChoices(conmebol[0], all, createRng(5)))
+  })
+})

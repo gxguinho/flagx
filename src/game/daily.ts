@@ -11,6 +11,10 @@ export const DAILY_SIZE = 5
 const DAY_MS = 86_400_000
 const DIFFICULTIES: Level[] = [1, 2, 3, 4, 5]
 
+// Comparação por code point: a ordem não pode depender do idioma do navegador,
+// senão jogadores em locales diferentes receberiam desafios diferentes
+const byId = (a: { id: string }, b: { id: string }) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)
+
 const keyFormatter = new Intl.DateTimeFormat('en-CA', {
   timeZone: TIMEZONE,
   year: 'numeric',
@@ -43,7 +47,7 @@ export function msUntilNextPuzzle(now: Date): number {
  */
 export function dailyCountries(puzzle: number, countries: readonly Country[]): Country[] {
   return DIFFICULTIES.flatMap((d) => {
-    const bucket = countries.filter((c) => c.flagDifficulty === d).sort((a, b) => a.id.localeCompare(b.id))
+    const bucket = countries.filter((c) => c.flagDifficulty === d).sort(byId)
     if (bucket.length === 0) return []
     const order = shuffle(createRng(hashString(`bucket-${d}`)), bucket)
     return [order[(puzzle - 1) % order.length]]

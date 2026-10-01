@@ -103,3 +103,19 @@ describe('dailyTotals', () => {
     expect(dailyTotals(done)).toEqual({ total: 5000, squares: ['🟩', '🟩', '🟩', '🟩', '🟩'] })
   })
 })
+
+describe('dailyCountries — independência de idioma', () => {
+  it('não depende da collation do navegador', () => {
+    const expected = dailyCountries(3, countries).map((c) => c.id)
+    const original = String.prototype.localeCompare
+    // Simula um locale que ordena ao contrário
+    String.prototype.localeCompare = function (this: string, other: string) {
+      return -original.call(this, other)
+    }
+    try {
+      expect(dailyCountries(3, countries).map((c) => c.id)).toEqual(expected)
+    } finally {
+      String.prototype.localeCompare = original
+    }
+  })
+})
