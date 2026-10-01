@@ -1,4 +1,4 @@
-import { render, screen, within } from '@testing-library/react'
+import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { useState } from 'react'
 import { describe, expect, it, vi } from 'vitest'
@@ -61,7 +61,7 @@ describe('DailyScreen', () => {
     expect(screen.getByRole('button', { name: 'Normal' })).toBeInTheDocument()
   })
 
-  it('registra as estatísticas e mostra o resumo ao terminar', async () => {
+  it('registra as estatísticas e vai direto ao resumo ao acertar a última', async () => {
     const record = solved(createDailyRun(PUZZLE, 'normal', testCountries, testMembers), 4)
     const { user, last } = setup({ ...emptySave(), daily: record })
     const answer = shownCountryId(screen.getByRole('img', { name: 'Bandeira' }))
@@ -71,7 +71,7 @@ describe('DailyScreen', () => {
 
     expect(last().stats).toMatchObject({ played: 1, lastPuzzle: PUZZLE, totalPoints: 5000 })
 
-    await user.click(within(screen.getByRole('dialog')).getByRole('button', { name: 'Ver resultado' }))
+    expect(screen.queryByRole('dialog')).not.toBeInTheDocument()
     expect(screen.getByText('5.000 pts')).toBeInTheDocument()
     expect(screen.getByText('🟩🟩🟩🟩🟩')).toBeInTheDocument()
   })

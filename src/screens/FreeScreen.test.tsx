@@ -1,4 +1,4 @@
-import { render, screen, within } from '@testing-library/react'
+import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { describe, expect, it, vi } from 'vitest'
 
@@ -35,21 +35,16 @@ describe('FreeScreen', () => {
     expect(screen.getByText('Dica 1')).toBeInTheDocument()
   })
 
-  it('mostra o resultado e soma a pontuação da sessão', async () => {
+  it('ao acertar, vai direto para a próxima bandeira e soma os pontos', async () => {
     const { user } = setup()
     const answer = shownCountryId(screen.getByRole('img', { name: 'Bandeira' }))
     const wrong = testMembers.find((m) => m.id !== answer)!
     await guess(user, wrong.name)
     await guess(user, nameOf(answer))
 
-    const dialog = screen.getByRole('dialog')
-    expect(within(dialog).getByText('Você acertou!')).toBeInTheDocument()
-    expect(within(dialog).getByText(nameOf(answer))).toBeInTheDocument()
-    expect(within(dialog).getByText('+800')).toBeInTheDocument()
-    expect(within(dialog).getAllByText(/^Dica \d$/)).toHaveLength(5)
-
-    await user.click(within(dialog).getByRole('button', { name: 'Próxima' }))
     expect(screen.queryByRole('dialog')).not.toBeInTheDocument()
+    expect(shownCountryId(screen.getByRole('img', { name: 'Bandeira' }))).not.toBe(answer)
+    expect(screen.queryByText('Dica 1')).not.toBeInTheDocument()
     expect(screen.getByTestId('session-score')).toHaveTextContent('800')
   })
 

@@ -18,6 +18,7 @@ import type { Mode } from '@/game/types'
 import type { UpdateSave } from '@/state/useSave'
 import { recordDailyFinished, type SaveData } from '@/storage/storage'
 
+import { announceHit } from './announceHit'
 import { DailySummary } from './DailySummary'
 import { RoundView } from './RoundView'
 
@@ -92,7 +93,9 @@ export function DailyScreen({ save, updateSave, now = defaultNow, onBack }: Dail
   const handleGuess = (memberId: string) => {
     const next = roundReducer(round, { type: 'guess', memberId })
     if (next === round) return
-    setViewIndex(index)
+    // Acertou: segue direto para a próxima (ou para o resumo). Errou tudo: fica na rodada para mostrar a resposta
+    if (next.status === 'won') announceHit(next)
+    setViewIndex(next.status === 'won' ? index + 1 : index)
     const nextRecord: DailyRecord = { ...record, rounds: record.rounds.map((r, i) => (i === index ? next : r)) }
     updateSave((s) => {
       const saved = { ...s, daily: nextRecord }

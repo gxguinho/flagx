@@ -12,6 +12,7 @@ import type { Mode } from '@/game/types'
 import type { UpdateSave } from '@/state/useSave'
 import type { SaveData } from '@/storage/storage'
 
+import { announceHit } from './announceHit'
 import { RoundView } from './RoundView'
 
 const points = new Intl.NumberFormat('pt-BR')
@@ -39,12 +40,21 @@ export function FreeScreen({ save, updateSave, onBack }: FreeScreenProps) {
   const handleGuess = (memberId: string) => {
     const next = roundReducer(round, { type: 'guess', memberId })
     if (next === round) return
-    setRound(next)
-    if (next.status === 'playing') return
+    if (next.status === 'playing') {
+      setRound(next)
+      return
+    }
 
     const total = sessionScore + roundScore(next)
     setSessionScore(total)
     if (total > save.freeBest) updateSave((s) => ({ ...s, freeBest: Math.max(s.freeBest, total) }))
+
+    if (next.status === 'won') {
+      announceHit(next)
+      startNext(mode)
+    } else {
+      setRound(next)
+    }
   }
 
   const startNext = (nextMode: Mode) => {

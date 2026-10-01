@@ -16,7 +16,7 @@ import {
   DialogTitle,
 } from '@/components/ui/dialog'
 import { getMember, members } from '@/data/countries'
-import { revealedHints, roundScore, type RoundState } from '@/game/round'
+import { revealedHints, type RoundState } from '@/game/round'
 
 interface RoundViewProps {
   round: RoundState
@@ -64,16 +64,16 @@ export function RoundView({ round, header, onGuess, onNext, nextLabel }: RoundVi
         <GuessInput members={members} excludedIds={round.wrongIds} onGuess={onGuess} disabled={finished} />
       )}
 
-      <Dialog open={finished}>
+      {/* Acerto não abre diálogo (o jogo segue direto); só a derrota mostra a resposta */}
+      <Dialog open={round.status === 'lost'}>
         <DialogContent showCloseButton={false} className="max-h-[90svh] overflow-y-auto">
           <DialogHeader>
-            <DialogTitle>{round.status === 'won' ? 'Você acertou!' : 'Não foi dessa vez'}</DialogTitle>
+            <DialogTitle>Não foi dessa vez</DialogTitle>
             <DialogDescription>A resposta era</DialogDescription>
           </DialogHeader>
           <div className="flex items-center gap-3">
             <span className={`fi fi-${answer.id} shrink-0 text-2xl`} aria-hidden />
             <span className="text-lg font-semibold">{answer.name}</span>
-            <span className="ml-auto text-lg font-bold text-primary">+{roundScore(round)}</span>
           </div>
           <HintList hints={round.hints} />
           <DialogFooter>
