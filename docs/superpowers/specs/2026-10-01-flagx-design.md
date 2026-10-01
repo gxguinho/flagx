@@ -139,7 +139,7 @@ Dicas com `reviewed: false` são jogadas normalmente. `scripts/review-report.ts`
 - **Número do desafio:** dias desde a data de lançamento (constante `LAUNCH_DATE`); o dia de lançamento é o `#1`.
 - **Virada do dia:** meia-noite no fuso `America/Sao_Paulo`, para todos.
 - **5 bandeiras** em dificuldade crescente: uma de cada `flagDifficulty` 1→5.
-- **Escolha dos países (sem servidor):** os países de cada faixa de `flagDifficulty` são embaralhados com semente fixa; o desafio N usa o índice `N mod tamanhoDaFaixa` de cada faixa. Nenhum país se repete até a faixa completar um ciclo. *Trade-off aceito:* adicionar países altera a sequência de dias futuros.
+- **Escolha dos países (sem servidor):** os países de cada faixa de `flagDifficulty` são embaralhados com semente fixa; o desafio N usa o índice `N mod tamanhoDaFaixa` de cada faixa. Nenhum país se repete até a faixa completar um ciclo. *Trade-off aceito:* adicionar países (ou mudar `flagDifficulty`) altera a sequência a partir do dia do deploy, inclusive o próprio dia; por isso conteúdo novo é publicado logo após a meia-noite de Brasília. A ordenação usa comparação por code point, para não depender do idioma do navegador.
 - O jogador escolhe **normal ou fácil** ao começar; a escolha vale para o desafio do dia inteiro.
 - Cada desafio é jogado **uma vez**. Fechar a aba no meio não perde o progresso: ao voltar, continua de onde parou.
 - Ao final: pontuação total, quadrados, botão **Compartilhar** e contagem regressiva para o próximo desafio.
