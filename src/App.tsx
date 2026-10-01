@@ -4,6 +4,7 @@ import { useState } from 'react'
 import { Flag } from '@/components/Flag'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
+import { DailyScreen } from '@/screens/DailyScreen'
 import { FreeScreen } from '@/screens/FreeScreen'
 import { useSave } from '@/state/useSave'
 
@@ -16,6 +17,7 @@ function App() {
 
   return (
     <main className="mx-auto flex min-h-svh w-full max-w-md flex-col px-4 py-6">
+      {screen === 'daily' && <DailyScreen save={save} updateSave={updateSave} onBack={goHome} />}
       {screen === 'free' && <FreeScreen save={save} updateSave={updateSave} onBack={goHome} />}
 
       {screen === 'home' && (
@@ -34,7 +36,7 @@ function App() {
           </Card>
 
           <nav className="flex w-full flex-col gap-3">
-            <Button size="lg" disabled>
+            <Button size="lg" onClick={() => setScreen('daily')}>
               <CalendarDays /> Desafio diário
             </Button>
             <Button size="lg" variant="outline" onClick={() => setScreen('free')}>
