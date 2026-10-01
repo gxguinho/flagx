@@ -1,0 +1,76 @@
+{
+  "id": "za",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "za-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "za-02",
+      "text": "Seu campeonato nacional é um dos mais ricos e organizados da África.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "za-03",
+      "text": "Conquistou a Copa Africana de Nações de 1996, que sediou.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "za-04",
+      "text": "Disputou as Copas do Mundo de 1998, 2002 e 2010.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "za-05",
+      "text": "Kaizer Chiefs e Orlando Pirates fazem o clássico de Soweto, o maior do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "za-06",
+      "text": "A seleção é conhecida como 'Bafana Bafana'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "za-07",
+      "text": "Lucas Radebe, ex-capitão do Leeds, e Benni McCarthy, campeão europeu pelo Porto, defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "za-08",
+      "text": "Sua seleção de rugby é tetracampeã mundial: 1995, 2007, 2019 e 2023.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "za-09",
+      "text": "Sediou a primeira Copa do Mundo realizada na África, em 2010.",
+      "category": "copa",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "za-10",
+      "text": "Siphiwe Tshabalala marcou o gol de abertura da Copa de 2010, num chutaço contra o México.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

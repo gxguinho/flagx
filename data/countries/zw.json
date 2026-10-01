@@ -1,0 +1,76 @@
+{
+  "id": "zw",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "zw-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "zw-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "zw-03",
+      "text": "Estreou na Copa Africana de Nações em 2004.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "zw-04",
+      "text": "Tem seleção de críquete com status de Test, a elite do esporte.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "zw-05",
+      "text": "Dynamos e Highlanders fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "zw-06",
+      "text": "A seleção é conhecida como 'The Warriors'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "zw-07",
+      "text": "Peter Ndlovu, ex-Coventry, foi um dos primeiros africanos a jogar a Premier League.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "zw-08",
+      "text": "Em 2022, foi suspenso pela FIFA por interferência do governo na federação.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "zw-09",
+      "text": "O goleiro Bruce Grobbelaar, campeão europeu pelo Liverpool em 1984, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "zw-10",
+      "text": "Chamava-se Rodésia antes da independência, em 1980, e tem capital em Harare.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

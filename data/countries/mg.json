@@ -1,0 +1,76 @@
+{
+  "id": "mg",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "mg-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mg-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mg-03",
+      "text": "Disputou a Copa Africana de Nações pela primeira vez em 2019 e chegou às quartas de final.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mg-04",
+      "text": "Na Copa Africana de 2019, venceu a Nigéria por 2 a 0 na fase de grupos.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mg-05",
+      "text": "A seleção é conhecida como 'Barea', nome de uma raça de zebu típica do país.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mg-06",
+      "text": "Manda seus jogos no Estádio Mahamasina, na capital.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mg-07",
+      "text": "Abriga os lêmures, primatas que só existem naturalmente nesta região do planeta.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mg-08",
+      "text": "Foi colônia francesa até a independência, em 1960.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mg-09",
+      "text": "É uma enorme ilha no Oceano Índico, em frente à costa de Moçambique.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mg-10",
+      "text": "Em 2002, um jogo do campeonato nacional terminou 149 a 0, recorde mundial, com o time perdedor marcando gols contra de propósito em protesto.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

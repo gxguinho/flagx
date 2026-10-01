@@ -1,0 +1,76 @@
+{
+  "id": "so",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "so-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "so-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "so-03",
+      "text": "Nunca se classificou para a Copa Africana de Nações.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "so-04",
+      "text": "Tem o maior rebanho de camelos do mundo.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "so-05",
+      "text": "Por questões de segurança, mandou seus jogos em outros países durante longos períodos.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "so-06",
+      "text": "Em 2019, venceu o Zimbábue por 1 a 0, sua primeira vitória na história das Eliminatórias da Copa.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "so-07",
+      "text": "Mo Farah, multicampeão olímpico pela Grã-Bretanha, nasceu neste país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "so-08",
+      "text": "Tem o litoral mais extenso da África continental.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "so-09",
+      "text": "Fica no Chifre da África, com capital em Mogadíscio.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "so-10",
+      "text": "Foi formado em 1960 pela união de territórios colonizados pela Itália e pelo Reino Unido.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "mu",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "mu-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mu-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mu-03",
+      "text": "Disputou a Copa Africana de Nações uma única vez, em 1974.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mu-04",
+      "text": "Disputa os Jogos das Ilhas do Oceano Índico, evento multiesportivo regional.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mu-05",
+      "text": "A seleção é conhecida como 'Club M'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mu-06",
+      "text": "A maior parte da população tem origem indiana, e o hinduísmo é a religião mais seguida.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mu-07",
+      "text": "O sega, música e dança de raízes africanas, é a principal tradição musical do país.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mu-08",
+      "text": "Foi colônia holandesa, francesa e britânica antes da independência, em 1968.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mu-09",
+      "text": "O dodô, ave extinta no século XVII, vivia apenas nesta ilha e virou símbolo nacional.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mu-10",
+      "text": "É uma ilha no Oceano Índico, a leste de Madagascar, com capital em Port Louis.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

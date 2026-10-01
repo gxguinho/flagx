@@ -1,0 +1,76 @@
+{
+  "id": "ne",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ne-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ne-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ne-03",
+      "text": "Estreou na Copa Africana de Nações em 2012 e voltou a disputá-la em 2013.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ne-04",
+      "text": "Foi colônia francesa até a independência, em 1960.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ne-05",
+      "text": "A seleção é conhecida como 'Mena', nome de uma gazela.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ne-06",
+      "text": "Manda seus jogos no Estádio General Seyni Kountché, na capital.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ne-07",
+      "text": "O atacante Moussa Maâzou, ex-CSKA Moscou e Bordeaux, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ne-08",
+      "text": "É o maior país da África Ocidental em área, e boa parte dele fica no Saara.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ne-09",
+      "text": "Seu nome vem do grande rio que corta a capital, Niamey.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ne-10",
+      "text": "Até 2024, tinha a maior taxa de fecundidade do mundo.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tz",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "tz-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tz-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tz-03",
+      "text": "Disputou a Copa Africana de Nações em 1980 e só voltou ao torneio em 2019.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tz-04",
+      "text": "Vai sediar a Copa Africana de 2027 junto com Quênia e Uganda.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tz-05",
+      "text": "Simba e Young Africans (Yanga) fazem o grande clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tz-06",
+      "text": "A seleção é conhecida como 'Taifa Stars'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tz-07",
+      "text": "Mbwana Samatta, ex-Aston Villa, foi o primeiro jogador do país a atuar na Premier League.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tz-08",
+      "text": "Freddie Mercury, vocalista do Queen, nasceu numa ilha deste país.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tz-09",
+      "text": "Abriga o Kilimanjaro, a montanha mais alta da África.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tz-10",
+      "text": "Nasceu em 1964 da união de Tanganica com Zanzibar.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

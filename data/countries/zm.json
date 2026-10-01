@@ -1,0 +1,76 @@
+{
+  "id": "zm",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "zm-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "zm-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "zm-03",
+      "text": "Foi campeã da Copa Africana de Nações em 2012.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "zm-04",
+      "text": "Foi vice-campeã africana em 1974 e 1994.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "zm-05",
+      "text": "A seleção é conhecida como 'Chipolopolo', que significa 'balas de cobre'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "zm-06",
+      "text": "Nkana e Power Dynamos são clubes tradicionais do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "zm-07",
+      "text": "Nos Jogos Olímpicos de 1988, goleou a Itália por 4 a 0.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "zm-08",
+      "text": "Kalusha Bwalya, eleito melhor jogador africano de 1988, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "zm-09",
+      "text": "Em 1993, quase toda a seleção morreu num acidente aéreo no Gabão; em 2012, foi campeã africana justamente no Gabão.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "zm-10",
+      "text": "Divide as Cataratas Vitória com o Zimbábue e tem capital em Lusaka.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

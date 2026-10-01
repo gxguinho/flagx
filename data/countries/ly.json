@@ -1,0 +1,76 @@
+{
+  "id": "ly",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ly-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ly-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ly-03",
+      "text": "Venceu o Campeonato Africano de Nações (CHAN), torneio só com atletas das ligas locais, em 2014.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ly-04",
+      "text": "Sediou a Copa Africana de Nações de 1982 e perdeu a final para Gana nos pênaltis.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ly-05",
+      "text": "Al-Ahly e Al-Ittihad fazem o grande clássico da capital do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ly-06",
+      "text": "A seleção é conhecida como 'Cavaleiros do Mediterrâneo'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ly-07",
+      "text": "As ruínas romanas de Leptis Magna ficam neste país.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ly-08",
+      "text": "A maior parte do território é coberta pelo deserto do Saara, com costa no Mediterrâneo.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ly-09",
+      "text": "Al-Saadi Gaddafi, filho do então líder do país, chegou a jogar na Série A italiana pelo Perugia.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ly-10",
+      "text": "Foi governado por Muammar Gaddafi de 1969 a 2011.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

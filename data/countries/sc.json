@@ -1,0 +1,76 @@
+{
+  "id": "sc",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "sc-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sc-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sc-03",
+      "text": "Nunca se classificou para a Copa Africana de Nações.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sc-04",
+      "text": "O país tem menos de 150 mil habitantes, o que limita muito o futebol local.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sc-05",
+      "text": "Manda seus jogos no Stade Linité, na capital.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sc-06",
+      "text": "Foi colônia britânica até a independência, em 1976.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sc-07",
+      "text": "O coco-de-mar, maior semente do mundo, nasce naturalmente só em duas ilhas deste país.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sc-08",
+      "text": "É um arquipélago com mais de 100 ilhas no Oceano Índico.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sc-09",
+      "text": "É o menor país da África em área e em população, com capital em Victoria.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sc-10",
+      "text": "O atol de Aldabra, lar de tartarugas-gigantes, pertence a este país.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

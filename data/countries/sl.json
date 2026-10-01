@@ -1,0 +1,76 @@
+{
+  "id": "sl",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "sl-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sl-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sl-03",
+      "text": "Disputou a Copa Africana de Nações em 1994, 1996 e 2021.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sl-04",
+      "text": "Na Copa Africana de 2021, empatou por 0 a 0 com a então campeã Argélia.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sl-05",
+      "text": "East End Lions e Mighty Blackpool fazem o grande clássico da capital.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sl-06",
+      "text": "Na Copa Africana de 2021, arrancou um empate por 2 a 2 com a Costa do Marfim nos acréscimos.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sl-07",
+      "text": "Kei Kamara, um dos maiores artilheiros da história da MLS, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sl-08",
+      "text": "Viveu uma guerra civil entre 1991 e 2002.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sl-09",
+      "text": "Mohamed Kallon, ex-Inter de Milão, é um dos maiores nomes da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sl-10",
+      "text": "Sua capital, Freetown, foi fundada no século XVIII para abrigar ex-escravizados libertos.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

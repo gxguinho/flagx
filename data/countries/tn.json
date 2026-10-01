@@ -1,0 +1,76 @@
+{
+  "id": "tn",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "tn-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tn-02",
+      "text": "Classificou-se para a Copa do Mundo de 2026.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tn-03",
+      "text": "Disputou as Copas de 1978, 1998, 2002, 2006, 2018 e 2022.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tn-04",
+      "text": "Foi campeã da Copa Africana de Nações em 2004, jogando em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tn-05",
+      "text": "Espérance e Club Africain fazem o grande clássico da capital.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tn-06",
+      "text": "A seleção é conhecida como 'Águias de Cartago'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tn-07",
+      "text": "Venceu a França por 1 a 0 na fase de grupos da Copa de 2022, com gol de Wahbi Khazri.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tn-08",
+      "text": "A tenista Ons Jabeur, finalista de três Grand Slams, é deste país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tn-09",
+      "text": "Em 1978, tornou-se a primeira seleção africana a vencer um jogo de Copa: 3 a 1 no México.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tn-10",
+      "text": "A Primavera Árabe começou neste país, no fim de 2010.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

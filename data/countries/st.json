@@ -1,0 +1,76 @@
+{
+  "id": "st",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "st-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "st-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "st-03",
+      "text": "Nunca se classificou para a Copa Africana de Nações.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "st-04",
+      "text": "A língua oficial do país é o português.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "st-05",
+      "text": "Costuma aparecer entre as últimas seleções africanas no ranking da FIFA.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "st-06",
+      "text": "O título nacional é decidido entre os campeões das ligas de suas duas maiores ilhas.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "st-07",
+      "text": "Já foi o maior produtor de cacau do mundo, no início do século XX.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "st-08",
+      "text": "A linha do Equador passa por uma ilhota ao sul da maior ilha do país.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "st-09",
+      "text": "É o segundo menor país da África, formado basicamente por duas ilhas no Golfo da Guiné.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "st-10",
+      "text": "Foi colônia portuguesa até a independência, em 1975, assim como Cabo Verde.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

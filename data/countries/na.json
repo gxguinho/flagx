@@ -1,0 +1,76 @@
+{
+  "id": "na",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "na-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "na-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "na-03",
+      "text": "Estreou na Copa Africana de Nações em 1998.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "na-04",
+      "text": "Até 2023, sua seleção de rugby tinha disputado todas as Copas do Mundo do esporte desde 1999.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "na-05",
+      "text": "A seleção é conhecida como 'Brave Warriors'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "na-06",
+      "text": "Conquistou sua primeira vitória em Copa Africana em 2024, 1 a 0 sobre a Tunísia.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "na-07",
+      "text": "O velocista Frankie Fredericks, dono de quatro pratas olímpicas, é deste país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "na-08",
+      "text": "O atacante Peter Shalulile, artilheiro pelo Mamelodi Sundowns, defende esta seleção (até 2024).",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "na-09",
+      "text": "Tornou-se independente da África do Sul em 1990.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "na-10",
+      "text": "A Costa dos Esqueletos e a capital Windhoek ficam neste país.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

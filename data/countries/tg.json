@@ -1,0 +1,76 @@
+{
+  "id": "tg",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "tg-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tg-02",
+      "text": "Muitos de seus jogadores fizeram carreira no futebol francês.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tg-03",
+      "text": "Disputou uma única Copa do Mundo, em 2006, na Alemanha.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tg-04",
+      "text": "Chegou pela primeira vez às quartas de final da Copa Africana em 2013.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tg-05",
+      "text": "A seleção é conhecida como 'Les Éperviers' (Os Gaviões).",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tg-06",
+      "text": "Na Copa de 2006, enfrentou Coreia do Sul, Suíça e França na fase de grupos.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tg-07",
+      "text": "Em 2010, o ônibus da seleção foi atacado a tiros a caminho da Copa Africana, em Angola, e o time deixou o torneio.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tg-08",
+      "text": "Mohamed Kader marcou o único gol da seleção em Copas, contra a Coreia do Sul.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tg-09",
+      "text": "Emmanuel Adebayor, ex-Arsenal, Manchester City e Real Madrid, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tg-10",
+      "text": "É um país estreito da África Ocidental, entre Gana e Benin, com capital em Lomé.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

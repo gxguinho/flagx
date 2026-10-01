@@ -1,0 +1,76 @@
+{
+  "id": "ss",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ss-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ss-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ss-03",
+      "text": "Tornou-se membro da FIFA apenas em 2012.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ss-04",
+      "text": "Nunca se classificou para a Copa Africana de Nações.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ss-05",
+      "text": "Sua seleção de basquete disputou os Jogos Olímpicos pela primeira vez em 2024, em Paris.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ss-06",
+      "text": "Viveu uma guerra civil entre 2013 e 2018.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ss-07",
+      "text": "Em 2024, quase venceu os Estados Unidos num amistoso de basquete, perdendo por 101 a 100.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ss-08",
+      "text": "Uma das maiores áreas alagadas do mundo, formada pelo Nilo Branco, fica neste país.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ss-09",
+      "text": "É o país mais jovem do mundo, independente desde 2011.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ss-10",
+      "text": "Sua capital é Juba.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

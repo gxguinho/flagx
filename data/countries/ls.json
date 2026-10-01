@@ -1,0 +1,76 @@
+{
+  "id": "ls",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ls-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ls-02",
+      "text": "O país é uma monarquia, com um rei como chefe de Estado.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ls-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ls-04",
+      "text": "Nunca disputou a fase final de uma Copa Africana de Nações.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ls-05",
+      "text": "A seleção é conhecida como 'Likuena', que significa 'crocodilos' no idioma local.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ls-06",
+      "text": "Manda seus jogos no Setsoto Stadium, o principal estádio do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ls-07",
+      "text": "Um chapéu cônico de palha tradicional é símbolo nacional e aparece até na bandeira.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ls-08",
+      "text": "É o país com o ponto mais baixo mais alto do mundo: todo o território fica acima de 1.000 metros.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ls-09",
+      "text": "É um país sem saída para o mar totalmente cercado pela África do Sul.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ls-10",
+      "text": "Foi o protetorado britânico da Basutolândia até a independência, em 1966.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

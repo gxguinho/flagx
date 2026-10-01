@@ -1,0 +1,76 @@
+{
+  "id": "ml",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ml-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ml-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ml-03",
+      "text": "Foi vice-campeão da Copa Africana de Nações em 1972.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ml-04",
+      "text": "Sediou a Copa Africana de Nações de 2002.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ml-05",
+      "text": "Djoliba e Stade Malien fazem o grande clássico da capital.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ml-06",
+      "text": "A seleção é conhecida como 'Les Aigles' (As Águias).",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ml-07",
+      "text": "Seydou Keita, bicampeão da Champions League pelo Barcelona, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ml-08",
+      "text": "Na abertura da Copa Africana de 2010, buscou um empate por 4 a 4 com Angola depois de estar perdendo por 4 a 0.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ml-09",
+      "text": "Frédéric Kanouté, ídolo do Sevilla, foi eleito o melhor jogador africano de 2007 defendendo esta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ml-10",
+      "text": "A histórica cidade de Timbuktu fica neste país.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "mz",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "mz-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mz-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mz-03",
+      "text": "Estreou na Copa Africana de Nações em 1986.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mz-04",
+      "text": "A língua oficial do país é o português.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mz-05",
+      "text": "A seleção é conhecida como 'Os Mambas'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mz-06",
+      "text": "Ferroviário e Costa do Sol são clubes tradicionais da capital.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mz-07",
+      "text": "Mário Coluna, estrela do Benfica bicampeão europeu nos anos 1960, nasceu neste país.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mz-08",
+      "text": "Foi colônia portuguesa até a independência, em 1975.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mz-09",
+      "text": "Eusébio, o 'Pantera Negra', nasceu na capital deste país antes de brilhar por Portugal.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mz-10",
+      "text": "Fica no sudeste da África, de frente para Madagascar, com capital em Maputo.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

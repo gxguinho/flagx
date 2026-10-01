@@ -1,0 +1,76 @@
+{
+  "id": "ug",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ug-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ug-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ug-03",
+      "text": "Foi vice-campeão da Copa Africana de Nações em 1978.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ug-04",
+      "text": "Ficou 39 anos sem disputar a Copa Africana, até voltar em 2017.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ug-05",
+      "text": "A seleção é conhecida como 'The Cranes', em referência ao grou-coroado, símbolo nacional.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ug-06",
+      "text": "Manda seus jogos no Estádio Nacional Mandela, conhecido como 'Namboole'.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ug-07",
+      "text": "O goleiro Denis Onyango, ídolo do Mamelodi Sundowns, foi o melhor jogador africano atuando no continente em 2016.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ug-08",
+      "text": "O fundista Joshua Cheptegei foi ouro olímpico nos 5.000 m em Tóquio e nos 10.000 m em Paris.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ug-09",
+      "text": "A nascente do Nilo, no Lago Vitória, fica neste país, cuja capital é Kampala.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ug-10",
+      "text": "Foi governado por Idi Amin de 1971 a 1979.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

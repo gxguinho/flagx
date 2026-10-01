@@ -1,0 +1,76 @@
+{
+  "id": "rw",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "rw-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "rw-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "rw-03",
+      "text": "Até 2024, havia disputado a Copa Africana de Nações uma única vez, em 2004.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "rw-04",
+      "text": "Sediou em 2025 o Mundial de ciclismo de estrada, o primeiro realizado na África.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "rw-05",
+      "text": "A seleção é conhecida como 'Amavubi', que significa 'vespas'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "rw-06",
+      "text": "APR e Rayon Sports fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "rw-07",
+      "text": "O slogan turístico do país já estampou a manga da camisa do Arsenal e patrocinou o PSG.",
+      "category": "curiosidade",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "rw-08",
+      "text": "É famoso pelos gorilas-das-montanhas e conhecido como 'a terra das mil colinas'.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "rw-09",
+      "text": "É um pequeno país sem saída para o mar, entre Uganda, Tanzânia, Burundi e RD Congo, com capital em Kigali.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "rw-10",
+      "text": "Em 1994, foi palco de um genocídio contra os tutsis.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

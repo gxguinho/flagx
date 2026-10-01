@@ -1,0 +1,76 @@
+{
+  "id": "mr",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mr-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mr-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mr-03",
+      "text": "Estreou na Copa Africana de Nações apenas em 2019.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mr-04",
+      "text": "Disputou três edições seguidas da Copa Africana: 2019, 2021 e 2023.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mr-05",
+      "text": "Na Copa Africana de 2023, venceu a Argélia por 1 a 0 e avançou ao mata-mata pela primeira vez.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mr-06",
+      "text": "A seleção é conhecida como 'Al-Mourabitoun', em referência à dinastia almorávida.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mr-07",
+      "text": "É oficialmente uma república islâmica.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mr-08",
+      "text": "Um dos trens mais longos do mundo cruza o deserto do país levando minério de ferro até o litoral.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mr-09",
+      "text": "Fica no noroeste da África, na costa atlântica, entre Senegal, Mali, Argélia e o Saara Ocidental.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mr-10",
+      "text": "Foi o último país do mundo a abolir oficialmente a escravidão, em 1981.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

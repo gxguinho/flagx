@@ -1,0 +1,76 @@
+{
+  "id": "lr",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "lr-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lr-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lr-03",
+      "text": "Disputou a Copa Africana de Nações duas vezes, em 1996 e 2002.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lr-04",
+      "text": "É uma das repúblicas mais antigas da África, independente desde 1847.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lr-05",
+      "text": "A seleção é conhecida como 'Lone Star', em referência à estrela única da bandeira.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lr-06",
+      "text": "Manda seus jogos no Samuel Kanyon Doe Sports Complex, perto da capital.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lr-07",
+      "text": "Christopher Wreh, campeão inglês pelo Arsenal em 1998, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lr-08",
+      "text": "Foi fundado no século XIX por afro-americanos ex-escravizados vindos dos Estados Unidos.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lr-09",
+      "text": "George Weah, único africano a ganhar a Bola de Ouro (1995), é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "lr-10",
+      "text": "Seu maior ídolo do futebol foi eleito presidente do país em 2017.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ng",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "ng-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ng-02",
+      "text": "É uma das seleções africanas com mais participações em Copas do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ng-03",
+      "text": "Até 2024, havia conquistado a Copa Africana de Nações três vezes: 1980, 1994 e 2013.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ng-04",
+      "text": "Disputou seis Copas do Mundo entre 1994 e 2018.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ng-05",
+      "text": "A seleção é conhecida como 'Super Eagles'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ng-06",
+      "text": "Até 2025, era a maior campeã do Mundial Sub-17, com cinco títulos.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ng-07",
+      "text": "Ganhou o ouro olímpico no futebol em 1996, vencendo Brasil e Argentina no caminho.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ng-08",
+      "text": "Jay-Jay Okocha e Nwankwo Kanu brilharam por esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ng-09",
+      "text": "Rashidi Yekini marcou o primeiro gol do país em Copas, em 1994, e comemorou agarrado à rede.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ng-10",
+      "text": "É o país mais populoso da África, com capital em Abuja.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

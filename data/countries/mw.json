@@ -1,0 +1,76 @@
+{
+  "id": "mw",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mw-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mw-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mw-03",
+      "text": "Disputou a Copa Africana de Nações em 1984, 2010 e 2021.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mw-04",
+      "text": "Na Copa Africana de 2021, chegou pela primeira vez às oitavas de final e caiu para o Marrocos.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mw-05",
+      "text": "A seleção é conhecida como 'The Flames' (As Chamas).",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mw-06",
+      "text": "Big Bullets e Mighty Wanderers fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mw-07",
+      "text": "O país é conhecido como 'o coração quente da África'.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mw-08",
+      "text": "Um enorme lago ocupa boa parte do território e marca a fronteira leste do país.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mw-09",
+      "text": "Fica no sudeste da África, entre Tanzânia, Moçambique e Zâmbia, com capital em Lilongwe.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mw-10",
+      "text": "Antes da independência, em 1964, chamava-se Niassalândia.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
