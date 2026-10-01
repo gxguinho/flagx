@@ -1,0 +1,76 @@
+{
+  "id": "ve",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ve-01",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ve-02",
+      "text": "Durante décadas, o beisebol foi mais popular que o futebol neste país.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ve-03",
+      "text": "Até 2026, é a única seleção da sua confederação que nunca disputou uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ve-04",
+      "text": "Sua melhor campanha na Copa América foi o 4º lugar, em 2011.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ve-05",
+      "text": "Caracas FC e Deportivo Táchira estão entre os clubes mais vitoriosos do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ve-06",
+      "text": "Seus duelos mais tensos de Eliminatórias costumam ser contra a vizinha Colômbia.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ve-07",
+      "text": "Juan Arango, meia de chute forte que brilhou no Mallorca e no Borussia Mönchengladbach, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ve-08",
+      "text": "Foi vice-campeã da Copa do Mundo Sub-20 de 2017, perdendo a final para a Inglaterra.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ve-09",
+      "text": "Salomón Rondón é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ve-10",
+      "text": "A seleção é conhecida como 'La Vinotinto', por causa da cor vinho da camisa.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "cl",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "cl-01",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cl-02",
+      "text": "Sua seleção é conhecida pelo apelido 'La Roja'.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cl-03",
+      "text": "Conquistou a Copa América duas vezes seguidas, em 2015 e 2016, vencendo a Argentina nas duas finais.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cl-04",
+      "text": "Sediou a Copa do Mundo de 1962 e terminou em 3º lugar.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cl-05",
+      "text": "O Colo-Colo é o único clube do país campeão da Libertadores, em 1991.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cl-06",
+      "text": "O Estádio Nacional, em Santiago, recebeu a final da Copa de 1962.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cl-07",
+      "text": "Alexis Sánchez e Arturo Vidal são ídolos recentes desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cl-08",
+      "text": "Iván Zamorano e Marcelo Salas formaram a dupla de ataque 'Za-Sa' nos anos 1990.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cl-09",
+      "text": "O goleiro Roberto Rojas simulou ter sido atingido por um sinalizador no Maracanã em 1989, e a seleção foi banida da Copa de 1994.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cl-10",
+      "text": "Elías Figueroa, zagueiro eleito três vezes o melhor jogador da América do Sul, é um dos maiores ídolos desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

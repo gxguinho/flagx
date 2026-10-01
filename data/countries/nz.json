@@ -1,0 +1,76 @@
+{
+  "id": "nz",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "nz-01",
+      "text": "A seleção é filiada à OFC, a confederação da Oceania.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nz-02",
+      "text": "O rugby é muito mais popular que o futebol neste país.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nz-03",
+      "text": "Disputou duas Copas do Mundo: 1982 e 2010.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nz-04",
+      "text": "É a maior campeã da Copa das Nações da OFC.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nz-05",
+      "text": "A seleção é conhecida como 'All Whites', em contraste com o famoso time de rugby do país.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nz-06",
+      "text": "O Auckland City é o clube mais vencedor da Liga dos Campeões da OFC.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nz-07",
+      "text": "Chris Wood, atacante da Premier League, é o maior artilheiro desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nz-08",
+      "text": "Winston Reid e Ryan Nelsen foram zagueiros desta seleção que jogaram na Premier League.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nz-09",
+      "text": "Foi a única seleção invicta na Copa de 2010, com três empates, incluindo um 1 a 1 com a Itália.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "nz-10",
+      "text": "Wynton Rufer, eleito o melhor jogador da Oceania do século XX, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

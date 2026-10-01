@@ -1,0 +1,76 @@
+{
+  "id": "us",
+  "flagDifficulty": 1,
+  "hints": [
+    {
+      "id": "us-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "us-02",
+      "text": "Sua liga principal é formada por franquias e não tem rebaixamento.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "us-03",
+      "text": "Chegou às semifinais da primeira Copa do Mundo, em 1930.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "us-04",
+      "text": "Sediou a Copa do Mundo de 1994 e coorganiza a de 2026.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "us-05",
+      "text": "Neste país, o futebol é chamado de 'soccer'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "us-06",
+      "text": "A MLS é a sua principal liga, onde jogam clubes como LA Galaxy e Inter Miami.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "us-07",
+      "text": "Landon Donovan, Clint Dempsey e Christian Pulisic defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "us-08",
+      "text": "Sua seleção feminina é a maior campeã da Copa do Mundo feminina, com 4 títulos.",
+      "category": "titulo",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "us-09",
+      "text": "Venceu a Inglaterra por 1 a 0 na Copa de 1950, uma das maiores zebras da história.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "us-10",
+      "text": "Pelé encerrou a carreira jogando pelo New York Cosmos, neste país.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

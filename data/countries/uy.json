@@ -1,0 +1,76 @@
+{
+  "id": "uy",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "uy-01",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "uy-02",
+      "text": "Tem uma das menores populações entre os países que já foram campeões mundiais.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "uy-03",
+      "text": "Venceu a primeira Copa do Mundo da história, em 1930, jogando em casa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "uy-04",
+      "text": "Conquistou duas Copas do Mundo: 1930 e 1950.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "uy-05",
+      "text": "Peñarol e Nacional, de Montevidéu, fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "uy-06",
+      "text": "O Estádio Centenário, construído para a Copa de 1930, fica neste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "uy-07",
+      "text": "Luis Suárez, Edinson Cavani e Diego Forlán defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "uy-08",
+      "text": "Diego Forlán foi eleito o melhor jogador da Copa de 2010, quando a seleção terminou em 4º lugar.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "uy-09",
+      "text": "Venceu o Brasil por 2 a 1 no Maracanã na final da Copa de 1950, o 'Maracanazo'.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "uy-10",
+      "text": "A seleção é apelidada de 'Celeste Olímpica' por ter vencido os torneios olímpicos de 1924 e 1928.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

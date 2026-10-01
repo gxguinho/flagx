@@ -1,0 +1,76 @@
+{
+  "id": "py",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "py-01",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "py-02",
+      "text": "A camisa da seleção tem listras verticais vermelhas e brancas.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "py-03",
+      "text": "Conquistou a Copa América em 1953 e 1979.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "py-04",
+      "text": "Sua melhor campanha em Copas foi chegar às quartas de final em 2010.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "py-05",
+      "text": "Olimpia e Cerro Porteño fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "py-06",
+      "text": "A sede da CONMEBOL fica neste país, na cidade de Luque.",
+      "category": "confederacao",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "py-07",
+      "text": "Roque Santa Cruz, maior artilheiro da seleção, e Óscar Cardozo foram atacantes desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "py-08",
+      "text": "O Olimpia é tricampeão da Libertadores: 1979, 1990 e 2002.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "py-09",
+      "text": "José Luis Chilavert, goleiro famoso por bater faltas e pênaltis, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "py-10",
+      "text": "O zagueiro Carlos Gamarra disputou a Copa de 1998 inteira sem cometer nenhuma falta.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

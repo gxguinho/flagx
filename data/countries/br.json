@@ -1,0 +1,76 @@
+{
+  "id": "br",
+  "flagDifficulty": 1,
+  "hints": [
+    {
+      "id": "br-01",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "br-02",
+      "text": "É um dos maiores exportadores de jogadores de futebol do mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "br-03",
+      "text": "É a única seleção que disputou todas as edições da Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "br-04",
+      "text": "Sua seleção masculina conquistou 5 Copas do Mundo: 1958, 1962, 1970, 1994 e 2002.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "br-05",
+      "text": "Seu maior clássico de seleções é contra a Argentina, o chamado 'Superclássico das Américas'.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "br-06",
+      "text": "O Maracanã, um dos estádios mais famosos do mundo, fica neste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "br-07",
+      "text": "Ronaldinho, Kaká e Cafu nasceram neste país.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "br-08",
+      "text": "Sofreu uma derrota histórica por 7 a 1 para a Alemanha numa semifinal de Copa disputada em casa, em 2014.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "br-09",
+      "text": "Pelé é o maior ídolo da história dessa seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "br-10",
+      "text": "Perdeu a final da Copa de 1950 para o Uruguai dentro do Maracanã, episódio conhecido como 'Maracanazo'.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "pe",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "pe-01",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pe-02",
+      "text": "A seleção é conhecida como 'La Blanquirroja'.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pe-03",
+      "text": "Conquistou a Copa América em 1939 e 1975.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pe-04",
+      "text": "Voltou a disputar uma Copa do Mundo em 2018, após 36 anos de ausência.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pe-05",
+      "text": "Alianza Lima e Universitario disputam o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pe-06",
+      "text": "A camisa da seleção é branca com uma faixa vermelha na diagonal.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pe-07",
+      "text": "Paolo Guerrero e Claudio Pizarro são ídolos recentes desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pe-08",
+      "text": "Em 1987, um avião caiu com quase todo o elenco do Alianza Lima, uma das maiores tragédias do futebol do país.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pe-09",
+      "text": "Teófilo Cubillas, o 'Nene', autor de 10 gols em Copas, é considerado o maior jogador da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pe-10",
+      "text": "Perdeu por 6 a 0 para a Argentina na Copa de 1978, resultado que classificou os donos da casa para a final.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

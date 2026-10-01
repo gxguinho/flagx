@@ -1,0 +1,76 @@
+{
+  "id": "bo",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "bo-01",
+      "text": "Sua seleção participou da primeira Copa do Mundo, em 1930.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bo-02",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bo-03",
+      "text": "Disputou apenas três Copas do Mundo: 1930, 1950 e 1994.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bo-04",
+      "text": "Conquistou a Copa América uma vez, em 1963, jogando em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bo-05",
+      "text": "A seleção joga em casa a mais de 3.600 metros de altitude.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bo-06",
+      "text": "Bolívar e The Strongest fazem o maior clássico do país, em La Paz.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bo-07",
+      "text": "Marco Etcheverry, o 'Diablo', foi o grande craque da seleção nos anos 1990.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bo-08",
+      "text": "Marcelo Moreno Martins, filho de pai brasileiro, é o maior artilheiro desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bo-09",
+      "text": "Venceu o Brasil por 2 a 0 em La Paz nas Eliminatórias de 1993, a primeira derrota do Brasil na história das Eliminatórias.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bo-10",
+      "text": "Erwin 'Platini' Sánchez marcou o único gol da seleção na história das Copas, contra a Espanha, em 1994.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

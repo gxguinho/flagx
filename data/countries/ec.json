@@ -1,0 +1,76 @@
+{
+  "id": "ec",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "ec-01",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ec-02",
+      "text": "A seleção manda seus jogos a quase 2.800 metros de altitude, o que dificulta a vida dos adversários.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ec-03",
+      "text": "Disputou sua primeira Copa do Mundo em 2002.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ec-04",
+      "text": "Fez o jogo de abertura da Copa de 2022 contra o Catar e venceu por 2 a 0.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ec-05",
+      "text": "A LDU Quito foi o primeiro clube do país a vencer a Libertadores, em 2008.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ec-06",
+      "text": "Barcelona e Emelec, de Guayaquil, fazem o 'Clásico del Astillero'.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ec-07",
+      "text": "Moisés Caicedo e Piero Hincapié são destaques recentes desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ec-08",
+      "text": "Antonio Valencia, ex-capitão do Manchester United, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ec-09",
+      "text": "Enner Valencia é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ec-10",
+      "text": "Alberto Spencer, maior artilheiro da história da Libertadores, nasceu neste país.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

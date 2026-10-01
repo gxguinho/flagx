@@ -1,0 +1,76 @@
+{
+  "id": "co",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "co-01",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "co-02",
+      "text": "A camisa principal da seleção é amarela.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "co-03",
+      "text": "Sua melhor campanha em Copas foi chegar às quartas de final em 2014.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "co-04",
+      "text": "Conquistou a Copa América em 2001, torneio que sediou.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "co-05",
+      "text": "O Atlético Nacional, de Medellín, foi o primeiro clube do país a vencer a Libertadores, em 1989.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "co-06",
+      "text": "Millonarios e Santa Fe disputam o clássico da capital, Bogotá.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "co-07",
+      "text": "James Rodríguez foi o artilheiro da Copa do Mundo de 2014, com 6 gols.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "co-08",
+      "text": "Radamel Falcao e Luis Díaz defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "co-09",
+      "text": "Carlos Valderrama, o 'Pibe', com sua famosa cabeleira loira, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "co-10",
+      "text": "O goleiro René Higuita fez a famosa defesa do 'escorpião' num amistoso contra a Inglaterra em Wembley, em 1995.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

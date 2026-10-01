@@ -1,0 +1,76 @@
+{
+  "id": "mx",
+  "flagDifficulty": 1,
+  "hints": [
+    {
+      "id": "mx-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mx-02",
+      "text": "É uma das seleções com mais participações em Copas do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mx-03",
+      "text": "Foi o primeiro país a sediar duas Copas do Mundo, em 1970 e 1986, e coorganiza também a de 2026.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mx-04",
+      "text": "É a seleção com mais títulos da Copa Ouro da CONCACAF.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mx-05",
+      "text": "O Estádio Azteca recebeu as finais das Copas de 1970 e 1986.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mx-06",
+      "text": "Seu grande clássico de seleções é contra os Estados Unidos.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mx-07",
+      "text": "Hugo Sánchez, famoso pelas bicicletas no Real Madrid, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mx-08",
+      "text": "Caiu nas oitavas de final em sete Copas seguidas, de 1994 a 2018, a chamada 'maldição do quinto jogo'.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mx-09",
+      "text": "Rafa Márquez, Javier 'Chicharito' Hernández e o goleiro Memo Ochoa são ídolos desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mx-10",
+      "text": "A seleção é conhecida como 'El Tri', e sua torcida popularizou a 'ola' na Copa de 1986.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "cr",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "cr-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cr-02",
+      "text": "Sua seleção já disputou seis Copas do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cr-03",
+      "text": "Na Copa de 2014, liderou um grupo com Uruguai, Itália e Inglaterra, três campeões mundiais.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cr-04",
+      "text": "Chegou às quartas de final da Copa de 2014, sua melhor campanha.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cr-05",
+      "text": "Saprissa e Alajuelense fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cr-06",
+      "text": "Torcedores e jogadores do país são chamados de 'ticos'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cr-07",
+      "text": "Bryan Ruiz e Joel Campbell foram destaques desta seleção na Copa de 2014.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cr-08",
+      "text": "Na estreia em Copas, em 1990, chegou às oitavas de final vencendo Escócia e Suécia.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cr-09",
+      "text": "Keylor Navas, goleiro tricampeão da Champions League pelo Real Madrid, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cr-10",
+      "text": "Perdeu nos pênaltis para a Holanda nas quartas de 2014, depois que o técnico adversário trocou o goleiro só para a disputa.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

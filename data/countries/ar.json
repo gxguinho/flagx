@@ -1,0 +1,76 @@
+{
+  "id": "ar",
+  "flagDifficulty": 1,
+  "hints": [
+    {
+      "id": "ar-01",
+      "text": "A seleção é filiada à CONMEBOL.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ar-02",
+      "text": "Sua seleção é uma das que mais vezes disputaram finais de Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ar-03",
+      "text": "Conquistou três Copas do Mundo: 1978, 1986 e 2022.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ar-04",
+      "text": "É uma das maiores campeãs da Copa América, com 16 títulos (até 2024).",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ar-05",
+      "text": "Boca Juniors e River Plate são clubes deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ar-06",
+      "text": "O clássico entre Boca Juniors e River Plate é conhecido como 'Superclásico'.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ar-07",
+      "text": "Diego Simeone, Gabriel Batistuta e Ángel Di María defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ar-08",
+      "text": "Venceu a final da Copa de 2022 contra a França nos pênaltis, após empate por 3 a 3.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ar-09",
+      "text": "Lionel Messi é o maior ídolo atual desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ar-10",
+      "text": "Diego Maradona marcou contra a Inglaterra, na Copa de 1986, o gol de mão chamado 'La mano de Dios'.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
