@@ -46,7 +46,6 @@ export function GuessInput({ members, excludedIds, onGuess, disabled }: GuessInp
                 onSelect={() => choose(member.id)}
                 className={cn(excluded && 'line-through')}
               >
-                <span className={cn('fi shrink-0 rounded-[2px]', `fi-${member.id}`)} aria-hidden />
                 {member.name}
               </CommandItem>
             )

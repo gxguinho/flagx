@@ -49,6 +49,14 @@ describe('GuessInput', () => {
     expect(onGuess).not.toHaveBeenCalled()
   })
 
+  it('não mostra bandeiras nas opções, para não entregar a resposta', async () => {
+    const { input, user } = setup()
+    await user.type(input, 'a')
+    for (const option of screen.getAllByRole('option')) {
+      expect(option.querySelector('.fi')).toBeNull()
+    }
+  })
+
   it('avisa quando nada é encontrado', async () => {
     const { input, user } = setup()
     await user.type(input, 'zzz')
