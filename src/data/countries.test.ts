@@ -21,3 +21,11 @@ describe('dados carregados', () => {
     expect(() => getMember('zz')).toThrow()
   })
 })
+
+describe('faixas do desafio diário', () => {
+  it('têm pelo menos 5 países cada, para a mesma bandeira não voltar a cada poucos dias', () => {
+    for (const d of [1, 2, 3, 4, 5]) {
+      expect(countries.filter((c) => c.flagDifficulty === d).length, `faixa ${d}`).toBeGreaterThanOrEqual(5)
+    }
+  })
+})
