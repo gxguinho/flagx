@@ -1,0 +1,76 @@
+{
+  "id": "bw",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "bw-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bw-02",
+      "text": "Conquistou a independência do Reino Unido em 1966.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bw-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bw-04",
+      "text": "Disputou a Copa Africana de Nações pela primeira vez em 2012.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bw-05",
+      "text": "A seleção é conhecida como 'Zebras'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bw-06",
+      "text": "O Township Rollers é um dos clubes mais vitoriosos do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bw-07",
+      "text": "É um dos maiores produtores de diamantes do mundo.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bw-08",
+      "text": "Grande parte do território é ocupada pelo deserto do Kalahari.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bw-09",
+      "text": "O Delta do Okavango, um dos maiores santuários de vida selvagem da África, fica neste país.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bw-10",
+      "text": "Sua capital é Gaborone, perto da fronteira com a África do Sul.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ci",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ci-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ci-02",
+      "text": "É o maior produtor de cacau do mundo.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ci-03",
+      "text": "Venceu a Copa Africana de Nações três vezes: 1992, 2015 e na edição disputada em 2024.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ci-04",
+      "text": "Disputou as Copas do Mundo de 2006, 2010 e 2014.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ci-05",
+      "text": "A seleção é conhecida como 'Elefantes'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ci-06",
+      "text": "A academia do ASEC Mimosas revelou Kolo Touré, Yaya Touré e Gervinho.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ci-07",
+      "text": "Yaya Touré, eleito quatro vezes melhor jogador da África, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ci-08",
+      "text": "Venceu a Copa Africana de 2024 em casa, depois de quase ser eliminada na fase de grupos.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ci-09",
+      "text": "Didier Drogba é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ci-10",
+      "text": "Em 2005, Drogba pediu publicamente, de joelhos no vestiário, o fim da guerra civil no país.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

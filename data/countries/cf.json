@@ -1,0 +1,76 @@
+{
+  "id": "cf",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "cf-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cf-02",
+      "text": "Foi colônia francesa até 1960.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cf-03",
+      "text": "Nunca disputou uma Copa do Mundo nem a fase final da Copa Africana de Nações.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cf-04",
+      "text": "A seleção é conhecida como 'Les Fauves' (As Feras).",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cf-05",
+      "text": "Tem o sango e o francês como línguas oficiais.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cf-06",
+      "text": "Tem um dos campeonatos nacionais menos estruturados do continente, e quase todos os jogadores da seleção atuam no exterior.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cf-07",
+      "text": "Geoffrey Kondogbia, que jogou pela França, passou a defender esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cf-08",
+      "text": "Teve um imperador, Jean-Bédel Bokassa, coroado em 1977.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cf-09",
+      "text": "Fica bem no meio do continente, sem saída para o mar.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cf-10",
+      "text": "Sua capital é Bangui, às margens do rio Ubangui.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

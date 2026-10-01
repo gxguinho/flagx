@@ -1,0 +1,76 @@
+{
+  "id": "gw",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "gw-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gw-02",
+      "text": "Tem o português como língua oficial.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gw-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gw-04",
+      "text": "Estreou na Copa Africana de Nações em 2017 e disputou as quatro edições seguintes até 2023.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gw-05",
+      "text": "A seleção é conhecida como 'Djurtus'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gw-06",
+      "text": "O crioulo de base portuguesa é a língua mais falada no país.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gw-07",
+      "text": "Ansu Fati, revelado pelo Barcelona e convocado pela Espanha, nasceu neste país.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gw-08",
+      "text": "Conquistou a independência de Portugal nos anos 1970, após uma guerra liderada por Amílcar Cabral.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gw-09",
+      "text": "Éder, autor do gol do título de Portugal na Eurocopa de 2016, nasceu neste país.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gw-10",
+      "text": "O arquipélago dos Bijagós fica neste país.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "et",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "et-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "et-02",
+      "text": "Foi uma das fundadoras da CAF, em 1957.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "et-03",
+      "text": "Venceu a Copa Africana de Nações de 1962, em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "et-04",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "et-05",
+      "text": "A seleção é conhecida como 'Walyas', em referência a uma cabra-montesa local.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "et-06",
+      "text": "O Saint George é o clube mais vitorioso do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "et-07",
+      "text": "Haile Gebrselassie e Kenenisa Bekele, lendas do atletismo, nasceram neste país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "et-08",
+      "text": "Nunca foi colonizado, apesar da ocupação italiana entre 1936 e 1941.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "et-09",
+      "text": "Abebe Bikila, nascido aqui, venceu a maratona olímpica de 1960 correndo descalço.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "et-10",
+      "text": "Sua capital, Adis Abeba, é sede da União Africana.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

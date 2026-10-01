@@ -1,0 +1,76 @@
+{
+  "id": "er",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "er-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "er-02",
+      "text": "Tornou-se independente apenas em 1993.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "er-03",
+      "text": "Nunca disputou uma Copa do Mundo nem a fase final da Copa Africana de Nações.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "er-04",
+      "text": "Retirou-se das Eliminatórias da Copa de 2026 antes de entrar em campo.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "er-05",
+      "text": "Vários jogadores da seleção pediram asilo durante viagens para jogos no exterior.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "er-06",
+      "text": "O ciclismo é um dos esportes mais populares do país.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "er-07",
+      "text": "O ciclista Biniam Girmay, nascido aqui, conquistou a camisa verde do Tour de France de 2024.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "er-08",
+      "text": "Foi colônia italiana e depois foi anexada pela Etiópia.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "er-09",
+      "text": "Fica às margens do Mar Vermelho, entre o Sudão e a Etiópia.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "er-10",
+      "text": "Sua capital é Asmara, famosa pela arquitetura modernista italiana.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

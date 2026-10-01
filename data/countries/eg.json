@@ -1,0 +1,76 @@
+{
+  "id": "eg",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "eg-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "eg-02",
+      "text": "Foi uma das fundadoras da CAF, em 1957.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "eg-03",
+      "text": "Foi a primeira seleção africana a disputar uma Copa do Mundo, em 1934.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "eg-04",
+      "text": "Venceu três Copas Africanas seguidas: 2006, 2008 e 2010.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "eg-05",
+      "text": "Os torcedores chamam a seleção de 'Faraós'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "eg-06",
+      "text": "O clássico Al Ahly x Zamalek é um dos maiores da África.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "eg-07",
+      "text": "Até 2025, Mohamed Salah, astro do Liverpool, era o grande nome desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "eg-08",
+      "text": "Voltou à Copa em 2018, 28 anos depois de sua participação anterior.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "eg-09",
+      "text": "É a maior campeã da Copa Africana de Nações, com sete títulos.",
+      "category": "titulo",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "eg-10",
+      "text": "As pirâmides de Gizé ficam neste país.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

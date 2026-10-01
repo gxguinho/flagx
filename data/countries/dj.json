@@ -1,0 +1,76 @@
+{
+  "id": "dj",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "dj-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "dj-02",
+      "text": "Tem o francês e o árabe como línguas oficiais.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "dj-03",
+      "text": "Nunca disputou uma Copa do Mundo nem a fase final da Copa Africana de Nações.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "dj-04",
+      "text": "Costuma ocupar as últimas posições do ranking da FIFA.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "dj-05",
+      "text": "Seu campeonato nacional é pequeno, com a maioria dos clubes concentrada na capital.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "dj-06",
+      "text": "Tornou-se independente da França apenas em 1977.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "dj-07",
+      "text": "Abriga bases militares de vários países, como Estados Unidos, França e China.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "dj-08",
+      "text": "Fica no Chifre da África, junto ao estreito de Bab el-Mandeb.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "dj-09",
+      "text": "O Lago Assal, o ponto mais baixo da África, fica neste país.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "dj-10",
+      "text": "Tem o mesmo nome de sua capital.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

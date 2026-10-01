@@ -1,0 +1,76 @@
+{
+  "id": "cv",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "cv-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cv-02",
+      "text": "Tem o português como língua oficial.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cv-03",
+      "text": "Chegou às quartas de final em sua estreia na Copa Africana de Nações, em 2013.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cv-04",
+      "text": "Garantiu em 2025 a primeira classificação de sua história para uma Copa do Mundo, a de 2026.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cv-05",
+      "text": "A seleção é conhecida como 'Tubarões Azuis'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cv-06",
+      "text": "Muitos jogadores desta seleção nasceram na Holanda e em Portugal, filhos de imigrantes.",
+      "category": "jogador",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cv-07",
+      "text": "Nani, campeão da Eurocopa de 2016 por Portugal, nasceu neste país.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cv-08",
+      "text": "É um arquipélago no Atlântico, a oeste do Senegal.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cv-09",
+      "text": "É a terra de Cesária Évora, a 'diva dos pés descalços'.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cv-10",
+      "text": "Sua capital é Praia, na ilha de Santiago.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

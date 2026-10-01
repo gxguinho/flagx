@@ -1,0 +1,76 @@
+{
+  "id": "ga",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ga-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ga-02",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ga-03",
+      "text": "Co-sediou a Copa Africana de 2012 e sediou sozinho a de 2017.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ga-04",
+      "text": "Chegou às quartas de final da Copa Africana de 2012.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ga-05",
+      "text": "A seleção é conhecida como 'Panteras'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ga-06",
+      "text": "Na Copa Africana de 2017, em casa, caiu na fase de grupos com três empates.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ga-07",
+      "text": "Mario Lemina e Denis Bouanga defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ga-08",
+      "text": "Foi governado pela família Bongo por mais de 50 anos, até 2023.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ga-09",
+      "text": "Pierre-Emerick Aubameyang é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ga-10",
+      "text": "É cortado pela linha do Equador, e sua capital é Libreville.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

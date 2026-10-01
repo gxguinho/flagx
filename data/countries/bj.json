@@ -1,0 +1,76 @@
+{
+  "id": "bj",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "bj-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bj-02",
+      "text": "Tem o francês como língua oficial.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bj-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bj-04",
+      "text": "Na Copa Africana de 2019, eliminou o Marrocos nos pênaltis e chegou às quartas de final.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bj-05",
+      "text": "Por muitos anos, a seleção foi apelidada de 'Esquilos'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bj-06",
+      "text": "É considerado o berço do vodu, religião reconhecida oficialmente no país.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bj-07",
+      "text": "O atacante Steve Mounié, ex-Huddersfield, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bj-08",
+      "text": "Fica no Golfo da Guiné, entre o Togo e a Nigéria.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bj-09",
+      "text": "Stéphane Sessègnon, ex-PSG e Sunderland, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bj-10",
+      "text": "Até 1975, o país se chamava Daomé.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

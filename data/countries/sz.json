@@ -1,0 +1,76 @@
+{
+  "id": "sz",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "sz-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sz-02",
+      "text": "Tornou-se independente do Reino Unido em 1968.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sz-03",
+      "text": "Nunca disputou uma Copa do Mundo nem a fase final da Copa Africana de Nações.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sz-04",
+      "text": "Costuma ficar entre as seleções mais fracas da África Austral.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sz-05",
+      "text": "A seleção é conhecida como 'Sihlangu Semnikati'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sz-06",
+      "text": "A Umhlanga, a Dança dos Juncos, é uma das festas tradicionais mais famosas do país.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sz-07",
+      "text": "É uma das últimas monarquias absolutas do mundo.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sz-08",
+      "text": "Faz fronteira apenas com a África do Sul e Moçambique.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sz-09",
+      "text": "Em 2018, o rei mudou o nome oficial do país.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sz-10",
+      "text": "Sua capital administrativa é Mbabane.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

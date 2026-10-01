@@ -1,0 +1,76 @@
+{
+  "id": "td",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "td-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "td-02",
+      "text": "Tem o francês e o árabe como línguas oficiais.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "td-03",
+      "text": "Nunca disputou uma Copa do Mundo nem a fase final da Copa Africana de Nações.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "td-04",
+      "text": "Tornou-se independente da França em 1960.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "td-05",
+      "text": "A seleção é conhecida como 'Les Sao', nome de uma antiga civilização da região.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "td-06",
+      "text": "Costuma ocupar as últimas posições do ranking da FIFA entre as seleções africanas.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "td-07",
+      "text": "Japhet N'Doram, campeão francês pelo Nantes em 1995, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "td-08",
+      "text": "Sua bandeira é praticamente idêntica à da Romênia.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "td-09",
+      "text": "O lago que dá nome ao país encolheu drasticamente desde os anos 1960.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "td-10",
+      "text": "Sua capital é N'Djamena.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

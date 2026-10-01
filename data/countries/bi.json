@@ -1,0 +1,76 @@
+{
+  "id": "bi",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "bi-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bi-02",
+      "text": "Tornou-se independente da Bélgica em 1962.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bi-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bi-04",
+      "text": "Disputou a Copa Africana de Nações pela primeira vez em 2019.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bi-05",
+      "text": "A seleção é conhecida como 'Intamba Mu Rugamba'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bi-06",
+      "text": "Seus tambores reais, tocados em grandes grupos, são patrimônio imaterial da UNESCO.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bi-07",
+      "text": "Saido Berahino, ex-West Bromwich, defendeu esta seleção na Copa Africana de 2019.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bi-08",
+      "text": "Faz fronteira com Ruanda, Tanzânia e RD Congo.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bi-09",
+      "text": "Fica às margens do Lago Tanganica, e sua maior cidade é Bujumbura.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bi-10",
+      "text": "Desde 2019, sua capital política é Gitega.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

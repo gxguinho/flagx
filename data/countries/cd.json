@@ -1,0 +1,76 @@
+{
+  "id": "cd",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "cd-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cd-02",
+      "text": "É o país de língua francesa mais populoso do mundo.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cd-03",
+      "text": "Foi a primeira seleção da África Subsaariana a disputar uma Copa do Mundo, em 1974.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cd-04",
+      "text": "Venceu a Copa Africana de Nações em 1968 e 1974.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cd-05",
+      "text": "A seleção é apelidada de 'Leopardos'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cd-06",
+      "text": "O TP Mazembe, que eliminou o Internacional no Mundial de Clubes de 2010, é deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cd-07",
+      "text": "Chancel Mbemba e Cédric Bakambu defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cd-08",
+      "text": "Perdeu por 9 a 0 para a Iugoslávia na Copa de 1974.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cd-09",
+      "text": "Na Copa de 1974, um zagueiro saiu da barreira e chutou a bola para longe antes de uma falta do Brasil.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cd-10",
+      "text": "Disputou a Copa de 1974 com outro nome, adotado durante o governo Mobutu.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

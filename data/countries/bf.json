@@ -1,0 +1,76 @@
+{
+  "id": "bf",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "bf-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bf-02",
+      "text": "Tem o francês como língua oficial e não tem saída para o mar.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bf-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bf-04",
+      "text": "Foi vice-campeã da Copa Africana de Nações de 2013, perdendo a final para a Nigéria.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bf-05",
+      "text": "A seleção é conhecida como 'Garanhões' (Les Étalons).",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bf-06",
+      "text": "Sedia o FESPACO, um dos maiores festivais de cinema da África.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bf-07",
+      "text": "Bertrand Traoré e Edmond Tapsoba defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bf-08",
+      "text": "Foi governado por Thomas Sankara nos anos 1980.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bf-09",
+      "text": "Até 1984, o país se chamava Alto Volta.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bf-10",
+      "text": "Sua capital é Uagadugu.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

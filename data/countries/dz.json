@@ -1,0 +1,76 @@
+{
+  "id": "dz",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "dz-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "dz-02",
+      "text": "Muitos jogadores desta seleção nasceram e se formaram na França.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "dz-03",
+      "text": "Disputou quatro Copas do Mundo: 1982, 1986, 2010 e 2014.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "dz-04",
+      "text": "Venceu a Copa Africana de Nações duas vezes, em 1990 e 2019.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "dz-05",
+      "text": "Os torcedores chamam a seleção de 'Fennecs', as raposas-do-deserto.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "dz-06",
+      "text": "O ES Sétif, campeão da Liga dos Campeões da CAF em 1988 e 2014, é um clube deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "dz-07",
+      "text": "Riyad Mahrez, campeão inglês com o Leicester em 2016, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "dz-08",
+      "text": "Venceu a Alemanha Ocidental por 2 a 1 na estreia da Copa de 1982.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "dz-09",
+      "text": "Foi eliminada da Copa de 1982 pelo combinado Alemanha Ocidental x Áustria, o \"Jogo da Vergonha\" de Gijón.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "dz-10",
+      "text": "Rabah Madjer, autor de um gol de calcanhar pelo Porto na final europeia de 1987, é um ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

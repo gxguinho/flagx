@@ -1,0 +1,76 @@
+{
+  "id": "km",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "km-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "km-02",
+      "text": "Tem o árabe e o francês entre suas línguas oficiais.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "km-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "km-04",
+      "text": "Estreou na Copa Africana de Nações em 2022 e chegou às oitavas de final.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "km-05",
+      "text": "A seleção é apelidada de 'Celacantos', um peixe considerado fóssil vivo.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "km-06",
+      "text": "Boa parte dos jogadores desta seleção nasceu na França, muitos em Marselha.",
+      "category": "jogador",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "km-07",
+      "text": "Venceu Gana por 3 a 2 na Copa Africana de 2022.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "km-08",
+      "text": "É um arquipélago no Oceano Índico.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "km-09",
+      "text": "Nas oitavas da Copa Africana de 2022, enfrentou Camarões com um lateral no gol, por falta de goleiros.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "km-10",
+      "text": "Fica no Canal de Moçambique, entre Madagascar e o continente.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "gh",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "gh-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gh-02",
+      "text": "Foi uma das primeiras colônias africanas a se tornar independente, em 1957.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gh-03",
+      "text": "Venceu a Copa Africana de Nações quatro vezes: 1963, 1965, 1978 e 1982.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gh-04",
+      "text": "Disputou sua primeira Copa do Mundo em 2006.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gh-05",
+      "text": "A seleção é conhecida como 'Black Stars'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gh-06",
+      "text": "Asante Kotoko e Hearts of Oak fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gh-07",
+      "text": "Michael Essien e Asamoah Gyan defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gh-08",
+      "text": "Em sua estreia em Copas, em 2006, passou às oitavas vencendo República Tcheca e Estados Unidos.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gh-09",
+      "text": "Nas quartas da Copa de 2010, Luis Suárez tirou com a mão uma bola em cima da linha, e esta seleção caiu nos pênaltis para o Uruguai.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gh-10",
+      "text": "Abedi Pelé é um dos maiores ídolos desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

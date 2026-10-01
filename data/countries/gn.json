@@ -1,0 +1,76 @@
+{
+  "id": "gn",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "gn-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gn-02",
+      "text": "Foi a primeira colônia francesa da África Subsaariana a se tornar independente, em 1958.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gn-03",
+      "text": "Foi vice-campeã da Copa Africana de Nações em 1976.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gn-04",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gn-05",
+      "text": "A seleção é conhecida como 'Syli Nationale' (os Elefantes).",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gn-06",
+      "text": "O Hafia FC foi campeão africano de clubes em 1972, 1975 e 1977.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gn-07",
+      "text": "Naby Keïta e Serhou Guirassy defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gn-08",
+      "text": "Sua bandeira tem as mesmas cores da bandeira do Mali, em ordem invertida.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gn-09",
+      "text": "Os rios Níger, Senegal e Gâmbia nascem neste país, chamado de 'caixa d'água da África'.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gn-10",
+      "text": "Teve como primeiro presidente Ahmed Sékou Touré.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

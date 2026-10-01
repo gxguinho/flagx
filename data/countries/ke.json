@@ -1,0 +1,76 @@
+{
+  "id": "ke",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ke-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ke-02",
+      "text": "Tornou-se independente do Reino Unido em 1963.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ke-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ke-04",
+      "text": "Disputou a Copa Africana de 2019 após 15 anos de ausência.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ke-05",
+      "text": "A seleção é conhecida como 'Harambee Stars'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ke-06",
+      "text": "Gor Mahia e AFC Leopards fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ke-07",
+      "text": "Victor Wanyama, ex-Tottenham, foi capitão desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ke-08",
+      "text": "É uma potência mundial nas corridas de longa distância.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ke-09",
+      "text": "Eliud Kipchoge, primeiro a correr uma maratona em menos de duas horas, nasceu neste país.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ke-10",
+      "text": "Sua capital é Nairóbi.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

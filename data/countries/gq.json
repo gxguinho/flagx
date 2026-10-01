@@ -1,0 +1,76 @@
+{
+  "id": "gq",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "gq-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gq-02",
+      "text": "Tornou-se independente em 1968.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gq-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gq-04",
+      "text": "Sediou a Copa Africana de 2015 e chegou às semifinais.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gq-05",
+      "text": "A seleção é conhecida como 'Nzalang Nacional'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gq-06",
+      "text": "Já naturalizou vários jogadores nascidos no Brasil e na Espanha.",
+      "category": "jogador",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gq-07",
+      "text": "Na Copa Africana disputada em 2024, goleou a anfitriã Costa do Marfim por 4 a 0.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gq-08",
+      "text": "Emilio Nsue, que jogou nas seleções de base da Espanha, foi artilheiro da Copa Africana disputada em 2024.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gq-09",
+      "text": "É o único país africano que tem o espanhol como língua oficial.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gq-10",
+      "text": "Sua capital, Malabo, fica na ilha de Bioko.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

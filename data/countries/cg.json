@@ -1,0 +1,76 @@
+{
+  "id": "cg",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "cg-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cg-02",
+      "text": "Foi colônia francesa até 1960.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cg-03",
+      "text": "Venceu a Copa Africana de Nações de 1972.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cg-04",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cg-05",
+      "text": "A seleção é apelidada de 'Diabos Vermelhos'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cg-06",
+      "text": "O CARA, campeão africano de clubes em 1974, é um clube deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cg-07",
+      "text": "Nas quartas da Copa Africana de 2015, abriu 2 a 0 sobre o vizinho do outro lado do rio, mas perdeu por 4 a 2.",
+      "category": "rivalidade",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cg-08",
+      "text": "Faz fronteira com Gabão, Camarões, República Centro-Africana e Angola.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cg-09",
+      "text": "Sua capital fica de frente para Kinshasa, do outro lado do rio: são duas das capitais mais próximas do mundo.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cg-10",
+      "text": "Muita gente o mistura com o vizinho maior, de nome quase igual.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

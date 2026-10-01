@@ -1,0 +1,76 @@
+{
+  "id": "gm",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "gm-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gm-02",
+      "text": "Foi colônia britânica até 1965.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gm-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gm-04",
+      "text": "Estreou na Copa Africana de Nações em 2022 e chegou às quartas de final.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gm-05",
+      "text": "A seleção é conhecida como 'Escorpiões'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gm-06",
+      "text": "Venceu o Campeonato Africano Sub-17 em 2005 e 2009.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gm-07",
+      "text": "Musa Barrow, ex-Bologna, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gm-08",
+      "text": "É o menor país da África continental.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gm-09",
+      "text": "É quase totalmente cercado pelo Senegal, ao longo de um rio de mesmo nome.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gm-10",
+      "text": "Sua capital é Banjul.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
