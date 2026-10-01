@@ -1,56 +1,44 @@
-import { BarChart3, CalendarDays, CircleHelp, Infinity as InfinityIcon } from 'lucide-react'
 import { useState } from 'react'
 
-import { Flag } from '@/components/Flag'
-import { Button } from '@/components/ui/button'
-import { Card, CardContent } from '@/components/ui/card'
+import { HowToPlay } from '@/components/HowToPlay'
+import { dateKey, puzzleNumber } from '@/game/daily'
 import { DailyScreen } from '@/screens/DailyScreen'
+import { dailyStatus } from '@/screens/dailyStatus'
 import { FreeScreen } from '@/screens/FreeScreen'
+import { Home } from '@/screens/Home'
+import { StatsScreen } from '@/screens/StatsScreen'
 import { useSave } from '@/state/useSave'
 
 export type Screen = 'home' | 'daily' | 'free' | 'stats'
 
 function App() {
   const [screen, setScreen] = useState<Screen>('home')
+  const [helpOpen, setHelpOpen] = useState(false)
   const [save, updateSave] = useSave()
-  const goHome = () => setScreen('home')
+  // Data de referência do início; renovada ao voltar, para pegar a virada do dia
+  const [today, setToday] = useState(() => new Date())
+  const goHome = () => {
+    setToday(new Date())
+    setScreen('home')
+  }
+  const puzzle = puzzleNumber(dateKey(today))
 
   return (
     <main className="mx-auto flex min-h-svh w-full max-w-md flex-col px-4 py-6">
+      {screen === 'home' && (
+        <Home
+          puzzle={puzzle}
+          status={dailyStatus(save, puzzle)}
+          onDaily={() => setScreen('daily')}
+          onFree={() => setScreen('free')}
+          onStats={() => setScreen('stats')}
+          onHelp={() => setHelpOpen(true)}
+        />
+      )}
       {screen === 'daily' && <DailyScreen save={save} updateSave={updateSave} onBack={goHome} />}
       {screen === 'free' && <FreeScreen save={save} updateSave={updateSave} onBack={goHome} />}
-
-      {screen === 'home' && (
-        <div className="flex flex-1 flex-col items-center justify-center gap-8">
-          <header className="text-center">
-            <h1 className="text-5xl font-bold tracking-tight">
-              flag<span className="text-primary">x</span>
-            </h1>
-            <p className="mt-2 text-muted-foreground">Descubra o país através do futebol.</p>
-          </header>
-
-          <Card className="w-full max-w-64">
-            <CardContent>
-              <Flag code="br" />
-            </CardContent>
-          </Card>
-
-          <nav className="flex w-full flex-col gap-3">
-            <Button size="lg" onClick={() => setScreen('daily')}>
-              <CalendarDays /> Desafio diário
-            </Button>
-            <Button size="lg" variant="outline" onClick={() => setScreen('free')}>
-              <InfinityIcon /> Modo livre
-            </Button>
-            <Button size="lg" variant="outline" disabled>
-              <BarChart3 /> Estatísticas
-            </Button>
-            <Button size="lg" variant="ghost" disabled>
-              <CircleHelp /> Como jogar
-            </Button>
-          </nav>
-        </div>
-      )}
+      {screen === 'stats' && <StatsScreen save={save} onBack={goHome} />}
+      <HowToPlay open={helpOpen} onOpenChange={setHelpOpen} />
     </main>
   )
 }
