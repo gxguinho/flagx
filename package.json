@@ -8,6 +8,8 @@
     "build": "tsc -b && vite build",
     "test": "vitest run",
     "test:watch": "vitest",
+    "validate": "node scripts/validate.ts",
+    "review-report": "node scripts/review-report.ts",
     "lint": "oxlint",
     "preview": "vite preview"
   },
@@ -41,5 +43,8 @@
     "typescript": "~6.0.2",
     "vite": "^8.3.0",
     "vitest": "^5.0.3"
+  },
+  "engines": {
+    "node": ">=22.18"
   }
 }
