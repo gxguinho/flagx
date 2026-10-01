@@ -1,0 +1,76 @@
+{
+  "id": "aw",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "aw-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "aw-02",
+      "text": "É uma das seleções com menos habitantes da CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "aw-03",
+      "text": "Nunca se classificou para uma Copa do Mundo nem para uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "aw-04",
+      "text": "Seus atletas competem nas Olimpíadas com delegação própria desde 1988.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "aw-05",
+      "text": "O campeonato local se chama Division di Honor, nome em papiamento.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "aw-06",
+      "text": "O principal estádio é o Trinidad Stadium, na capital.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "aw-07",
+      "text": "Fazia parte das Antilhas Holandesas até 1986, quando ganhou status autônomo dentro do Reino dos Países Baixos.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "aw-08",
+      "text": "Fica no sul do Caribe, a cerca de 30 km da costa da Venezuela.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "aw-09",
+      "text": "Junto com Bonaire e Curaçao, forma as chamadas \"ilhas ABC\".",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "aw-10",
+      "text": "Sua capital é Oranjestad.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

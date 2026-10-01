@@ -1,0 +1,76 @@
+{
+  "id": "dm",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "dm-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "dm-02",
+      "text": "É uma das seleções com menos habitantes da CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "dm-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "dm-04",
+      "text": "Tornou-se independente do Reino Unido em 1978.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "dm-05",
+      "text": "Abriga uma das últimas comunidades do povo indígena kalinago no Caribe.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "dm-06",
+      "text": "Foi devastada pelo furacão Maria, em 2017.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "dm-07",
+      "text": "Thea LaFond ganhou o ouro no salto triplo em Paris 2024, a primeira medalha olímpica do país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "dm-08",
+      "text": "É conhecida como a \"ilha natureza\" do Caribe, com florestas densas e um lago fervente.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "dm-09",
+      "text": "Seu nome vem do dia da semana em que Colombo a avistou, em 1493: um domingo.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "dm-10",
+      "text": "Fica entre Guadalupe e Martinica, e a capital é Roseau.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "do",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "do-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "do-02",
+      "text": "O beisebol é o esporte mais popular, muito à frente do futebol.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "do-03",
+      "text": "Nunca disputou uma Copa do Mundo masculina adulta.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "do-04",
+      "text": "Sediou a Copa do Mundo Feminina Sub-17 de 2024.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "do-05",
+      "text": "Estreou no torneio olímpico de futebol masculino em Paris 2024.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "do-06",
+      "text": "É um dos países que mais fornecem jogadores para a MLB, a liga de beisebol dos Estados Unidos.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "do-07",
+      "text": "David Ortiz, Pedro Martínez e Albert Pujols, astros do beisebol, nasceram aqui.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "do-08",
+      "text": "É o berço do merengue e da bachata.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "do-09",
+      "text": "Ocupa a parte leste da ilha de Hispaniola, que divide com o Haiti.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "do-10",
+      "text": "Sua capital, Santo Domingo, fundada em 1496, é uma das cidades europeias mais antigas das Américas.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

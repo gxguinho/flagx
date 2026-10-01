@@ -1,0 +1,76 @@
+{
+  "id": "vc",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "vc-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vc-02",
+      "text": "O críquete é muito popular no país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vc-03",
+      "text": "Nunca disputou uma Copa do Mundo, e sua única Copa Ouro foi em 1996.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vc-04",
+      "text": "Tornou-se independente do Reino Unido em 1979.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vc-05",
+      "text": "Cenas do filme \"Piratas do Caribe\" foram gravadas em suas ilhas.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vc-06",
+      "text": "O povo garífuna surgiu aqui e foi deportado para a América Central no fim do século XVIII.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vc-07",
+      "text": "O vulcão La Soufrière entrou em erupção em 2021, obrigando a retirada de milhares de moradores.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vc-08",
+      "text": "Uma de suas ilhas, Mustique, é refúgio de celebridades e da realeza britânica.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vc-09",
+      "text": "É formado por uma ilha principal e um arquipélago de ilhas menores, como Bequia, e a capital é Kingstown.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "vc-10",
+      "text": "Fica no sul do Caribe, entre Santa Lúcia e Granada.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

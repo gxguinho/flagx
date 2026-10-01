@@ -1,0 +1,76 @@
+{
+  "id": "ag",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ag-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ag-02",
+      "text": "É um dos menores países independentes das Américas em área e população.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ag-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ag-04",
+      "text": "Nas Eliminatórias para a Copa de 2014, disputou um grupo com Estados Unidos, Jamaica e Guatemala.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ag-05",
+      "text": "Um clube do país, o Barracuda FC, chegou a disputar a USL Pro, liga profissional dos Estados Unidos.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ag-06",
+      "text": "O críquete é o esporte mais popular, e o país recebeu jogos da Copa do Mundo de Críquete de 2007.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ag-07",
+      "text": "Sir Viv Richards, um dos maiores rebatedores da história do críquete, nasceu aqui.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ag-08",
+      "text": "Fica nas Ilhas de Sotavento, no leste do Caribe, e inclui a pequena ilha desabitada de Redonda.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ag-09",
+      "text": "Gosta de dizer que tem 365 praias, \"uma para cada dia do ano\".",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ag-10",
+      "text": "É formado por duas ilhas principais, e a capital é St. John's.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

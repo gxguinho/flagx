@@ -1,0 +1,76 @@
+{
+  "id": "bm",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "bm-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bm-02",
+      "text": "É uma das seleções com menos habitantes da CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bm-03",
+      "text": "Disputou sua primeira Copa Ouro em 2019 e venceu a Nicarágua.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bm-04",
+      "text": "Tem um dos parlamentos mais antigos fora do Reino Unido, criado em 1620.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bm-05",
+      "text": "Sediou a America's Cup de vela em 2017.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bm-06",
+      "text": "Um jogo anual de críquete, o Cup Match, ganha dois dias de feriado.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bm-07",
+      "text": "Shaun Goater, ídolo do Manchester City, e Nahki Wells, ex-Burnley na Premier League, nasceram aqui.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bm-08",
+      "text": "Flora Duffy ganhou o ouro no triatlo em Tóquio 2020, o primeiro ouro olímpico do território.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bm-09",
+      "text": "Dá nome a um \"triângulo\" famoso por lendas de navios e aviões desaparecidos.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bm-10",
+      "text": "Fica isolado no Atlântico Norte, a cerca de 1.000 km da costa dos Estados Unidos, e a capital é Hamilton.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

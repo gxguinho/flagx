@@ -1,0 +1,76 @@
+{
+  "id": "ai",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ai-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ai-02",
+      "text": "É uma das seleções com menos habitantes entre todos os filiados à FIFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ai-03",
+      "text": "Nunca se classificou para uma Copa do Mundo nem para uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ai-04",
+      "text": "Costuma aparecer entre as últimas posições do ranking da FIFA.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ai-05",
+      "text": "É um território britânico ultramarino, e não um país independente.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ai-06",
+      "text": "As regatas de barcos a vela são consideradas o esporte mais tradicional do lugar.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ai-07",
+      "text": "Em 1967, a ilha se rebelou contra a união com São Cristóvão e Névis e acabou voltando ao controle direto britânico.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ai-08",
+      "text": "É uma ilha plana e estreita no norte das Pequenas Antilhas, perto de São Martinho.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ai-09",
+      "text": "Seu domínio de internet, \".ai\", virou febre entre empresas de inteligência artificial.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ai-10",
+      "text": "Seu brasão tem três golfinhos, e a capital é The Valley.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

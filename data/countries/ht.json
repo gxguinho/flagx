@@ -1,0 +1,76 @@
+{
+  "id": "ht",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ht-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ht-02",
+      "text": "O futebol é o esporte mais popular do país, com torcida muito apaixonada.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ht-03",
+      "text": "Disputou a Copa de 1974 e voltou a se classificar para a de 2026.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ht-04",
+      "text": "Foi campeão do Campeonato da CONCACAF de 1973, disputado em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ht-05",
+      "text": "Chegou às semifinais da Copa Ouro de 2019, depois de virar o jogo contra o Canadá nas quartas.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ht-06",
+      "text": "O Violette AC, da capital, foi campeão da Copa dos Campeões da CONCACAF em 1984.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ht-07",
+      "text": "Emmanuel Sanon marcou contra a Itália na Copa de 1974, encerrando uma longa série de jogos sem sofrer gols do goleiro Dino Zoff.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ht-08",
+      "text": "Garantiu a vaga na Copa de 2026 mandando seus jogos fora do país, por questões de segurança.",
+      "category": "curiosidade",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ht-09",
+      "text": "Tornou-se independente em 1804, após uma revolução de escravizados, o primeiro país independente da América Latina.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ht-10",
+      "text": "Ocupa o oeste da ilha de Hispaniola, e a capital é Porto Príncipe.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

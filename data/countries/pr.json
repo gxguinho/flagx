@@ -1,0 +1,76 @@
+{
+  "id": "pr",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "pr-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pr-02",
+      "text": "Beisebol, basquete e boxe são mais populares que o futebol na ilha.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pr-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pr-04",
+      "text": "É um território dos Estados Unidos, mas tem seleções próprias e vai às Olimpíadas com delegação própria.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pr-05",
+      "text": "Sua seleção de basquete venceu os Estados Unidos de LeBron James e Allen Iverson nas Olimpíadas de 2004.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pr-06",
+      "text": "Passou do domínio espanhol para o dos Estados Unidos em 1898.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pr-07",
+      "text": "Roberto Clemente, lenda do beisebol, e Félix \"Tito\" Trinidad, campeão mundial de boxe, nasceram aqui.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pr-08",
+      "text": "Jasmine Camacho-Quinn ganhou o ouro nos 100 m com barreiras em Tóquio 2020.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pr-09",
+      "text": "Ricky Martin, Daddy Yankee e Bad Bunny nasceram nesta ilha.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pr-10",
+      "text": "Fica entre a República Dominicana e as Ilhas Virgens, e a capital é San Juan.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

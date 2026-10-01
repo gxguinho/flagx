@@ -1,0 +1,76 @@
+{
+  "id": "vg",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "vg-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vg-02",
+      "text": "É uma das seleções com menos habitantes entre todos os filiados à FIFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vg-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vg-04",
+      "text": "É um território ultramarino do Reino Unido, e não um país independente.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vg-05",
+      "text": "O futebol local é amador, e a maioria dos jogadores tem outras profissões.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vg-06",
+      "text": "Apesar do vínculo com o Reino Unido, a moeda oficial é o dólar dos Estados Unidos.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vg-07",
+      "text": "É um grande centro financeiro, com centenas de milhares de empresas registradas.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vg-08",
+      "text": "Fica no Caribe oriental, a leste de Porto Rico.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vg-09",
+      "text": "Divide um arquipélago com um território dos Estados Unidos de nome quase igual.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "vg-10",
+      "text": "Suas ilhas incluem Tortola e Anegada, e a capital é Road Town.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

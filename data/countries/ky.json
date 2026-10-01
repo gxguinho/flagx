@@ -1,0 +1,76 @@
+{
+  "id": "ky",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ky-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ky-02",
+      "text": "É uma das seleções com menos habitantes da CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ky-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ky-04",
+      "text": "É um território britânico ultramarino, e não um país independente.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ky-05",
+      "text": "É um dos maiores centros financeiros offshore do mundo.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ky-06",
+      "text": "O mergulho é uma das grandes atrações, com paredões submarinos famosos.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ky-07",
+      "text": "Fica no Caribe ocidental, ao sul de Cuba e a noroeste da Jamaica.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ky-08",
+      "text": "Sua praia mais famosa é a Seven Mile Beach.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ky-09",
+      "text": "Colombo batizou estas ilhas de \"Las Tortugas\", por causa das muitas tartarugas que viu ali.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ky-10",
+      "text": "É formado por três ilhas, e a capital é George Town.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

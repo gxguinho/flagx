@@ -1,0 +1,76 @@
+{
+  "id": "cu",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "cu-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cu-02",
+      "text": "Beisebol e boxe são mais populares que o futebol no país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cu-03",
+      "text": "Disputou uma única Copa do Mundo, em 1938.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cu-04",
+      "text": "Na Copa de 1938, eliminou a Romênia e chegou às quartas de final.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cu-05",
+      "text": "Vários jogadores da seleção deixaram a delegação durante torneios disputados nos Estados Unidos, como a Copa Ouro.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cu-06",
+      "text": "Javier Sotomayor tem desde 1993 o recorde mundial do salto em altura, com 2,45 m.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cu-07",
+      "text": "Mijaín López ganhou cinco ouros olímpicos seguidos na luta greco-romana, de 2008 a 2024.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cu-08",
+      "text": "É o berço de ritmos como o son, o mambo e o cha-cha-chá.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cu-09",
+      "text": "Passou por uma revolução em 1959 que levou Fidel Castro ao poder.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cu-10",
+      "text": "É a maior ilha do Caribe, e a capital é Havana.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

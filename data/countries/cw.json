@@ -1,0 +1,76 @@
+{
+  "id": "cw",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "cw-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cw-02",
+      "text": "Tem menos de 200 mil habitantes.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cw-03",
+      "text": "Foi campeão da Copa do Caribe em 2017, vencendo a Jamaica na final.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cw-04",
+      "text": "Sua federação herdou o lugar da seleção das Antilhas Holandesas, dissolvidas em 2010.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cw-05",
+      "text": "Boa parte do elenco nasceu ou foi formada nos Países Baixos.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cw-06",
+      "text": "Chegou às quartas de final da Copa Ouro de 2019.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cw-07",
+      "text": "Leandro Bacuna e Cuco Martina, que jogaram na Premier League, defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cw-08",
+      "text": "Nas Eliminatórias para a Copa de 2026, foi comandado pelo veterano técnico holandês Dick Advocaat.",
+      "category": "curiosidade",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cw-09",
+      "text": "Classificou-se para a Copa de 2026 e se tornou o país menos populoso a chegar a uma Copa do Mundo.",
+      "category": "copa",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cw-10",
+      "text": "Dá nome a um licor azul de laranja, e a capital, Willemstad, é famosa pelas casas coloridas.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

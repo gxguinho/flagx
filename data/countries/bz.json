@@ -1,0 +1,76 @@
+{
+  "id": "bz",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "bz-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bz-02",
+      "text": "Sua seleção é uma das mais modestas da América Central.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bz-03",
+      "text": "Nunca disputou uma Copa do Mundo, e sua única participação na Copa Ouro foi em 2013.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bz-04",
+      "text": "Foi colônia britânica e só se tornou independente em 1981.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bz-05",
+      "text": "Parte da população é garífuna, povo de origem africana e indígena caribenha.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bz-06",
+      "text": "A Guatemala reivindica parte de seu território, disputa que foi levada à Corte Internacional de Justiça.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bz-07",
+      "text": "Tem várias ruínas maias, como Caracol e Xunantunich.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bz-08",
+      "text": "É o único país da América Central que tem o inglês como língua oficial.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bz-09",
+      "text": "Tem a maior barreira de corais do Hemisfério Ocidental, onde fica o famoso Great Blue Hole.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bz-10",
+      "text": "Faz fronteira com México e Guatemala, e a capital é Belmopan.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

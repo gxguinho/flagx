@@ -1,0 +1,76 @@
+{
+  "id": "kn",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "kn-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kn-02",
+      "text": "É uma das seleções com menos habitantes da CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kn-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kn-04",
+      "text": "Tornou-se independente do Reino Unido em 1983.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kn-05",
+      "text": "O críquete é muito popular, e o país recebeu jogos da Copa do Mundo de Críquete de 2007.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kn-06",
+      "text": "Seu carnaval é celebrado no fim do ano, perto do Natal.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kn-07",
+      "text": "Kim Collins foi campeão mundial dos 100 m em 2003.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kn-08",
+      "text": "É o menor país independente das Américas, em área e em população.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kn-09",
+      "text": "Abrigou, a partir de 1623, uma das primeiras colônias inglesas do Caribe.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "kn-10",
+      "text": "É formado por duas ilhas, e a capital é Basseterre.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

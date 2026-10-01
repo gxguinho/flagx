@@ -1,0 +1,76 @@
+{
+  "id": "gd",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "gd-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gd-02",
+      "text": "É uma das seleções com menos habitantes da CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gd-03",
+      "text": "Nunca disputou uma Copa do Mundo, mas já jogou a Copa Ouro, a primeira vez em 2009.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gd-04",
+      "text": "Foi vice-campeão da Copa do Caribe em 2008, perdendo a final para a Jamaica.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gd-05",
+      "text": "Jason Roberts, ex-atacante do Blackburn na Premier League, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gd-06",
+      "text": "Em 1983, após um golpe interno, foi invadida por tropas dos Estados Unidos.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gd-07",
+      "text": "Kirani James ganhou o ouro olímpico nos 400 m em Londres 2012, a primeira medalha olímpica do país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gd-08",
+      "text": "Foi o adversário de Barbados no famoso jogo de 1994 em que os barbadianos marcaram um gol contra de propósito.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gd-09",
+      "text": "É conhecida como \"a ilha das especiarias\", e a noz-moscada aparece até na bandeira.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gd-10",
+      "text": "Fica no sul das Pequenas Antilhas, ao norte de Trinidad, e a capital é St. George's.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

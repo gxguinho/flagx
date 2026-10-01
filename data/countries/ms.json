@@ -1,0 +1,76 @@
+{
+  "id": "ms",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ms-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ms-02",
+      "text": "É uma das menores seleções do mundo, com cerca de 5 mil habitantes.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ms-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ms-04",
+      "text": "É um território britânico ultramarino, e não um país independente.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ms-05",
+      "text": "O futebol local é amador, e parte da seleção é formada por jogadores nascidos na Inglaterra.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ms-06",
+      "text": "Os estúdios AIR, de George Martin, gravaram aqui discos de Paul McCartney, Dire Straits e The Police.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ms-07",
+      "text": "O atacante Lyle Taylor, que jogou no Nottingham Forest, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ms-08",
+      "text": "Por suas raízes irlandesas, é chamada de \"Ilha Esmeralda do Caribe\", e o Dia de São Patrício é feriado.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ms-09",
+      "text": "Em 2002, perdeu para o Butão por 4 a 0 em \"A Outra Final\", jogo entre as duas piores seleções do ranking da FIFA no dia da final da Copa.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ms-10",
+      "text": "Em 1995, a erupção do vulcão Soufrière Hills forçou o abandono de grande parte da ilha, incluindo a capital, Plymouth.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

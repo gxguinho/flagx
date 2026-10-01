@@ -1,0 +1,76 @@
+{
+  "id": "hn",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "hn-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "hn-02",
+      "text": "É uma das seleções mais tradicionais da América Central.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "hn-03",
+      "text": "Disputou as Copas do Mundo de 1982, 2010 e 2014.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "hn-04",
+      "text": "Foi campeão do Campeonato da CONCACAF de 1981.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "hn-05",
+      "text": "Olimpia e Motagua fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "hn-06",
+      "text": "Na Copa de 1982, empatou com a Espanha, dona da casa.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "hn-07",
+      "text": "David Suazo, da Inter de Milão, e Wilson Palacios, do Tottenham, defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "hn-08",
+      "text": "Na Copa de 2014, contra a França, sofreu o primeiro gol de Copa validado pela tecnologia da linha do gol.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "hn-09",
+      "text": "Na Copa América de 2001, como convidada, eliminou o Brasil nas quartas de final.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "hn-10",
+      "text": "Em 1969, jogos das Eliminatórias contra El Salvador coincidiram com o início de um conflito armado que ficou conhecido como \"Guerra do Futebol\".",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

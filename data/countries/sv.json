@@ -1,0 +1,76 @@
+{
+  "id": "sv",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "sv-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sv-02",
+      "text": "Sua seleção nunca venceu um jogo em Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sv-03",
+      "text": "Disputou as Copas do Mundo de 1970 e 1982.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sv-04",
+      "text": "Na Copa de 1970, perdeu os três jogos sem marcar nenhum gol.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sv-05",
+      "text": "Alianza, FAS e Águila são os clubes mais populares do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sv-06",
+      "text": "Seu maior estádio é o Cuscatlán, na capital.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sv-07",
+      "text": "Sofreu a maior goleada da história das Copas: 10 a 1 para a Hungria, em 1982.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sv-08",
+      "text": "Jorge \"Mágico\" González, ídolo do Cádiz, na Espanha, é o maior craque da história do país.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sv-09",
+      "text": "Em 1969, jogos das Eliminatórias contra Honduras coincidiram com o início de um conflito armado que ficou conhecido como \"Guerra do Futebol\".",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sv-10",
+      "text": "É o menor país da América Central continental e o único da região sem litoral no Caribe.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

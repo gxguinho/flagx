@@ -1,0 +1,76 @@
+{
+  "id": "vi",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "vi-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vi-02",
+      "text": "É uma das seleções com menos habitantes da CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vi-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vi-04",
+      "text": "É um território dos Estados Unidos, mas tem seleção de futebol própria.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vi-05",
+      "text": "Os Estados Unidos compraram estas ilhas da Dinamarca em 1917.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vi-06",
+      "text": "Compete nas Olimpíadas com delegação própria e ganhou uma prata na vela em 1988.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vi-07",
+      "text": "Tim Duncan, astro da NBA pelo San Antonio Spurs, nasceu aqui.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vi-08",
+      "text": "Fica no Caribe oriental, a leste de Porto Rico.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vi-09",
+      "text": "É o único lugar sob a bandeira dos Estados Unidos onde se dirige pela esquerda.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "vi-10",
+      "text": "Suas ilhas principais são St. Croix, St. Thomas e St. John, e a capital é Charlotte Amalie.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

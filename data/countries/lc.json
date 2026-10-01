@@ -1,0 +1,76 @@
+{
+  "id": "lc",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "lc-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lc-02",
+      "text": "O críquete é mais popular que o futebol no país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lc-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lc-04",
+      "text": "Tornou-se independente do Reino Unido em 1979.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lc-05",
+      "text": "Além do inglês oficial, boa parte da população fala um crioulo de base francesa.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lc-06",
+      "text": "Daren Sammy, capitão das Índias Ocidentais campeãs mundiais de T20 em 2012 e 2016, nasceu aqui.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lc-07",
+      "text": "Teve dois ganhadores do Nobel: Derek Walcott, de Literatura, e Arthur Lewis, de Economia.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lc-08",
+      "text": "Julien Alfred ganhou o ouro nos 100 m feminino em Paris 2024, a primeira medalha olímpica do país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lc-09",
+      "text": "Diz ser o único país do mundo batizado em homenagem a uma mulher.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "lc-10",
+      "text": "É famoso pelos Pitons, dois picos vulcânicos à beira-mar, e a capital é Castries.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

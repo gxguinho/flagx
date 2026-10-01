@@ -1,0 +1,76 @@
+{
+  "id": "bs",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "bs-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bs-02",
+      "text": "Sua seleção de futebol é uma das mais fracas da CONCACAF, e o esporte está longe de ser o mais popular do país.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bs-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bs-04",
+      "text": "Seu primeiro ouro olímpico veio na vela, em 1964.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bs-05",
+      "text": "Ganhou o ouro olímpico no revezamento 4x400 m masculino em Londres 2012, à frente dos Estados Unidos.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bs-06",
+      "text": "O Junkanoo, desfile de rua com fantasias e tambores, é a maior festa local.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bs-07",
+      "text": "Shaunae Miller-Uibo foi bicampeã olímpica dos 400 m, em 2016 e 2020.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bs-08",
+      "text": "É um arquipélago com centenas de ilhas no Atlântico, a sudeste da Flórida.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bs-09",
+      "text": "Foi aqui que Cristóvão Colombo desembarcou em 1492, em sua primeira chegada às Américas.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bs-10",
+      "text": "Sua capital é Nassau, na ilha de New Providence.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

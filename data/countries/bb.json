@@ -1,0 +1,76 @@
+{
+  "id": "bb",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "bb-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bb-02",
+      "text": "O críquete é muito mais popular que o futebol no país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bb-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa Ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bb-04",
+      "text": "Abriga uma das destilarias de rum mais antigas do mundo, em atividade desde o início do século XVIII.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bb-05",
+      "text": "Seu estádio Kensington Oval recebeu as finais da Copa do Mundo de Críquete de 2007 e da Copa do Mundo T20 de 2024.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bb-06",
+      "text": "Tornou-se república em 2021, deixando de ter o monarca britânico como chefe de Estado.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bb-07",
+      "text": "Em 1994, contra Granada, marcou um gol contra de propósito para levar o jogo à prorrogação, em que um \"gol de ouro\" valia por dois.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bb-08",
+      "text": "Garfield Sobers, considerado um dos maiores jogadores de críquete de todos os tempos, nasceu aqui.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bb-09",
+      "text": "A cantora Rihanna nasceu neste país.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bb-10",
+      "text": "É a ilha mais a leste do Caribe, e a capital é Bridgetown.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

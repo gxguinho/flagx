@@ -1,0 +1,76 @@
+{
+  "id": "ni",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ni-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ni-02",
+      "text": "O beisebol é mais popular que o futebol no país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ni-03",
+      "text": "Nunca disputou uma Copa do Mundo, mas já jogou a Copa Ouro, a primeira vez em 2009.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ni-04",
+      "text": "Por muito tempo esteve entre as seleções mais fracas da América Central.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ni-05",
+      "text": "O Real Estelí é o clube mais vitorioso do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ni-06",
+      "text": "Dennis Martínez foi o primeiro jogador do país na MLB e lançou um jogo perfeito em 1991.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ni-07",
+      "text": "O boxeador Román \"Chocolatito\" González foi campeão mundial em quatro categorias de peso.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ni-08",
+      "text": "O poeta Rubén Darío, pai do modernismo literário em língua espanhola, nasceu aqui.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ni-09",
+      "text": "É o maior país da América Central em área e faz fronteira com Honduras e Costa Rica.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ni-10",
+      "text": "Abriga o maior lago da América Central, e a capital é Manágua.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

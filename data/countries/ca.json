@@ -1,0 +1,76 @@
+{
+  "id": "ca",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "ca-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ca-02",
+      "text": "O hóquei no gelo é mais popular que o futebol no país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ca-03",
+      "text": "Disputou a Copa do Mundo de 1986 e só voltou ao torneio em 2022.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ca-04",
+      "text": "Foi campeão da Copa Ouro em 2000.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ca-05",
+      "text": "Seus principais clubes disputam a MLS, a liga dos Estados Unidos.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ca-06",
+      "text": "A seleção feminina foi campeã olímpica de futebol em Tóquio 2020.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ca-07",
+      "text": "Alphonso Davies, campeão da Champions League com o Bayern de Munique em 2020, defende esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ca-08",
+      "text": "Na Copa de 2022, Alphonso Davies marcou o primeiro gol da história do país em Copas, contra a Croácia.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ca-09",
+      "text": "Christine Sinclair, maior artilheira da história do futebol de seleções (entre homens e mulheres), é daqui.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ca-10",
+      "text": "Foi uma das sedes da Copa do Mundo de 2026, junto com Estados Unidos e México.",
+      "category": "copa",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

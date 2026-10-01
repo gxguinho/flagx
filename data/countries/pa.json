@@ -1,0 +1,76 @@
+{
+  "id": "pa",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "pa-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pa-02",
+      "text": "Sua seleção cresceu muito no século XXI e virou presença frequente nas fases finais da CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pa-03",
+      "text": "Estreou em Copas em 2018 e voltou a se classificar para a de 2026.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pa-04",
+      "text": "Foi vice-campeão da Copa Ouro em 2005, 2013 e 2023.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pa-05",
+      "text": "O estádio nacional leva o nome de Rommel Fernández, ídolo do futebol local.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pa-06",
+      "text": "Mariano Rivera, um dos maiores arremessadores da história da MLB, nasceu aqui.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pa-07",
+      "text": "Román Torres marcou o gol contra a Costa Rica, em 2017, que deu ao país a vaga em sua primeira Copa.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pa-08",
+      "text": "Na Copa de 2018, perdeu para a Inglaterra por 6 a 1, mas comemorou seu primeiro gol em Copas, de Felipe Baloy.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pa-09",
+      "text": "Seu famoso canal liga o oceano Atlântico ao Pacífico.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pa-10",
+      "text": "Faz fronteira com Costa Rica e Colômbia.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

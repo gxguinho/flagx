@@ -1,0 +1,76 @@
+{
+  "id": "sr",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "sr-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sr-02",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sr-03",
+      "text": "Disputou a Copa Ouro pela primeira vez em 2021.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sr-04",
+      "text": "Tem enorme diversidade étnica, com descendentes de indianos, javaneses, africanos e chineses.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sr-05",
+      "text": "Desde 2019, um passaporte especial para atletas permite convocar jogadores nascidos nos Países Baixos.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sr-06",
+      "text": "Tornou-se independente dos Países Baixos em 1975.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sr-07",
+      "text": "Fica no norte da América do Sul, mas sua seleção joga na CONCACAF.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sr-08",
+      "text": "É um dos poucos países do mundo com o holandês como língua oficial.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sr-09",
+      "text": "Clarence Seedorf e Edgar Davids nasceram aqui, mas defenderam a Holanda.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sr-10",
+      "text": "Faz fronteira com a Guiana, a Guiana Francesa e o Brasil, e a capital é Paramaribo.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

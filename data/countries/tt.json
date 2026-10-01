@@ -1,0 +1,76 @@
+{
+  "id": "tt",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "tt-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tt-02",
+      "text": "Já disputou uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tt-03",
+      "text": "Sua única Copa do Mundo foi a de 2006, na Alemanha.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tt-04",
+      "text": "É o maior campeão da Copa do Caribe, com oito títulos.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tt-05",
+      "text": "Estreou em Copas com um empate sem gols contra a Suécia, em 2006.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tt-06",
+      "text": "A seleção é apelidada de \"Soca Warriors\".",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tt-07",
+      "text": "Dwight Yorke, campeão europeu com o Manchester United em 1999, é o jogador mais famoso da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tt-08",
+      "text": "Em 2017, venceu os Estados Unidos por 2 a 1 e tirou os americanos da Copa de 2018.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tt-09",
+      "text": "É o berço do calipso, do soca e do steelpan, e tem um dos carnavais mais famosos do Caribe.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tt-10",
+      "text": "É formado por duas ilhas principais, perto da costa da Venezuela, e a capital é Port of Spain.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

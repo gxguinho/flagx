@@ -1,0 +1,76 @@
+{
+  "id": "gt",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "gt-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gt-02",
+      "text": "Nunca se classificou para uma Copa do Mundo masculina.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gt-03",
+      "text": "Foi campeão do Campeonato da CONCACAF de 1967.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gt-04",
+      "text": "Sediou a Copa do Mundo de Futsal de 2000.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gt-05",
+      "text": "Comunicaciones e Municipal fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gt-06",
+      "text": "Em 1996, uma superlotação no estádio nacional matou dezenas de torcedores antes de um jogo das Eliminatórias contra a Costa Rica.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gt-07",
+      "text": "Carlos Ruiz, o \"Pescadito\", que brilhou na MLS, é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gt-08",
+      "text": "É o país mais populoso da América Central.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gt-09",
+      "text": "Foi um dos centros da civilização maia, com as ruínas de Tikal.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gt-10",
+      "text": "Faz fronteira com México, Belize, Honduras e El Salvador.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "jm",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "jm-01",
+      "text": "A seleção é filiada à CONCACAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "jm-02",
+      "text": "O atletismo é uma paixão nacional e rivaliza com o futebol.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "jm-03",
+      "text": "Disputou uma única Copa do Mundo masculina, em 1998.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "jm-04",
+      "text": "A seleção feminina chegou às oitavas de final da Copa do Mundo de 2023.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "jm-05",
+      "text": "Foi vice-campeão da Copa Ouro em 2015 e 2017.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "jm-06",
+      "text": "A seleção é apelidada de \"Reggae Boyz\".",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "jm-07",
+      "text": "Raheem Sterling nasceu aqui, mas defendeu a Inglaterra; já Leon Bailey e Michail Antonio defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "jm-08",
+      "text": "Venceu o Japão por 2 a 1 na Copa de 1998, sua única vitória em Copas.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "jm-09",
+      "text": "Usain Bolt, recordista mundial dos 100 m e dos 200 m, nasceu neste país.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "jm-10",
+      "text": "É a terra de Bob Marley e o berço do reggae.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
