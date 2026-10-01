@@ -1,0 +1,76 @@
+{
+  "id": "nl",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "nl-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nl-02",
+      "text": "Sua seleção nunca ganhou uma Copa do Mundo, apesar de ser uma das mais tradicionais da Europa.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nl-03",
+      "text": "Foi vice-campeã mundial três vezes: 1974, 1978 e 2010.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nl-04",
+      "text": "Conquistou a Eurocopa de 1988.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nl-05",
+      "text": "Ajax, PSV e Feyenoord são clubes deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nl-06",
+      "text": "A seleção joga de laranja e é chamada de 'Oranje'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nl-07",
+      "text": "Marco van Basten, Dennis Bergkamp e Arjen Robben defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nl-08",
+      "text": "O estilo de jogo da seleção de 1974 ficou conhecido como 'Futebol Total'.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nl-09",
+      "text": "Johan Cruyff é o maior ídolo da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "nl-10",
+      "text": "Marco van Basten marcou um voleio quase sem ângulo na final da Euro 1988 contra a União Soviética.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

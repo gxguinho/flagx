@@ -1,0 +1,76 @@
+{
+  "id": "jp",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "jp-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "jp-02",
+      "text": "Disputou todas as Copas do Mundo desde 1998.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "jp-03",
+      "text": "É a maior campeã da Copa da Ásia, com 4 títulos.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "jp-04",
+      "text": "Coorganizou a Copa do Mundo de 2002 com a Coreia do Sul.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "jp-05",
+      "text": "A J.League, sua liga profissional, foi criada em 1993.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "jp-06",
+      "text": "Seus torcedores ficaram famosos por limpar as arquibancadas depois dos jogos da Copa.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "jp-07",
+      "text": "Hidetoshi Nakata, Keisuke Honda e Shinji Kagawa defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "jp-08",
+      "text": "Na Copa de 2022, venceu Alemanha e Espanha na fase de grupos.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "jp-09",
+      "text": "A seleção é conhecida como 'Samurai Blue'.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "jp-10",
+      "text": "Kazuyoshi Miura, o 'King Kazu', jogou no Santos e seguiu atuando profissionalmente depois dos 55 anos.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

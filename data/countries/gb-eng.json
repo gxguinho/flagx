@@ -1,0 +1,76 @@
+{
+  "id": "gb-eng",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "gb-eng-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-eng-02",
+      "text": "Sua liga principal é uma das mais ricas e assistidas do mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-eng-03",
+      "text": "Conquistou uma Copa do Mundo, em 1966, jogando em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-eng-04",
+      "text": "Sua federação, fundada em 1863, é a mais antiga do mundo.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-eng-05",
+      "text": "Manchester United, Liverpool e Arsenal são clubes deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-eng-06",
+      "text": "Tem uma rivalidade histórica com a Argentina, reforçada pela Guerra das Malvinas e pela Copa de 1986.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-eng-07",
+      "text": "Wayne Rooney, Steven Gerrard e David Beckham defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-eng-08",
+      "text": "Perdeu a final da Euro 2020 para a Itália nos pênaltis, em Wembley.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-eng-09",
+      "text": "Harry Kane é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gb-eng-10",
+      "text": "Bobby Moore levantou a taça como capitão da seleção campeã do mundo em Wembley, em 1966.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "kr",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "kr-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kr-02",
+      "text": "Disputou todas as Copas do Mundo desde 1986.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kr-03",
+      "text": "Foi 4ª colocada na Copa de 2002, a melhor campanha de uma seleção asiática.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kr-04",
+      "text": "Venceu as duas primeiras edições da Copa da Ásia, em 1956 e 1960.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kr-05",
+      "text": "Seu maior rival no continente é o Japão.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kr-06",
+      "text": "O Jeonbuk Hyundai Motors é um dos clubes mais vitoriosos do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kr-07",
+      "text": "Park Ji-sung, ex-Manchester United, é um ídolo desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kr-08",
+      "text": "Na Copa de 2002, que coorganizou, eliminou Itália e Espanha em jogos polêmicos.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kr-09",
+      "text": "Son Heung-min, artilheiro da Premier League pelo Tottenham, é o maior ídolo recente desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "kr-10",
+      "text": "Venceu a Alemanha, então campeã mundial, por 2 a 0 na Copa de 2018.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

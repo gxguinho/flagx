@@ -1,0 +1,76 @@
+{
+  "id": "sa",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "sa-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sa-02",
+      "text": "Sua liga passou a atrair grandes estrelas internacionais com salários altíssimos a partir de 2023.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sa-03",
+      "text": "Conquistou a Copa da Ásia três vezes: 1984, 1988 e 1996.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sa-04",
+      "text": "Vai sediar a Copa do Mundo de 2034.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sa-05",
+      "text": "Al-Hilal e Al-Nassr fazem o maior clássico do país, em Riad.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sa-06",
+      "text": "O Al-Hilal é o maior campeão da Liga dos Campeões da Ásia.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sa-07",
+      "text": "Cristiano Ronaldo e Neymar jogaram em clubes deste país.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sa-08",
+      "text": "Sofreu uma goleada de 8 a 0 para a Alemanha na Copa de 2002.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sa-09",
+      "text": "Venceu a Argentina de Messi por 2 a 1 na estreia da Copa de 2022.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sa-10",
+      "text": "Saeed Al-Owairan marcou um gol famoso contra a Bélgica, na Copa de 1994, depois de arrancar do próprio campo.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "sm",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "sm-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sm-02",
+      "text": "É um dos menores países filiados à UEFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sm-03",
+      "text": "Nunca se classificou para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sm-04",
+      "text": "Conquistou sua primeira vitória em jogo oficial apenas em 2024, contra Liechtenstein, pela Liga das Nações.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sm-05",
+      "text": "Costuma ocupar as últimas posições do ranking da FIFA.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sm-06",
+      "text": "Seu campeonato nacional é amador, e muitos jogadores têm outras profissões.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sm-07",
+      "text": "Sofreu uma das maiores goleadas da história das Eliminatórias europeias: 13 a 0 para a Alemanha, em 2006.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sm-08",
+      "text": "Seus adversários de nível mais parecido costumam ser Andorra, Liechtenstein e Gibraltar.",
+      "category": "rivalidade",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sm-09",
+      "text": "Davide Gualtieri marcou contra a Inglaterra aos 8 segundos de jogo, em 1993, um dos gols mais rápidos da história das Eliminatórias.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sm-10",
+      "text": "Andy Selva é o maior artilheiro da história desta seleção, com 8 gols.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

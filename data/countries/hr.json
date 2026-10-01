@@ -1,0 +1,76 @@
+{
+  "id": "hr",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "hr-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "hr-02",
+      "text": "Sua seleção só passou a disputar competições oficiais nos anos 1990.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "hr-03",
+      "text": "Foi vice-campeã mundial em 2018 e terminou em 3º lugar em 1998 e 2022.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "hr-04",
+      "text": "Foi vice-campeã da Liga das Nações da UEFA em 2023.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "hr-05",
+      "text": "Dinamo Zagreb e Hajduk Split fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "hr-06",
+      "text": "A camisa da seleção é quadriculada em vermelho e branco.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "hr-07",
+      "text": "Davor Šuker foi o artilheiro da Copa de 1998, com 6 gols.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "hr-08",
+      "text": "Ivan Rakitić, Ivan Perišić e Mario Mandžukić defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "hr-09",
+      "text": "Luka Modrić, eleito o melhor jogador da Copa de 2018, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "hr-10",
+      "text": "Eliminou o Brasil nos pênaltis nas quartas de final da Copa de 2022.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

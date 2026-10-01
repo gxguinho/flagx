@@ -1,0 +1,76 @@
+{
+  "id": "ma",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "ma-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ma-02",
+      "text": "É uma das seleções do seu continente com mais participações em Copas do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ma-03",
+      "text": "Foi a primeira seleção africana a liderar um grupo de Copa do Mundo, em 1986.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ma-04",
+      "text": "Conquistou a Copa Africana de Nações em 1976.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ma-05",
+      "text": "A seleção é conhecida como 'Leões do Atlas'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ma-06",
+      "text": "Raja e Wydad, de Casablanca, fazem um dos maiores clássicos da África.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ma-07",
+      "text": "Achraf Hakimi, Hakim Ziyech e o goleiro Yassine Bounou defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ma-08",
+      "text": "É uma das sedes da Copa do Mundo de 2030, junto com Espanha e Portugal.",
+      "category": "copa",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ma-09",
+      "text": "Na Copa de 2022, foi a primeira seleção africana a chegar a uma semifinal, eliminando Espanha e Portugal.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ma-10",
+      "text": "Youssef En-Nesyri marcou de cabeça o gol que eliminou Portugal nas quartas de final da Copa de 2022.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

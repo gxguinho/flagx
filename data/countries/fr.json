@@ -1,0 +1,76 @@
+{
+  "id": "fr",
+  "flagDifficulty": 1,
+  "hints": [
+    {
+      "id": "fr-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fr-02",
+      "text": "Foi um dos países fundadores da FIFA, em 1904.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fr-03",
+      "text": "Conquistou duas Copas do Mundo: 1998 e 2018.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fr-04",
+      "text": "Venceu a Eurocopa em 1984 e 2000.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fr-05",
+      "text": "A seleção é apelidada de 'Les Bleus'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fr-06",
+      "text": "Paris Saint-Germain e Olympique de Marseille fazem o maior clássico do país, 'Le Classique'.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fr-07",
+      "text": "Thierry Henry, Michel Platini e Antoine Griezmann defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fr-08",
+      "text": "Na final da Copa de 2006, seu capitão deu uma cabeçada em Marco Materazzi e foi expulso.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fr-09",
+      "text": "Zinedine Zidane marcou dois gols de cabeça na final da Copa de 1998, vencida por 3 a 0 contra o Brasil.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "fr-10",
+      "text": "Kylian Mbappé marcou três gols na final da Copa de 2022, mas a seleção perdeu nos pênaltis para a Argentina.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

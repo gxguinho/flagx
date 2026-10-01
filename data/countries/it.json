@@ -1,0 +1,76 @@
+{
+  "id": "it",
+  "flagDifficulty": 1,
+  "hints": [
+    {
+      "id": "it-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "it-02",
+      "text": "A camisa da seleção é azul, cor da antiga família real do país.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "it-03",
+      "text": "Conquistou quatro Copas do Mundo: 1934, 1938, 1982 e 2006.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "it-04",
+      "text": "Venceu a Eurocopa em 1968 e 2020.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "it-05",
+      "text": "Juventus, Milan e Inter são clubes deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "it-06",
+      "text": "A seleção é chamada de 'Azzurra'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "it-07",
+      "text": "Paolo Maldini, Andrea Pirlo e Francesco Totti defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "it-08",
+      "text": "Ficou fora das Copas do Mundo de 2018 e 2022.",
+      "category": "copa",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "it-09",
+      "text": "Roberto Baggio perdeu o pênalti decisivo na final da Copa de 1994 contra o Brasil.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "it-10",
+      "text": "O goleiro Gianluigi Buffon foi campeão do mundo por esta seleção em 2006.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

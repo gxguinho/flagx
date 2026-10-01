@@ -1,0 +1,76 @@
+{
+  "id": "be",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "be-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "be-02",
+      "text": "Foi um dos sete países fundadores da FIFA, em 1904.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "be-03",
+      "text": "Sua melhor campanha em Copas foi o 3º lugar, em 2018.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "be-04",
+      "text": "Ganhou o ouro olímpico no futebol em 1920, jogando em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "be-05",
+      "text": "A seleção é conhecida como 'Diabos Vermelhos'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "be-06",
+      "text": "Anderlecht e Club Brugge são os clubes mais vitoriosos do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "be-07",
+      "text": "Eden Hazard, Kevin De Bruyne e Thibaut Courtois formaram uma geração de ouro desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "be-08",
+      "text": "Eliminou o Brasil nas quartas de final da Copa de 2018, vencendo por 2 a 1.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "be-09",
+      "text": "Romelu Lukaku é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "be-10",
+      "text": "A 'Lei Bosman', que mudou as transferências no futebol, nasceu do processo de Jean-Marc Bosman, jogador deste país.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

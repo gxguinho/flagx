@@ -1,0 +1,76 @@
+{
+  "id": "gb-wls",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "gb-wls-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-wls-02",
+      "text": "O rugby disputa com o futebol o posto de esporte mais popular do país.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-wls-03",
+      "text": "Disputou apenas duas Copas do Mundo: 1958 e 2022.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-wls-04",
+      "text": "Chegou às semifinais da Euro 2016, em sua primeira participação na competição.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-wls-05",
+      "text": "Cardiff City e Swansea City são clubes do país que disputam o sistema de ligas inglês.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-wls-06",
+      "text": "Tem uma rivalidade histórica com a vizinha Inglaterra.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-wls-07",
+      "text": "Ryan Giggs, Ian Rush e Aaron Ramsey defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-wls-08",
+      "text": "Na Copa de 1958, perdeu nas quartas de final para o Brasil com um gol de Pelé, então com 17 anos.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-wls-09",
+      "text": "Gareth Bale, campeão da Champions League pelo Real Madrid, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gb-wls-10",
+      "text": "A seleção é conhecida como 'Os Dragões', por causa do dragão vermelho da bandeira.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

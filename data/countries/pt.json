@@ -1,0 +1,76 @@
+{
+  "id": "pt",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "pt-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pt-02",
+      "text": "Sua liga principal é dominada por três clubes chamados de 'os três grandes'.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pt-03",
+      "text": "Conquistou a Eurocopa de 2016, vencendo a França na final em Paris.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pt-04",
+      "text": "Venceu a Liga das Nações da UEFA em 2019 e 2025.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pt-05",
+      "text": "Benfica, Porto e Sporting são clubes deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pt-06",
+      "text": "A seleção é conhecida como 'Seleção das Quinas'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pt-07",
+      "text": "Eusébio, artilheiro da Copa de 1966, defendeu esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pt-08",
+      "text": "Luís Figo, Bruno Fernandes e Bernardo Silva defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pt-09",
+      "text": "Cristiano Ronaldo é o maior artilheiro da história desta seleção e do futebol de seleções.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pt-10",
+      "text": "Éder marcou o gol do título da Euro 2016 na prorrogação, contra a França.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

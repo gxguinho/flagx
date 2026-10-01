@@ -1,0 +1,76 @@
+{
+  "id": "de",
+  "flagDifficulty": 1,
+  "hints": [
+    {
+      "id": "de-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "de-02",
+      "text": "Sua liga principal é famosa pelos estádios lotados e pelos ingressos baratos.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "de-03",
+      "text": "Conquistou quatro Copas do Mundo: 1954, 1974, 1990 e 2014.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "de-04",
+      "text": "Venceu a Eurocopa três vezes: 1972, 1980 e 1996.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "de-05",
+      "text": "Bayern de Munique e Borussia Dortmund são clubes deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "de-06",
+      "text": "Bayern e Dortmund fazem o 'Der Klassiker'.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "de-07",
+      "text": "Lothar Matthäus, Miroslav Klose e Philipp Lahm defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "de-08",
+      "text": "Venceu o Brasil por 7 a 1 na semifinal da Copa de 2014, em Belo Horizonte.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "de-09",
+      "text": "Franz Beckenbauer, o 'Kaiser', foi campeão do mundo como jogador e como técnico desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "de-10",
+      "text": "A vitória sobre a Hungria na final da Copa de 1954 ficou conhecida como 'O Milagre de Berna'.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

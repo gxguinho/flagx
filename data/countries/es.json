@@ -1,0 +1,76 @@
+{
+  "id": "es",
+  "flagDifficulty": 1,
+  "hints": [
+    {
+      "id": "es-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "es-02",
+      "text": "Sua seleção é conhecida como 'La Roja'.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "es-03",
+      "text": "Conquistou a Copa do Mundo de 2010.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "es-04",
+      "text": "É a maior campeã da Eurocopa, com 4 títulos: 1964, 2008, 2012 e 2024.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "es-05",
+      "text": "Real Madrid e Barcelona fazem 'El Clásico', o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "es-06",
+      "text": "O Santiago Bernabéu e o Camp Nou são estádios deste país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "es-07",
+      "text": "Xavi, Iniesta e Sergio Ramos defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "es-08",
+      "text": "Venceu a Holanda na final da Copa de 2010 com gol de Iniesta na prorrogação.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "es-09",
+      "text": "Iker Casillas foi o capitão e goleiro da seleção campeã do mundo em 2010.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "es-10",
+      "text": "Seu estilo de toque de bola na era de ouro ficou conhecido como 'tiki-taka'.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

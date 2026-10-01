@@ -1,0 +1,76 @@
+{
+  "id": "cm",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "cm-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cm-02",
+      "text": "É uma das seleções africanas com mais participações em Copas do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cm-03",
+      "text": "Conquistou cinco Copas Africanas de Nações.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cm-04",
+      "text": "Ganhou o ouro olímpico no futebol em 2000, em Sydney.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cm-05",
+      "text": "A seleção é conhecida como 'Leões Indomáveis'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cm-06",
+      "text": "Canon Yaoundé e Tonnerre Yaoundé são clubes tradicionais do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cm-07",
+      "text": "Samuel Eto'o é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cm-08",
+      "text": "Venceu a Argentina, então campeã mundial, por 1 a 0 na abertura da Copa de 1990.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cm-09",
+      "text": "Roger Milla dançava junto à bandeirinha de escanteio ao comemorar seus gols na Copa de 1990.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cm-10",
+      "text": "Em 1990, tornou-se a primeira seleção africana a chegar às quartas de final de uma Copa.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

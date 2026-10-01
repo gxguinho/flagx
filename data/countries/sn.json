@@ -1,0 +1,76 @@
+{
+  "id": "sn",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "sn-01",
+      "text": "A seleção é filiada à CAF.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sn-02",
+      "text": "Muitos de seus jogadores atuam na liga francesa.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sn-03",
+      "text": "Conquistou sua primeira Copa Africana de Nações na edição de 2021, vencendo o Egito nos pênaltis.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sn-04",
+      "text": "Chegou às quartas de final da Copa de 2002, em sua primeira participação.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sn-05",
+      "text": "A seleção é conhecida como 'Leões de Teranga'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sn-06",
+      "text": "Na Copa de 2018, foi eliminada na fase de grupos pelo critério de fair play, por ter recebido mais cartões.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sn-07",
+      "text": "Kalidou Koulibaly e o goleiro Édouard Mendy defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sn-08",
+      "text": "El Hadji Diouf foi o grande nome da seleção na Copa de 2002.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sn-09",
+      "text": "Venceu a então campeã mundial França por 1 a 0 na estreia da Copa de 2002.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sn-10",
+      "text": "Sadio Mané, ex-Liverpool, é o maior ídolo recente desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

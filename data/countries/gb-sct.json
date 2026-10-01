@@ -1,0 +1,76 @@
+{
+  "id": "gb-sct",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "gb-sct-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-sct-02",
+      "text": "Sua liga é dominada há mais de um século por dois clubes da mesma cidade.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-sct-03",
+      "text": "Até 2022, nunca havia passado da fase de grupos de uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-sct-04",
+      "text": "Disputou contra a Inglaterra, em 1872, a primeira partida internacional de futebol da história.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-sct-05",
+      "text": "Celtic e Rangers, de Glasgow, fazem o clássico 'Old Firm'.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-sct-06",
+      "text": "O Celtic foi o primeiro clube britânico a vencer a Copa dos Campeões da Europa, em 1967.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-sct-07",
+      "text": "Kenny Dalglish e Denis Law são ídolos históricos desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-sct-08",
+      "text": "Venceu a então campeã mundial Inglaterra por 3 a 2 em Wembley, em 1967.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-sct-09",
+      "text": "Andy Robertson e Scott McTominay são destaques recentes desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gb-sct-10",
+      "text": "Os torcedores da seleção, conhecidos como 'Tartan Army', vão aos jogos de kilt.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
