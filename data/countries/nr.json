@@ -1,0 +1,76 @@
+{
+  "id": "nr",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "nr-01",
+      "text": "Este país não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nr-02",
+      "text": "Sua seleção de futebol quase não disputa partidas.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nr-03",
+      "text": "O futebol australiano (Australian rules) é o esporte mais popular do país.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nr-04",
+      "text": "Tornou-se independente em 1968.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nr-05",
+      "text": "Ficou rico com a mineração de fosfato, que hoje está quase esgotada.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nr-06",
+      "text": "Marcus Stephen, campeão de levantamento de peso nos Jogos da Commonwealth, depois virou presidente do país.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nr-07",
+      "text": "É o terceiro menor país do mundo em área, com cerca de 21 km².",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nr-08",
+      "text": "Foi ocupado pelo Japão durante a Segunda Guerra Mundial.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nr-09",
+      "text": "É uma única ilha de coral no Pacífico, sem capital oficial; o governo fica no distrito de Yaren.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "nr-10",
+      "text": "É a menor república do mundo.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "as",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "as-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "as-02",
+      "text": "Por muitos anos, ocupou o último lugar do ranking da FIFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "as-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "as-04",
+      "text": "Venceu seu primeiro jogo oficial apenas em 2011: 2 a 1 contra Tonga, nas Eliminatórias para a Copa de 2014.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "as-05",
+      "text": "Sua campanha de 2011 virou documentário em 2014 e filme de Taika Waititi em 2023, ambos chamados 'Next Goal Wins'.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "as-06",
+      "text": "Proporcionalmente à população, é um dos lugares que mais revelam jogadores para a NFL.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "as-07",
+      "text": "Jaiyah Saelua, desta seleção, foi uma das primeiras atletas abertamente transgênero a disputar Eliminatórias de Copa do Mundo.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "as-08",
+      "text": "O técnico Thomas Rongen comandou a seleção na campanha da primeira vitória oficial, em 2011.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "as-09",
+      "text": "Sofreu a maior goleada da história do futebol entre seleções: 31 a 0 para a Austrália, em 2001.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "as-10",
+      "text": "É um território dos Estados Unidos no Pacífico Sul, e sua capital é Pago Pago.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

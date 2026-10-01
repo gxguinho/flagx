@@ -1,0 +1,76 @@
+{
+  "id": "mc",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mc-01",
+      "text": "Este país não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mc-02",
+      "text": "Seu principal clube de futebol disputa o campeonato nacional de outro país.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mc-03",
+      "text": "Até 2025, seu principal clube tinha oito títulos do Campeonato Francês.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mc-04",
+      "text": "Seu principal clube perdeu a final da Liga dos Campeões de 2004 para o Porto.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mc-05",
+      "text": "O Estádio Louis II recebeu a Supercopa da UEFA todos os anos entre 1998 e 2012.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mc-06",
+      "text": "Kylian Mbappé começou a carreira profissional no principal clube deste país, campeão francês em 2017.",
+      "category": "jogador",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mc-07",
+      "text": "Arsène Wenger treinou o principal clube local entre 1987 e 1994, e Thierry Henry foi revelado lá.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mc-08",
+      "text": "O piloto de Fórmula 1 Charles Leclerc nasceu aqui e venceu o GP de casa em 2024.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mc-09",
+      "text": "Seu Grande Prêmio de Fórmula 1 é disputado nas ruas de Monte Carlo.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mc-10",
+      "text": "É governado há séculos pela família Grimaldi; a atriz Grace Kelly casou-se com o príncipe Rainier III em 1956.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

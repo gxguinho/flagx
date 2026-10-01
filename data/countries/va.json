@@ -1,0 +1,76 @@
+{
+  "id": "va",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "va-01",
+      "text": "Este país não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "va-02",
+      "text": "Tem um campeonato interno de futebol disputado por funcionários do próprio país.",
+      "category": "clube",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "va-03",
+      "text": "Tem uma seleção não oficial, que disputa raríssimos amistosos.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "va-04",
+      "text": "Tem menos de mil habitantes.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "va-05",
+      "text": "A Clericus Cup, torneio de futebol entre padres e seminaristas de vários países, é disputada em Roma desde 2007.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "va-06",
+      "text": "O latim é uma de suas línguas oficiais.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "va-07",
+      "text": "O papa Francisco, que governou este país de 2013 a 2025, era sócio e torcedor do San Lorenzo.",
+      "category": "curiosidade",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "va-08",
+      "text": "Sua segurança é feita desde 1506 pela Guarda Suíça.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "va-09",
+      "text": "É o menor país do mundo e fica dentro da cidade de Roma.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "va-10",
+      "text": "É a sede da Igreja Católica.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

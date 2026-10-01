@@ -1,0 +1,76 @@
+{
+  "id": "pf",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "pf-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pf-02",
+      "text": "Sua seleção é formada principalmente por jogadores amadores ou semiprofissionais.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pf-03",
+      "text": "Em 2012, tornou-se a primeira seleção além de Austrália e Nova Zelândia a vencer a Copa das Nações da OFC.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pf-04",
+      "text": "Nunca disputou uma Copa do Mundo, mas jogou a Copa das Confederações de 2013, no Brasil.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pf-05",
+      "text": "Na Copa das Confederações de 2013, perdeu de 10 a 0 para a Espanha.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pf-06",
+      "text": "Foi vice-campeão da Copa do Mundo de Beach Soccer em 2015 e 2017.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pf-07",
+      "text": "Marama Vahirua, que fez carreira no Nantes e no Nice, é um dos jogadores mais famosos nascidos aqui.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pf-08",
+      "text": "Na Copa das Confederações de 2013, Jonathan Tehau marcou o único gol da seleção, na derrota de 6 a 1 para a Nigéria.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pf-09",
+      "text": "A onda de Teahupo'o, nesta ilha, recebeu o surfe das Olimpíadas de Paris 2024.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pf-10",
+      "text": "É a maior ilha da Polinésia Francesa, onde fica a capital Papeete.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

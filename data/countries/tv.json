@@ -1,0 +1,76 @@
+{
+  "id": "tv",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "tv-01",
+      "text": "Este país não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tv-02",
+      "text": "Tem apenas um campo de futebol de tamanho oficial.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tv-03",
+      "text": "Tornou-se independente do Reino Unido em 1978.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tv-04",
+      "text": "Com cerca de 11 mil habitantes, é um dos países menos populosos do mundo.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tv-05",
+      "text": "A pista do aeroporto da capital é usada para futebol e outros esportes quando não há voos.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tv-06",
+      "text": "O holandês Foppe de Haan, ex-técnico do Heerenveen, comandou sua seleção nos Jogos do Pacífico de 2011.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tv-07",
+      "text": "Antes da independência, formava as Ilhas Ellice.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tv-08",
+      "text": "Seu ponto mais alto fica a poucos metros acima do mar, e o país é muito ameaçado pela elevação dos oceanos.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tv-09",
+      "text": "Ganha boa parte de sua receita vendendo o domínio de internet '.tv'.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tv-10",
+      "text": "É formado por nove pequenas ilhas e atóis, e sua capital é Funafuti.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "mh",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mh-01",
+      "text": "Este país não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mh-02",
+      "text": "Está em livre associação com os Estados Unidos desde 1986.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mh-03",
+      "text": "Até 2024, era um dos pouquíssimos países da ONU que nunca haviam disputado uma partida oficial de futebol entre seleções.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mh-04",
+      "text": "Depois da Segunda Guerra, foi administrado pelos Estados Unidos como território sob tutela da ONU.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mh-05",
+      "text": "Os Estados Unidos realizaram dezenas de testes nucleares em seus atóis entre 1946 e 1958.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mh-06",
+      "text": "Uma grande comunidade de emigrantes vive em Springdale, no Arkansas (EUA).",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mh-07",
+      "text": "O atol de Kwajalein abriga uma base de testes de mísseis dos Estados Unidos.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mh-08",
+      "text": "Navegadores tradicionais usavam mapas feitos de varetas para representar ondas e ilhas.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mh-09",
+      "text": "O biquíni recebeu esse nome por causa de um atol deste país, palco de testes nucleares.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mh-10",
+      "text": "Seu nome homenageia um capitão britânico do século XVIII, e a capital é Majuro.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

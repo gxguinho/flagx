@@ -1,0 +1,76 @@
+{
+  "id": "pg",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "pg-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pg-02",
+      "text": "É o país mais populoso entre os membros da OFC.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pg-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pg-04",
+      "text": "Sediou a Copa do Mundo Feminina Sub-20 de 2016.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pg-05",
+      "text": "O Hekari United foi campeão da Liga dos Campeões da OFC em 2010 e disputou o Mundial de Clubes.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pg-06",
+      "text": "O rugby league é considerado o esporte nacional e é mais popular que o futebol.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pg-07",
+      "text": "Em 2016, chegou à final da Copa das Nações da OFC em casa e perdeu para a Nova Zelândia nos pênaltis.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pg-08",
+      "text": "Tem mais de 800 idiomas, o maior número entre todos os países do mundo.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pg-09",
+      "text": "Divide uma grande ilha com a Indonésia, e sua capital é Port Moresby.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pg-10",
+      "text": "Tornou-se independente da Austrália em 1975.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

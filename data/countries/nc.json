@@ -1,0 +1,76 @@
+{
+  "id": "nc",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "nc-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nc-02",
+      "text": "Só se filiou à FIFA em 2004.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nc-03",
+      "text": "Foi vice-campeão da Copa das Nações da OFC em 2008 e em 2012.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nc-04",
+      "text": "Disputou a Copa do Mundo Sub-17 de 2017, na Índia.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nc-05",
+      "text": "O Hienghène Sport conquistou a Liga dos Campeões da OFC em 2019 e disputou o Mundial de Clubes.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nc-06",
+      "text": "Tem rivalidade com o Taiti, que o venceu por 1 a 0 na final da Copa das Nações da OFC de 2012.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nc-07",
+      "text": "Antoine Kombouaré, ex-zagueiro e ex-técnico do PSG, nasceu neste território.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nc-08",
+      "text": "Entre 2018 e 2021, realizou três referendos sobre independência, e o 'não' venceu nos três.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nc-09",
+      "text": "Christian Karembeu, campeão do mundo pela França em 1998, nasceu neste território francês.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "nc-10",
+      "text": "Fica no Pacífico Sul, a leste da Austrália, e sua capital é Nouméa.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

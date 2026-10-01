@@ -1,0 +1,76 @@
+{
+  "id": "gb",
+  "flagDifficulty": 1,
+  "hints": [
+    {
+      "id": "gb-01",
+      "text": "Este país não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-02",
+      "text": "É considerado o berço do futebol moderno.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-03",
+      "text": "Conquistou o ouro olímpico no futebol masculino em 1908 e 1912.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-04",
+      "text": "Sediou os Jogos Olímpicos de Verão três vezes.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-05",
+      "text": "Quatro federações deste país têm, juntas, metade dos votos da International Football Association Board, que define as regras do futebol.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-06",
+      "text": "Entre 1884 e 1984, suas quatro seleções de futebol disputaram entre si um torneio anual.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-07",
+      "text": "Nas Olimpíadas de 2012, montou uma seleção masculina de futebol com Ryan Giggs, eliminada nas quartas pela Coreia do Sul.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-08",
+      "text": "Andy Murray ganhou dois ouros olímpicos no tênis de simples, em 2012 e 2016, defendendo este país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-09",
+      "text": "Inglaterra, Escócia, País de Gales e Irlanda do Norte disputam Copas com seleções separadas, mas formam este país.",
+      "category": "curiosidade",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gb-10",
+      "text": "Sua bandeira combina as cruzes de São Jorge, Santo André e São Patrício.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

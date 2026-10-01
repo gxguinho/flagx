@@ -1,0 +1,76 @@
+{
+  "id": "fj",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "fj-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fj-02",
+      "text": "O rugby é o esporte mais popular do país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fj-03",
+      "text": "Nunca disputou uma Copa do Mundo com a seleção principal.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fj-04",
+      "text": "Na Copa do Mundo Sub-20 de 2015, venceu Honduras por 3 a 0.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fj-05",
+      "text": "O Ba FC, conhecido como 'Men in Black', é o clube mais vitorioso do campeonato nacional.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fj-06",
+      "text": "No futebol das Olimpíadas de 2016, levou 10 a 0 da Alemanha, mas marcou um gol contra o México.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fj-07",
+      "text": "O atacante Roy Krishna, maior ídolo desta seleção, brilhou no Wellington Phoenix e no futebol indiano.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fj-08",
+      "text": "O golfista Vijay Singh, ex-número 1 do mundo, nasceu neste país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fj-09",
+      "text": "Foi campeão olímpico de rugby de sete masculino em 2016 e 2020; o ouro do Rio foi a primeira medalha olímpica do país.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "fj-10",
+      "text": "É um arquipélago da Melanésia com mais de 300 ilhas, e sua capital é Suva.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

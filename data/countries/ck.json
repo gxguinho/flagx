@@ -1,0 +1,76 @@
+{
+  "id": "ck",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ck-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ck-02",
+      "text": "Com cerca de 15 mil habitantes, é um dos menores membros da FIFA em população.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ck-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ck-04",
+      "text": "Costuma disputar a fase preliminar das Eliminatórias da Oceania, contra seleções como Tonga e Samoa.",
+      "category": "rivalidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ck-05",
+      "text": "O Tupapa Maraerenga é um dos clubes mais vitoriosos do campeonato local.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ck-06",
+      "text": "O rugby é mais popular que o futebol, e a seleção de rugby league já disputou a Copa do Mundo da modalidade.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ck-07",
+      "text": "Entre suas moedas, há uma de 2 dólares em formato triangular.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ck-08",
+      "text": "Desde 1965, é autogovernado em livre associação com a Nova Zelândia, e seus habitantes têm cidadania neozelandesa.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ck-09",
+      "text": "Sua capital, Avarua, fica na ilha de Rarotonga.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ck-10",
+      "text": "Seu nome homenageia o navegador James Cook.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

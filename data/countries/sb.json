@@ -1,0 +1,76 @@
+{
+  "id": "sb",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "sb-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sb-02",
+      "text": "O futsal e o futebol de areia são muito populares no país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sb-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sb-04",
+      "text": "Nas Eliminatórias da Oceania para a Copa de 2006, terminou à frente da Nova Zelândia e chegou à final contra a Austrália.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sb-05",
+      "text": "Sua seleção de futsal disputou três Copas do Mundo seguidas da modalidade, de 2008 a 2016.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sb-06",
+      "text": "Perdeu para a Nova Zelândia por 5 a 0 na final das Eliminatórias da Oceania para a Copa de 2022.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sb-07",
+      "text": "Sua seleção de futebol de areia já disputou várias Copas do Mundo de Beach Soccer da FIFA.",
+      "category": "copa",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sb-08",
+      "text": "Foi palco da Batalha de Guadalcanal, na Segunda Guerra Mundial.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sb-09",
+      "text": "Sediou a Copa das Nações da OFC de 2012 e os Jogos do Pacífico de 2023, na capital Honiara.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sb-10",
+      "text": "É um arquipélago da Melanésia, a leste de Papua-Nova Guiné.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

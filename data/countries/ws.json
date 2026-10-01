@@ -1,0 +1,76 @@
+{
+  "id": "ws",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ws-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ws-02",
+      "text": "O futebol é bem menos popular que o rugby no país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ws-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ws-04",
+      "text": "Costuma disputar a fase preliminar das Eliminatórias da Oceania, contra seleções como Tonga e Ilhas Cook.",
+      "category": "rivalidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ws-05",
+      "text": "Sua seleção de rugby union chegou às quartas de final das Copas do Mundo de 1991 e 1995.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ws-06",
+      "text": "A tatuagem tradicional, chamada tatau, é uma marca forte da cultura local.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ws-07",
+      "text": "Foi vice-campeão da Copa do Mundo de rugby league de 2021, disputada em 2022, perdendo a final para a Austrália.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ws-08",
+      "text": "Tornou-se independente da Nova Zelândia em 1962.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ws-09",
+      "text": "No fim de 2011, pulou o dia 30 de dezembro ao mudar de lado em relação à Linha Internacional de Data.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ws-10",
+      "text": "Fica na Polinésia, e sua capital é Apia.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

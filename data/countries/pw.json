@@ -1,0 +1,76 @@
+{
+  "id": "pw",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "pw-01",
+      "text": "Este país não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pw-02",
+      "text": "O futebol é pouco popular, e a seleção joga raramente.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pw-03",
+      "text": "O beisebol é o esporte mais popular do país, herança da época de domínio japonês.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pw-04",
+      "text": "Os Estados Unidos são responsáveis por sua defesa.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pw-05",
+      "text": "Turistas precisam assinar um compromisso ambiental, carimbado no passaporte, ao entrar no país.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pw-06",
+      "text": "Foi o primeiro país a criar um santuário de tubarões, em 2009.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pw-07",
+      "text": "A Batalha de Peleliu, em 1944, foi travada em uma de suas ilhas.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pw-08",
+      "text": "O Lago das Medusas, cheio de águas-vivas que quase não queimam, é sua atração mais famosa.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pw-09",
+      "text": "Foi o último território sob tutela da ONU a se tornar independente, em 1994.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pw-10",
+      "text": "Fica a leste das Filipinas, e sua capital é Ngerulmud.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

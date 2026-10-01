@@ -1,0 +1,76 @@
+{
+  "id": "vu",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "vu-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vu-02",
+      "text": "O futebol é o esporte mais popular do país.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vu-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vu-04",
+      "text": "Disputou a Copa do Mundo Sub-20 de 2017, na Coreia do Sul.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vu-05",
+      "text": "Em 2024, chegou pela primeira vez à final da Copa das Nações da OFC, mas perdeu para a Nova Zelândia.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vu-06",
+      "text": "Disputava a Copa da Melanésia contra seleções como Fiji, Ilhas Salomão e Nova Caledônia.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vu-07",
+      "text": "O salto de cipó praticado na ilha de Pentecostes é considerado a origem do bungee jump.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vu-08",
+      "text": "Antes da independência, em 1980, era administrado em conjunto pelo Reino Unido e pela França.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vu-09",
+      "text": "Sua língua nacional é o bislama, um crioulo de base inglesa.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "vu-10",
+      "text": "Seu antigo nome era Novas Hébridas, e sua capital é Port Vila.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

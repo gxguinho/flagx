@@ -1,0 +1,76 @@
+{
+  "id": "ki",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ki-01",
+      "text": "Este país não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ki-02",
+      "text": "Sua seleção de futebol disputou pouquíssimos jogos, quase todos nos Jogos do Pacífico.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ki-03",
+      "text": "Ganhou sua primeira medalha de ouro nos Jogos da Commonwealth em 2014, no levantamento de peso.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ki-04",
+      "text": "Tornou-se independente do Reino Unido em 1979.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ki-05",
+      "text": "O halterofilista David Katoatau ficou famoso por dançar após suas provas na Rio 2016, chamando atenção para as mudanças climáticas.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ki-06",
+      "text": "A Batalha de Tarawa, em 1943, foi uma das mais sangrentas da Guerra do Pacífico.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ki-07",
+      "text": "É o único país situado nos quatro hemisférios.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ki-08",
+      "text": "Em 1995, mudou a Linha Internacional de Data para que todo o país ficasse no mesmo dia.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ki-09",
+      "text": "Suas ilhas mais a leste são as primeiras do mundo a ver o Ano-Novo, e a capital fica em Tarawa.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ki-10",
+      "text": "Antes da independência, fazia parte das Ilhas Gilbert, e seu nome é a pronúncia local de 'Gilberts'.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

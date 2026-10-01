@@ -1,0 +1,76 @@
+{
+  "id": "fm",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "fm-01",
+      "text": "Este país não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fm-02",
+      "text": "O futebol é pouco praticado no país, e a seleção quase nunca joga.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fm-03",
+      "text": "Tornou-se independente em 1986, em livre associação com os Estados Unidos.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fm-04",
+      "text": "O inglês é a língua oficial, mas a população fala vários idiomas locais.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fm-05",
+      "text": "Nos Jogos do Pacífico de 2015, sua seleção sub-23 levou 46 a 0 de Vanuatu.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fm-06",
+      "text": "A lagoa de Chuuk guarda dezenas de navios japoneses afundados na Segunda Guerra, famosos entre mergulhadores.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fm-07",
+      "text": "Na ilha de Yap, enormes discos de pedra, chamados rai, eram usados como dinheiro.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fm-08",
+      "text": "As ruínas de Nan Madol, cidade de pedra construída sobre recifes, são Patrimônio da Humanidade.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fm-09",
+      "text": "É formado por quatro estados (Yap, Chuuk, Pohnpei e Kosrae), e sua capital é Palikir.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "fm-10",
+      "text": "Até 1986, fazia parte do Território sob Tutela das Ilhas do Pacífico, administrado pelos Estados Unidos, junto com Palau e as Ilhas Marshall.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "to",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "to-01",
+      "text": "A seleção é filiada à OFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "to-02",
+      "text": "Costuma ocupar posições muito baixas no ranking da FIFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "to-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "to-04",
+      "text": "Sofreu 22 a 0 da Austrália nas Eliminatórias, em 2001, dois dias antes do recorde de 31 a 0 contra Samoa Americana.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "to-05",
+      "text": "Foi o adversário da primeira vitória oficial de Samoa Americana: 2 a 1, em 2011.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "to-06",
+      "text": "Na Copa do Mundo de rugby de 2011, venceu a França por 19 a 14.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "to-07",
+      "text": "Pita Taufatofua ficou famoso como porta-bandeira sem camisa e coberto de óleo na abertura da Rio 2016.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "to-08",
+      "text": "É o único país do Pacífico que nunca foi formalmente colonizado, e ainda é uma monarquia.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "to-09",
+      "text": "Em janeiro de 2022, a erupção de um vulcão submarino provocou um tsunami e deixou o país sem internet por semanas.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "to-10",
+      "text": "É um reino da Polinésia com cerca de 170 ilhas, e sua capital é Nuku'alofa.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
