@@ -1,0 +1,76 @@
+{
+  "id": "pl",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "pl-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pl-02",
+      "text": "Fez parte do bloco socialista durante a Guerra Fria.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pl-03",
+      "text": "Terminou em terceiro lugar nas Copas de 1974 e 1982.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pl-04",
+      "text": "Foi campeã olímpica de futebol em 1972.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pl-05",
+      "text": "Legia e Górnik Zabrze estão entre os clubes mais vitoriosos do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pl-06",
+      "text": "Sediou a Euro 2012 junto com a Ucrânia.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pl-07",
+      "text": "Eliminou a Inglaterra das Eliminatórias da Copa de 1974 com um empate em Wembley.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pl-08",
+      "text": "Grzegorz Lato foi o artilheiro da Copa de 1974.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pl-09",
+      "text": "Robert Lewandowski é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pl-10",
+      "text": "Sua capital é Varsóvia.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

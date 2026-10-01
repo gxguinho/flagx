@@ -1,0 +1,76 @@
+{
+  "id": "lv",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "lv-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lv-02",
+      "text": "O hóquei no gelo e o basquete costumam rivalizar com o futebol em popularidade neste país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lv-03",
+      "text": "Disputou uma única Eurocopa, a de 2004.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lv-04",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lv-05",
+      "text": "O Skonto FC venceu o campeonato nacional 14 vezes seguidas, de 1991 a 2004.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lv-06",
+      "text": "Disputa a Copa do Báltico contra Estônia e Lituânia.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lv-07",
+      "text": "Na Euro 2004, segurou um empate sem gols com a Alemanha.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lv-08",
+      "text": "Māris Verpakovskis marcou o gol da seleção na Euro 2004, na derrota por 2 a 1 para a República Tcheca.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lv-09",
+      "text": "Chegou à Euro 2004 eliminando a Turquia, terceira colocada na Copa de 2002, na repescagem.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "lv-10",
+      "text": "Sua capital é Riga, às margens do Mar Báltico.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

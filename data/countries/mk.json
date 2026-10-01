@@ -1,0 +1,76 @@
+{
+  "id": "mk",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "mk-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mk-02",
+      "text": "Fez parte da Iugoslávia.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mk-03",
+      "text": "Estreou em grandes torneios na Euro 2020, disputada em 2021.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mk-04",
+      "text": "Até 2022, nunca havia disputado uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mk-05",
+      "text": "O Vardar é o clube de futebol mais vitorioso do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mk-06",
+      "text": "O Vardar foi campeão da Liga dos Campeões de handebol em 2017 e 2019.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mk-07",
+      "text": "Eliminou a Itália na repescagem da Copa de 2022, vencendo por 1 a 0 em Palermo.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mk-08",
+      "text": "Eljif Elmas foi campeão italiano com o Napoli em 2023.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mk-09",
+      "text": "Goran Pandev, campeão da Liga dos Campeões com a Inter em 2010, é o maior artilheiro desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mk-10",
+      "text": "Mudou seu nome oficial em 2019, após um acordo com a Grécia.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

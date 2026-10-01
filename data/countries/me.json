@@ -1,0 +1,76 @@
+{
+  "id": "me",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "me-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "me-02",
+      "text": "Sua federação é uma das mais novas da UEFA, filiada em 2007.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "me-03",
+      "text": "Até 2024, nunca havia se classificado para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "me-04",
+      "text": "Tornou-se independente em 2006, após se separar da Sérvia.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "me-05",
+      "text": "Budućnost e Sutjeska estão entre os clubes mais tradicionais do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "me-06",
+      "text": "É uma potência no polo aquático e foi campeão europeu da modalidade em 2008.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "me-07",
+      "text": "Empatou sem gols com a Inglaterra em Wembley, em 2010, pelas Eliminatórias da Euro 2012.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "me-08",
+      "text": "Mirko Vučinić, ex-Roma e Juventus, é um dos maiores ídolos desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "me-09",
+      "text": "Stevan Jovetić, ex-Fiorentina e Manchester City, é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "me-10",
+      "text": "Fica no litoral do Mar Adriático, ao sul da Croácia, e sua capital é Podgorica.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

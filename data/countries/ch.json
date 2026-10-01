@@ -1,0 +1,76 @@
+{
+  "id": "ch",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "ch-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ch-02",
+      "text": "Muitos de seus jogadores são filhos de imigrantes, sobretudo dos Bálcãs.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ch-03",
+      "text": "Sediou a Copa do Mundo de 1954.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ch-04",
+      "text": "Na Copa de 2006, foi eliminada sem sofrer nenhum gol, nos pênaltis contra a Ucrânia.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ch-05",
+      "text": "As sedes da FIFA e da UEFA ficam neste país.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ch-06",
+      "text": "O Grasshoppers é o clube com mais títulos do campeonato nacional.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ch-07",
+      "text": "Eliminou a França, campeã do mundo, nos pênaltis nas oitavas da Euro 2020.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ch-08",
+      "text": "Xherdan Shaqiri e Granit Xhaka disputaram as Copas de 2014, 2018 e 2022 por esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ch-09",
+      "text": "Venceu a Espanha, que seria a campeã, por 1 a 0 na estreia da Copa de 2010.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ch-10",
+      "text": "Sua capital é Berna, e o país é famoso pelos Alpes, chocolates e relógios.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

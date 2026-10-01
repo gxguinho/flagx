@@ -1,0 +1,76 @@
+{
+  "id": "md",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "md-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "md-02",
+      "text": "Costuma ficar entre as seleções mais fracas da Europa.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "md-03",
+      "text": "Até 2024, nunca havia se classificado para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "md-04",
+      "text": "Fez parte da União Soviética até 1991.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "md-05",
+      "text": "O Sheriff Tiraspol domina o campeonato nacional desde os anos 2000.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "md-06",
+      "text": "O vinho é um dos produtos mais tradicionais do país.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "md-07",
+      "text": "Seu clube Sheriff venceu o Real Madrid por 2 a 1 no Santiago Bernabéu, pela Liga dos Campeões 2021-22.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "md-08",
+      "text": "Fica entre a Romênia e a Ucrânia, sem saída para o mar.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "md-09",
+      "text": "Fala-se praticamente o mesmo idioma da vizinha Romênia, e as bandeiras dos dois países são parecidas.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "md-10",
+      "text": "Sua capital é Chișinău.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

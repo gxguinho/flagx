@@ -1,0 +1,76 @@
+{
+  "id": "si",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "si-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "si-02",
+      "text": "Fez parte da Iugoslávia.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "si-03",
+      "text": "Até 2022, havia disputado duas Copas do Mundo: 2002 e 2010.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "si-04",
+      "text": "Disputou as Eurocopas de 2000 e 2024.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "si-05",
+      "text": "O Maribor já disputou a fase de grupos da Liga dos Campeões.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "si-06",
+      "text": "Na Euro 2024, empatou os três jogos da fase de grupos, incluindo um 0 a 0 com a Inglaterra.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "si-07",
+      "text": "O goleiro Jan Oblak, ídolo do Atlético de Madrid, defende esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "si-08",
+      "text": "Os ciclistas Tadej Pogačar e Primož Roglič nasceram neste país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "si-09",
+      "text": "Luka Dončić, astro da NBA, nasceu neste país.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "si-10",
+      "text": "Sua capital é Liubliana.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

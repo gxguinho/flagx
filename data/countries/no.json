@@ -1,0 +1,76 @@
+{
+  "id": "no",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "no-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "no-02",
+      "text": "É uma potência dos Jogos Olímpicos de Inverno.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "no-03",
+      "text": "Até 2022, havia disputado três Copas do Mundo: 1938, 1994 e 1998.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "no-04",
+      "text": "Sua seleção feminina foi campeã mundial em 1995 e campeã olímpica em 2000.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "no-05",
+      "text": "O Rosenborg dominou o campeonato nacional nos anos 1990 e 2000.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "no-06",
+      "text": "O Bodø/Glimt goleou a Roma por 6 a 1 na Conference League 2021-22.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "no-07",
+      "text": "Venceu o Brasil por 2 a 1 na fase de grupos da Copa de 1998.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "no-08",
+      "text": "Ole Gunnar Solskjær marcou o gol do título do Manchester United na final da Liga dos Campeões de 1999.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "no-09",
+      "text": "Erling Haaland e Martin Ødegaard são os grandes astros desta seleção na década de 2020.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "no-10",
+      "text": "Sua capital é Oslo, e o país é famoso pelos fiordes.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

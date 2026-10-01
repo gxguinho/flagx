@@ -1,0 +1,76 @@
+{
+  "id": "gb-nir",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "gb-nir-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-nir-02",
+      "text": "Sua federação é uma das mais antigas do mundo, fundada em 1880.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gb-nir-03",
+      "text": "Até 2022, havia disputado três Copas do Mundo: 1958, 1982 e 1986.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-nir-04",
+      "text": "Disputou sua primeira Eurocopa em 2016.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gb-nir-05",
+      "text": "O Linfield é o clube mais vitorioso do campeonato local.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-nir-06",
+      "text": "Na Euro 2016, o canto 'Will Grigg's on Fire' virou o hino da torcida.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gb-nir-07",
+      "text": "Venceu a Espanha, dona da casa, por 1 a 0 na Copa de 1982, com gol de Gerry Armstrong.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-nir-08",
+      "text": "Norman Whiteside jogou a Copa de 1982 com 17 anos, tirando de Pelé o recorde de jogador mais jovem em Copas.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gb-nir-09",
+      "text": "George Best, lenda do Manchester United, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gb-nir-10",
+      "text": "Faz parte do Reino Unido, e sua capital é Belfast.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

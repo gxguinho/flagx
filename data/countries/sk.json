@@ -1,0 +1,76 @@
+{
+  "id": "sk",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "sk-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sk-02",
+      "text": "O hóquei no gelo é um dos esportes mais populares do país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sk-03",
+      "text": "Até 2022, havia disputado uma única Copa do Mundo, a de 2010.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sk-04",
+      "text": "Disputou as Eurocopas de 2016, 2020 e 2024.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sk-05",
+      "text": "O Slovan, clube da capital, venceu a Recopa Europeia em 1969.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sk-06",
+      "text": "Formou um único país com a República Tcheca até 1993.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sk-07",
+      "text": "Eliminou a Itália, então campeã mundial, na Copa de 2010, vencendo por 3 a 2.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sk-08",
+      "text": "O zagueiro Martin Škrtel jogou por anos no Liverpool.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sk-09",
+      "text": "Marek Hamšík, ídolo do Napoli, é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sk-10",
+      "text": "Sua capital é Bratislava, às margens do Rio Danúbio.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tr",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "tr-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tr-02",
+      "text": "Seus clássicos de clubes têm algumas das torcidas mais barulhentas da Europa.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tr-03",
+      "text": "Terminou em terceiro lugar na Copa de 2002.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tr-04",
+      "text": "Chegou à semifinal da Euro 2008.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tr-05",
+      "text": "Galatasaray e Fenerbahçe fazem um dos maiores clássicos do mundo.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tr-06",
+      "text": "O Galatasaray venceu a Copa da UEFA em 2000.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tr-07",
+      "text": "Na Euro 2008, venceu três jogos seguidos com viradas ou gols nos minutos finais.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tr-08",
+      "text": "Até 2025, Arda Güler, meia do Real Madrid, era uma das estrelas desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tr-09",
+      "text": "Hakan Şükür, maior artilheiro desta seleção, marcou o gol mais rápido da história das Copas, aos 11 segundos, em 2002.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tr-10",
+      "text": "Tem território na Europa e na Ásia, e sua maior cidade é Istambul.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

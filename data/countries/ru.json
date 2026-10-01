@@ -1,0 +1,76 @@
+{
+  "id": "ru",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "ru-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ru-02",
+      "text": "É uma potência histórica no xadrez.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ru-03",
+      "text": "Como União Soviética, venceu a primeira Eurocopa, em 1960.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ru-04",
+      "text": "Chegou à semifinal da Euro 2008.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ru-05",
+      "text": "CSKA e Zenit venceram a Copa da UEFA, em 2005 e 2008.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ru-06",
+      "text": "Spartak e CSKA fazem um dos clássicos mais tradicionais da capital.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ru-07",
+      "text": "Sediou a Copa de 2018 e chegou às quartas de final, eliminando a Espanha nos pênaltis.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ru-08",
+      "text": "Em 2022, foi suspensa das competições da FIFA e da UEFA.",
+      "category": "confederacao",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ru-09",
+      "text": "Lev Yashin, único goleiro eleito Bola de Ouro, defendeu a União Soviética, antecessora desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ru-10",
+      "text": "Sua capital é Moscou.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

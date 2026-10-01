@@ -1,0 +1,76 @@
+{
+  "id": "se",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "se-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "se-02",
+      "text": "Por causa do inverno rigoroso, seu campeonato nacional é disputado da primavera ao outono.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "se-03",
+      "text": "Já sediou uma Copa do Mundo e uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "se-04",
+      "text": "Ganhou o ouro olímpico no futebol em 1948.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "se-05",
+      "text": "O IFK Göteborg venceu a Copa da UEFA em 1982 e 1987.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "se-06",
+      "text": "Terminou em terceiro lugar na Copa de 1994, nos Estados Unidos.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "se-07",
+      "text": "Perdeu em casa a final da Copa de 1958 para o Brasil, por 5 a 2.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "se-08",
+      "text": "Henrik Larsson, ídolo do Celtic, ajudou o Barcelona a ganhar a Liga dos Campeões de 2006.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "se-09",
+      "text": "Zlatan Ibrahimović é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "se-10",
+      "text": "Sua capital é Estocolmo.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

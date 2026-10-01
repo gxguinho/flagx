@@ -1,0 +1,76 @@
+{
+  "id": "rs",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "rs-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "rs-02",
+      "text": "É considerada a herdeira esportiva da seleção da Iugoslávia.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "rs-03",
+      "text": "Como Iugoslávia, chegou às semifinais das Copas de 1930 e 1962.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "rs-04",
+      "text": "Foi campeã mundial sub-20 em 2015, vencendo o Brasil na final.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "rs-05",
+      "text": "Estrela Vermelha e Partizan, da mesma cidade, fazem o clássico chamado 'Eterno Derby'.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "rs-06",
+      "text": "O Estrela Vermelha foi campeão da Copa dos Campeões da Europa em 1991.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "rs-07",
+      "text": "Dejan Stanković, Nemanja Vidić e Branislav Ivanović defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "rs-08",
+      "text": "Enfrentou a Suíça na fase de grupos das Copas de 2018 e de 2022.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "rs-09",
+      "text": "Aleksandar Mitrović é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "rs-10",
+      "text": "Sua capital é Belgrado.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

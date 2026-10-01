@@ -1,0 +1,76 @@
+{
+  "id": "ua",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "ua-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ua-02",
+      "text": "Fez parte da União Soviética até 1991.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ua-03",
+      "text": "Até 2022, havia disputado uma única Copa do Mundo, a de 2006, e chegou às quartas de final.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ua-04",
+      "text": "Sediou a Euro 2012 junto com a Polônia.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ua-05",
+      "text": "O Shakhtar Donetsk venceu a Copa da UEFA em 2009 com vários brasileiros no elenco.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ua-06",
+      "text": "Dínamo de Kiev e Shakhtar Donetsk fazem o principal clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ua-07",
+      "text": "Na Copa de 2006, eliminou a Suíça nos pênaltis nas oitavas de final.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ua-08",
+      "text": "Oleksandr Zinchenko jogou no Manchester City e no Arsenal.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ua-09",
+      "text": "Andriy Shevchenko, Bola de Ouro de 2004, é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ua-10",
+      "text": "Sua capital é Kiev.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

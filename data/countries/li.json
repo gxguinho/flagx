@@ -1,0 +1,76 @@
+{
+  "id": "li",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "li-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "li-02",
+      "text": "É um dos menores países filiados à UEFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "li-03",
+      "text": "Até 2024, nunca havia se classificado para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "li-04",
+      "text": "Não tem campeonato nacional próprio: seus clubes disputam a liga de um país vizinho.",
+      "category": "clube",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "li-05",
+      "text": "Manda seus jogos no Rheinpark Stadion, às margens do Rio Reno.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "li-06",
+      "text": "Todas as suas medalhas olímpicas vieram do esqui alpino.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "li-07",
+      "text": "Empatou em 2 a 2 com Portugal, em casa, pelas Eliminatórias da Copa de 2006.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "li-08",
+      "text": "O FC Vaduz, seu principal clube, já disputou a primeira divisão da Suíça.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "li-09",
+      "text": "É um principado alpino encravado entre a Suíça e a Áustria.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "li-10",
+      "text": "É um dos dois únicos países do mundo cercados apenas por países sem saída para o mar.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "lu",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "lu-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lu-02",
+      "text": "Por décadas esteve entre as seleções mais fracas da Europa, mas evoluiu bastante a partir dos anos 2010.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lu-03",
+      "text": "Até 2024, nunca havia se classificado para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lu-04",
+      "text": "Chegou às quartas de final da disputa da Eurocopa de 1964, depois de eliminar a Holanda.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lu-05",
+      "text": "O F91 Dudelange foi o primeiro clube do país a chegar à fase de grupos de uma competição europeia, na Liga Europa 2018-19.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lu-06",
+      "text": "Tem três línguas oficiais, entre elas o francês e o alemão.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lu-07",
+      "text": "Miralem Pjanić cresceu neste país e começou no futebol local antes de defender a Bósnia.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lu-08",
+      "text": "Em 2017, empatou sem gols com a França, na casa dos franceses, pelas Eliminatórias da Copa.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lu-09",
+      "text": "Fica entre França, Bélgica e Alemanha, e sua capital tem o mesmo nome do país.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "lu-10",
+      "text": "É o único grão-ducado soberano do mundo.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

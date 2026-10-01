@@ -1,0 +1,76 @@
+{
+  "id": "mt",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "mt-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mt-02",
+      "text": "É uma das seleções da UEFA com menor população.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mt-03",
+      "text": "Até 2024, nunca havia se classificado para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mt-04",
+      "text": "Muitos torcedores locais torcem pela Itália ou pela Inglaterra em Copas e Eurocopas.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mt-05",
+      "text": "Sliema Wanderers e Floriana estão entre os clubes mais vitoriosos do campeonato local.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mt-06",
+      "text": "Manda seus jogos no Estádio Nacional de Ta' Qali.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mt-07",
+      "text": "Sofreu uma goleada de 12 a 1 para a Espanha, em 1983, resultado que levou os espanhóis à Euro 84.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mt-08",
+      "text": "Michael Mifsud é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mt-09",
+      "text": "É um pequeno arquipélago no Mediterrâneo, ao sul da Sicília.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mt-10",
+      "text": "Sua bandeira exibe uma condecoração britânica recebida pela resistência na Segunda Guerra Mundial.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

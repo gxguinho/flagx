@@ -1,0 +1,76 @@
+{
+  "id": "lt",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "lt-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lt-02",
+      "text": "O futebol não é o esporte mais popular deste país: o basquete é muito maior.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lt-03",
+      "text": "Até 2024, nunca havia se classificado para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lt-04",
+      "text": "Disputa a Copa do Báltico contra Letônia e Estônia.",
+      "category": "rivalidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lt-05",
+      "text": "O nome Žalgiris é usado por clubes famosos do país tanto no futebol quanto no basquete.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lt-06",
+      "text": "Ganhou a medalha de bronze no basquete masculino nas Olimpíadas de 1992, 1996 e 2000.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lt-07",
+      "text": "Edgaras Jankauskas fez parte do Porto campeão da Liga dos Campeões de 2004.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lt-08",
+      "text": "Foi a primeira república soviética a declarar independência, em março de 1990.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lt-09",
+      "text": "Arvydas Sabonis, ídolo do basquete mundial, é o maior nome do esporte deste país.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "lt-10",
+      "text": "Sua capital é Vilnius.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
