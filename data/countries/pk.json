@@ -1,0 +1,76 @@
+{
+  "id": "pk",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "pk-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pk-02",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pk-03",
+      "text": "Só conquistou sua primeira vitória em Eliminatórias de Copa em 2023, contra o Camboja.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pk-04",
+      "text": "Também é filiada à SAFF, a federação do Sul da Ásia.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pk-05",
+      "text": "No hóquei sobre grama, ganhou três ouros olímpicos e quatro Copas do Mundo.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pk-06",
+      "text": "O urdu é o idioma nacional, e o críquete é o esporte mais popular.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pk-07",
+      "text": "A cidade de Sialkot produz grande parte das bolas costuradas à mão do mundo, incluindo bolas oficiais de Copas.",
+      "category": "curiosidade",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pk-08",
+      "text": "Venceu a Copa do Mundo de críquete de 1992, com Imran Khan como capitão.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pk-09",
+      "text": "Tornou-se independente em 1947, na partição da Índia britânica.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pk-10",
+      "text": "Fica entre a Índia e o Afeganistão, e abriga o K2, a segunda montanha mais alta do mundo.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

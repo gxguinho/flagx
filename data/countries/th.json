@@ -1,0 +1,76 @@
+{
+  "id": "th",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "th-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "th-02",
+      "text": "Nunca disputou uma Copa do Mundo masculina.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "th-03",
+      "text": "Até 2025, era a maior campeã do Campeonato da ASEAN, com sete títulos.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "th-04",
+      "text": "Sediou a Copa da Ásia de 1972 e terminou em terceiro lugar.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "th-05",
+      "text": "A seleção é apelidada de \"Elefantes de Guerra\".",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "th-06",
+      "text": "O Buriram United dominou o campeonato nacional a partir dos anos 2010.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "th-07",
+      "text": "Chanathip Songkrasin brilhou no futebol japonês, pelo Consadole Sapporo e pelo Kawasaki Frontale.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "th-08",
+      "text": "Sua arte marcial nacional combina socos, chutes, joelhadas e cotoveladas.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "th-09",
+      "text": "Kiatisuk Senamuang, atacante dos anos 1990 e 2000, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "th-10",
+      "text": "Sua capital é Bangkok, e é o único país do Sudeste Asiático que nunca foi colônia europeia.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

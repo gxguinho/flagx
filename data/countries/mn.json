@@ -1,0 +1,76 @@
+{
+  "id": "mn",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mn-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mn-02",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mn-03",
+      "text": "Também é filiada à EAFF, a federação do Leste Asiático.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mn-04",
+      "text": "O futebol é menos popular no país que a luta tradicional, o esporte nacional.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mn-05",
+      "text": "O festival Naadam reúne três esportes tradicionais: luta, corrida de cavalos e arco e flecha.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mn-06",
+      "text": "Seu primeiro ouro olímpico veio no judô, nos Jogos de Pequim 2008.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mn-07",
+      "text": "Hakuho, recordista de títulos do sumô japonês, nasceu neste país.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mn-08",
+      "text": "A ger, tenda circular e desmontável, é a moradia tradicional das famílias nômades.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mn-09",
+      "text": "Foi o centro do maior império contíguo da história, fundado por Gêngis Khan.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mn-10",
+      "text": "Fica entre a Rússia e a China, e sua capital é Ulaanbaatar.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

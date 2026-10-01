@@ -1,0 +1,76 @@
+{
+  "id": "ph",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ph-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ph-02",
+      "text": "Nunca disputou uma Copa do Mundo masculina.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ph-03",
+      "text": "Estreou na Copa da Ásia em 2019.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ph-04",
+      "text": "Sua seleção feminina venceu a Nova Zelândia na Copa do Mundo Feminina de 2023, sua primeira vitória no torneio.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ph-05",
+      "text": "A seleção masculina é apelidada de \"Azkals\", gíria local para cães de rua.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ph-06",
+      "text": "O basquete é o esporte mais popular do país, que foi uma das sedes da Copa do Mundo de basquete de 2023.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ph-07",
+      "text": "Os irmãos Phil e James Younghusband, nascidos na Inglaterra, são ídolos desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ph-08",
+      "text": "Em 2010, venceu o Vietnã por 2 a 0 em Hanói, resultado conhecido como \"Milagre de Hanói\".",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ph-09",
+      "text": "Manny Pacquiao, campeão mundial de boxe em várias categorias, nasceu neste país.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ph-10",
+      "text": "É um arquipélago com mais de 7 mil ilhas, e sua capital é Manila.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

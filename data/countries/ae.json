@@ -1,0 +1,76 @@
+{
+  "id": "ae",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ae-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ae-02",
+      "text": "Disputou apenas uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ae-03",
+      "text": "Sua única Copa foi a de 1990, na Itália, onde perdeu os três jogos.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ae-04",
+      "text": "Venceu a Copa do Golfo em 2007, em casa, e em 2013, no Bahrein.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ae-05",
+      "text": "Sediou a Copa da Ásia em 1996, quando foi vice, e em 2019.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ae-06",
+      "text": "O Al Ain foi campeão da Liga dos Campeões da Ásia em 2003 e 2024.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ae-07",
+      "text": "Omar Abdulrahman, meia de cabelo black power, foi eleito o melhor jogador da Ásia em 2016.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ae-08",
+      "text": "Em 2018, o Al Ain chegou à final do Mundial de Clubes disputado em casa e perdeu para o Real Madrid.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ae-09",
+      "text": "Ali Mabkhout é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ae-10",
+      "text": "É uma federação de sete monarquias, entre elas Abu Dhabi e Dubai.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

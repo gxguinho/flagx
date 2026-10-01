@@ -1,0 +1,76 @@
+{
+  "id": "om",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "om-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "om-02",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "om-03",
+      "text": "Disputou a Copa da Ásia em 2004, 2007, 2015, 2019 e 2023.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "om-04",
+      "text": "Conquistou a Copa do Golfo em 2009, em casa, e em 2017, no Kuwait.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "om-05",
+      "text": "Na Copa da Ásia de 2019, passou da fase de grupos pela primeira vez.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "om-06",
+      "text": "O olíbano, resina usada como incenso e produzida no sul do país, é um símbolo nacional há milênios.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "om-07",
+      "text": "Ali Al-Habsi, goleiro desta seleção, atuou por anos na Premier League, por Bolton e Wigan.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "om-08",
+      "text": "Manda seus jogos no Complexo Esportivo Sultão Qaboos.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "om-09",
+      "text": "É um sultanato, governado por Qaboos bin Said de 1970 a 2020.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "om-10",
+      "text": "Fica no extremo leste da Península Arábica, e sua capital é Mascate.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

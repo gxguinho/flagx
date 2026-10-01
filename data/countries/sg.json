@@ -1,0 +1,76 @@
+{
+  "id": "sg",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "sg-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sg-02",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sg-03",
+      "text": "Ganhou o Campeonato da ASEAN quatro vezes: 1998, 2004, 2007 e 2012.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sg-04",
+      "text": "Sediou a Copa da Ásia de 1984.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sg-05",
+      "text": "Por décadas, uma equipe representando o país disputou a Copa da Malásia, competição do vizinho.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sg-06",
+      "text": "Tem rivalidades fortes no Sudeste Asiático, sobretudo com Malásia e Tailândia.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sg-07",
+      "text": "Fandi Ahmad, que jogou no Groningen, da Holanda, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sg-08",
+      "text": "Joseph Schooling ganhou o ouro nos 100 m borboleta na Olimpíada de 2016, superando Michael Phelps.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sg-09",
+      "text": "Sedia desde 2008 o primeiro GP noturno da Fórmula 1, no circuito de Marina Bay.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sg-10",
+      "text": "É uma cidade-Estado no extremo sul da Península Malaia, independente da Malásia desde 1965.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

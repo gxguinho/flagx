@@ -1,0 +1,76 @@
+{
+  "id": "ps",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ps-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ps-02",
+      "text": "Filiou-se à FIFA em 1998.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ps-03",
+      "text": "Venceu a Copa Challenge da AFC em 2014, o que garantiu sua primeira vaga na Copa da Ásia.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ps-04",
+      "text": "Nunca disputou uma Copa do Mundo, mas jogou as Copas da Ásia de 2015, 2019 e 2023.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ps-05",
+      "text": "Na Copa da Ásia de 2023, chegou pela primeira vez às oitavas de final, após vencer Hong Kong por 3 a 0.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ps-06",
+      "text": "Nos últimos anos, muitos de seus jogos como mandante foram disputados em outros países.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ps-07",
+      "text": "Seu estádio nacional é o Faisal Al-Husseini, em Al-Ram.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ps-08",
+      "text": "Vários jogadores nascidos no Chile, descendentes de uma grande comunidade de imigrantes, já defenderam esta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ps-09",
+      "text": "Um clube da primeira divisão do Chile, fundado por imigrantes em 1920, leva este lugar no nome e nas cores.",
+      "category": "clube",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ps-10",
+      "text": "Seu território é formado pela Cisjordânia e pela Faixa de Gaza.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

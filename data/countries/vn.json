@@ -1,0 +1,76 @@
+{
+  "id": "vn",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "vn-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vn-02",
+      "text": "Nunca disputou uma Copa do Mundo masculina.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "vn-03",
+      "text": "Ganhou o Campeonato da ASEAN em 2008, 2018 e na edição de 2024, decidida em 2025.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vn-04",
+      "text": "Chegou às quartas de final da Copa da Ásia em 2007 e 2019.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "vn-05",
+      "text": "Sua seleção sub-23 foi vice da Copa da Ásia da categoria em 2018, numa final disputada sob neve.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vn-06",
+      "text": "Sua seleção feminina estreou na Copa do Mundo Feminina em 2023.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "vn-07",
+      "text": "Lê Công Vinh é um dos maiores artilheiros da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vn-08",
+      "text": "O Estádio Nacional Mỹ Đình, na capital, é a casa da seleção.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "vn-09",
+      "text": "O pho, sopa de macarrão de arroz, é seu prato mais famoso.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "vn-10",
+      "text": "Sua capital é Hanói, e a Baía de Ha Long fica no seu litoral.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

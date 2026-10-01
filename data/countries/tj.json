@@ -1,0 +1,76 @@
+{
+  "id": "tj",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "tj-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tj-02",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tj-03",
+      "text": "Venceu a Copa Challenge da AFC em 2006.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tj-04",
+      "text": "Estreou na Copa da Ásia em 2023 e chegou às quartas de final.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tj-05",
+      "text": "O Istiklol, maior clube do país, foi vice da Copa da AFC em 2015 e 2017.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tj-06",
+      "text": "Nas oitavas da Copa da Ásia de 2023, eliminou os Emirados Árabes Unidos nos pênaltis.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tj-07",
+      "text": "Fez parte da União Soviética até 1991, e seu idioma é aparentado com o persa.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tj-08",
+      "text": "Mais de 90% do território é montanhoso, dominado pela cordilheira do Pamir.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tj-09",
+      "text": "Na estreia em Copas da Ásia, em 2023, empatou com a China e venceu o Líbano na fase de grupos.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tj-10",
+      "text": "Sua capital é Duchambé, e o país faz fronteira com Afeganistão, China, Quirguistão e Uzbequistão.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

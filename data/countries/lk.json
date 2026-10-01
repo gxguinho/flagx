@@ -1,0 +1,76 @@
+{
+  "id": "lk",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "lk-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lk-02",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lk-03",
+      "text": "Conquistou o Campeonato da SAFF de 1995, vencendo a Índia na final.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lk-04",
+      "text": "Foi vice-campeã da Copa Challenge da AFC de 2006, perdendo a final para o Tajiquistão.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lk-05",
+      "text": "O críquete é muito mais popular que o futebol no país.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lk-06",
+      "text": "É um dos maiores exportadores de chá do mundo.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lk-07",
+      "text": "Foi campeão da Copa do Mundo de críquete de 1996.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lk-08",
+      "text": "O Estádio Sugathadasa, em Colombo, é palco de jogos da seleção.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lk-09",
+      "text": "Muttiah Muralitharan, maior tomador de wickets da história do críquete de testes, nasceu neste país.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "lk-10",
+      "text": "É uma ilha no Oceano Índico, ao sul da Índia, que até 1972 se chamava Ceilão.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

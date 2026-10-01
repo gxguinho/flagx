@@ -1,0 +1,76 @@
+{
+  "id": "mm",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mm-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mm-02",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mm-03",
+      "text": "Foi vice-campeã da Copa da Ásia de 1968.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mm-04",
+      "text": "Ganhou o ouro do futebol nos Jogos Asiáticos de 1966 e 1970.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mm-05",
+      "text": "Sua seleção sub-20 disputou o Mundial da categoria em 2015, na Nova Zelândia.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mm-06",
+      "text": "Disputou o torneio de futebol dos Jogos Olímpicos de 1972, em Munique.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mm-07",
+      "text": "O chinlone, jogo tradicional com uma bola de vime trançado, é um esporte nacional.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mm-08",
+      "text": "O Estádio Thuwunna, em Yangon, é um dos principais palcos da seleção.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mm-09",
+      "text": "Até 1989, era conhecido internacionalmente por outro nome, usado nos seus melhores anos no futebol.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mm-10",
+      "text": "Sua capital é Naypyidaw, e sua maior cidade é Yangon, onde fica o Pagode Shwedagon.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

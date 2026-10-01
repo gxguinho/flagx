@@ -1,0 +1,76 @@
+{
+  "id": "my",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "my-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "my-02",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "my-03",
+      "text": "Conquistou o Campeonato da ASEAN (antiga Copa Suzuki) em 2010, vencendo a Indonésia na final.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "my-04",
+      "text": "Foi uma das quatro sedes da Copa da Ásia de 2007, ao lado de Indonésia, Tailândia e Vietnã.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "my-05",
+      "text": "O Johor Darul Ta'zim, clube dominante do país, venceu a Copa da AFC de 2015.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "my-06",
+      "text": "O apelido da seleção faz referência ao tigre, animal símbolo do país.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "my-07",
+      "text": "Mokhtar Dahari, atacante dos anos 1970, é o maior ídolo da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "my-08",
+      "text": "Sediou o GP de Fórmula 1 no circuito de Sepang de 1999 a 2017.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "my-09",
+      "text": "Manda seus jogos no Estádio Nacional Bukit Jalil, em Kuala Lumpur, um dos maiores da Ásia.",
+      "category": "clube",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "my-10",
+      "text": "Fica no Sudeste Asiático, com uma parte na península e outra na ilha de Bornéu.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

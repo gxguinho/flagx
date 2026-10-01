@@ -1,0 +1,76 @@
+{
+  "id": "uz",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "uz-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "uz-02",
+      "text": "Fez parte da União Soviética até 1991.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "uz-03",
+      "text": "Classificou-se pela primeira vez para uma Copa do Mundo na edição de 2026.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "uz-04",
+      "text": "Ganhou o ouro do futebol nos Jogos Asiáticos de 1994.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "uz-05",
+      "text": "Sua melhor campanha na Copa da Ásia foi o 4º lugar, em 2011.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "uz-06",
+      "text": "Foi campeã da Copa da Ásia Sub-23 de 2018.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "uz-07",
+      "text": "Server Djeparov foi eleito duas vezes o melhor jogador da Ásia, em 2008 e 2011.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "uz-08",
+      "text": "O Pakhtakor, de Tashkent, é o clube mais tradicional do país.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "uz-09",
+      "text": "Até 2025, Eldor Shomurodov e o zagueiro Abdukodir Khusanov, do Manchester City, eram destaques desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "uz-10",
+      "text": "É um dos dois únicos países duplamente sem saída para o mar e abriga Samarcanda, cidade da Rota da Seda.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

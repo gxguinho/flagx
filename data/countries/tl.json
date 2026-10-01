@@ -1,0 +1,76 @@
+{
+  "id": "tl",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "tl-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tl-02",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tl-03",
+      "text": "Filiou-se à FIFA em 2005, uma das adesões mais recentes da Ásia.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tl-04",
+      "text": "Costuma ocupar as últimas posições do ranking da FIFA entre as seleções asiáticas.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tl-05",
+      "text": "Foi punida pela AFC em 2017 por escalar jogadores nascidos no Brasil naturalizados de forma irregular.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tl-06",
+      "text": "É um dos países mais jovens do mundo, independente desde 2002.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tl-07",
+      "text": "O português é um dos idiomas oficiais do país.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tl-08",
+      "text": "Foi colônia de Portugal e, depois, ficou sob ocupação da Indonésia de 1975 a 1999.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tl-09",
+      "text": "Ocupa a metade oriental de uma ilha dividida com a Indonésia, e sua capital é Díli.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tl-10",
+      "text": "É o único país da Ásia que integra a Comunidade dos Países de Língua Portuguesa, ao lado do Brasil.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

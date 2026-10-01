@@ -1,0 +1,76 @@
+{
+  "id": "tm",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "tm-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tm-02",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tm-03",
+      "text": "Disputou a Copa da Ásia em 2004 e 2019.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tm-04",
+      "text": "Foi vice-campeã da Copa Challenge da AFC em 2010 e 2012, perdendo as duas finais para a Coreia do Norte.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tm-05",
+      "text": "O Altyn Asyr, clube dominante do país, foi vice da Copa da AFC em 2018.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tm-06",
+      "text": "Fez parte da União Soviética até 1991.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tm-07",
+      "text": "Os cavalos akhal-teke, de pelagem brilhante, são um símbolo nacional.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tm-08",
+      "text": "Abriga a cratera de gás de Darvaza, apelidada de \"Porta do Inferno\", no deserto de Karakum.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tm-09",
+      "text": "Tem status de neutralidade permanente reconhecido pela ONU desde 1995.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tm-10",
+      "text": "Sua capital é Asgabate, famosa pelos prédios revestidos de mármore branco.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

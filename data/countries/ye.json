@@ -1,0 +1,76 @@
+{
+  "id": "ye",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ye-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ye-02",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ye-03",
+      "text": "Estreou na Copa da Ásia como país unificado em 2019.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ye-04",
+      "text": "O país atual surgiu em 1990, da unificação de dois Estados.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ye-05",
+      "text": "Sua seleção sub-17 disputou o Mundial da categoria em 2003, na Finlândia.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ye-06",
+      "text": "Nos últimos anos, muitos de seus jogos como mandante foram disputados em outros países.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ye-07",
+      "text": "Ali Al-Nono, atacante dos anos 2000, é um dos maiores ídolos desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ye-08",
+      "text": "O porto de Mocha, no seu litoral, deu nome a um tipo de café.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ye-09",
+      "text": "Sediou a Copa do Golfo de 2010, com jogos na cidade portuária de Áden.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ye-10",
+      "text": "Fica no sul da Península Arábica, e sua capital é Sanaã.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

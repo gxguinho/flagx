@@ -1,0 +1,76 @@
+{
+  "id": "mv",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mv-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mv-02",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mv-03",
+      "text": "Foi campeã do Campeonato da SAFF, do Sul da Ásia, em 2008 e 2018.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mv-04",
+      "text": "Venceu a Índia nas duas finais do Campeonato da SAFF que conquistou.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mv-05",
+      "text": "Sofreu uma goleada de 17 a 0 para o Irã nas Eliminatórias para a Copa de 1998.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mv-06",
+      "text": "O idioma oficial é o divehi, escrito num alfabeto próprio chamado thaana.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mv-07",
+      "text": "Ali Ashfaq é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mv-08",
+      "text": "Foi protetorado britânico até 1965.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mv-09",
+      "text": "O turismo em resorts de luxo, muitos ocupando uma ilha inteira, é a base da economia.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mv-10",
+      "text": "É um arquipélago de atóis no Oceano Índico, a sudoeste da Índia, e sua capital é Malé.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

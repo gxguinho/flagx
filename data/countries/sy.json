@@ -1,0 +1,76 @@
+{
+  "id": "sy",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "sy-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sy-02",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sy-03",
+      "text": "Em 2023, passou da fase de grupos da Copa da Ásia pela primeira vez.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sy-04",
+      "text": "Venceu o Campeonato da WAFF, do Oeste Asiático, em 2012.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sy-05",
+      "text": "Nas Eliminatórias para a Copa de 2018, caiu na repescagem asiática para a Austrália, na prorrogação.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sy-06",
+      "text": "Durante as Eliminatórias para a Copa de 2018, mandou seus jogos na Malásia.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sy-07",
+      "text": "Omar Al Somah, atacante que brilhou por anos no Al-Ahli, da Arábia Saudita, é um dos maiores ídolos desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sy-08",
+      "text": "O Al-Ittihad, de Aleppo, venceu a Copa da AFC de 2010.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sy-09",
+      "text": "Sua capital é Damasco, uma das cidades habitadas há mais tempo no mundo.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sy-10",
+      "text": "Faz fronteira com Turquia, Iraque, Jordânia, Líbano e Israel.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

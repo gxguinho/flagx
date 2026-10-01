@@ -1,0 +1,76 @@
+{
+  "id": "qa",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "qa-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "qa-02",
+      "text": "Quase todos os seus convocados atuam no campeonato nacional do próprio país.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "qa-03",
+      "text": "É bicampeã da Copa da Ásia, com títulos em 2019 e 2023.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "qa-04",
+      "text": "Disputou a Copa América de 2019 como seleção convidada.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "qa-05",
+      "text": "O Al Sadd, clube onde Xavi jogou e foi técnico, é o maior campeão nacional.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "qa-06",
+      "text": "Venceu o Japão por 3 a 1 na final da Copa da Ásia de 2019.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "qa-07",
+      "text": "Almoez Ali marcou 9 gols na Copa da Ásia de 2019, recorde de uma única edição.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "qa-08",
+      "text": "Akram Afif marcou três gols de pênalti na final da Copa da Ásia de 2023, contra a Jordânia.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "qa-09",
+      "text": "Sediou a Copa do Mundo de 2022, a primeira no Oriente Médio.",
+      "category": "copa",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "qa-10",
+      "text": "Em 2022, tornou-se o primeiro país-sede a perder o jogo de abertura de uma Copa, contra o Equador.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
