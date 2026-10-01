@@ -1,0 +1,76 @@
+{
+  "id": "cz",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "cz-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cz-02",
+      "text": "Disputou todas as Eurocopas de 1996 a 2024.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cz-03",
+      "text": "Foi vice-campeã da Euro 1996, perdendo a final para a Alemanha com um gol de ouro.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cz-04",
+      "text": "Chegou às semifinais da Euro 2004 e foi eliminada pela Grécia com um gol de prata.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cz-05",
+      "text": "Sparta e Slavia, ambos da capital, fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cz-06",
+      "text": "Tem um dos maiores consumos de cerveja por pessoa do mundo e é o berço da cerveja do tipo pilsen.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cz-07",
+      "text": "Petr Čech, goleiro histórico do Chelsea, é o recordista de jogos pela seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cz-08",
+      "text": "Até 1993, formava um único país com a Eslováquia, que foi campeão da Euro 1976.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cz-09",
+      "text": "Pavel Nedvěd, Bola de Ouro de 2003 e ídolo da Juventus, é um dos maiores ídolos do país.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cz-10",
+      "text": "O pênalti com cavadinha é chamado de \"Panenka\" em homenagem a um jogador deste país, que o cobrou assim na final da Euro 1976.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

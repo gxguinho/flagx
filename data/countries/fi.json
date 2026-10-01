@@ -1,0 +1,76 @@
+{
+  "id": "fi",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "fi-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fi-02",
+      "text": "No país, o hóquei no gelo historicamente é mais popular que o futebol.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fi-03",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fi-04",
+      "text": "Estreou em grandes torneios só na Euro 2020.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fi-05",
+      "text": "O HJK, da capital, é o maior campeão nacional.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fi-06",
+      "text": "A seleção é apelidada de \"Huuhkajat\", as \"corujas-reais\".",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fi-07",
+      "text": "Sami Hyypiä, zagueiro histórico do Liverpool, foi campeão da Champions League em 2005.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fi-08",
+      "text": "Na estreia na Euro 2020, venceu a Dinamarca por 1 a 0, no jogo em que Christian Eriksen sofreu uma parada cardíaca.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fi-09",
+      "text": "Jari Litmanen, ex-Ajax, Barcelona e Liverpool, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "fi-10",
+      "text": "Fica no norte da Europa, entre a Suécia e a Rússia, e é conhecido como a \"terra dos mil lagos\"; sua capital é Helsinque.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

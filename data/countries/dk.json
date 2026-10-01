@@ -1,0 +1,76 @@
+{
+  "id": "dk",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "dk-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "dk-02",
+      "text": "Disputou seis Copas do Mundo até 2022.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "dk-03",
+      "text": "Venceu a Copa das Confederações de 1995, batendo a Argentina por 2 a 0 na final.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "dk-04",
+      "text": "Chegou às semifinais da Euro 2020.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "dk-05",
+      "text": "FC Copenhagen e Brøndby fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "dk-06",
+      "text": "A torcida da seleção é conhecida como \"roligans\".",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "dk-07",
+      "text": "Christian Eriksen sofreu uma parada cardíaca em campo na Euro 2020 e voltou a jogar meses depois.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "dk-08",
+      "text": "Peter Schmeichel, goleiro campeão da Champions pelo Manchester United, é um dos maiores ídolos; seu filho Kasper também defendeu a seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "dk-09",
+      "text": "Venceu a Euro 1992 depois de entrar no torneio de última hora, no lugar da Iugoslávia, e bateu a Alemanha na final.",
+      "category": "titulo",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "dk-10",
+      "text": "Os irmãos Michael e Brian Laudrup são ídolos históricos desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ee",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ee-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ee-02",
+      "text": "Nunca se classificou para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ee-03",
+      "text": "Recuperou a independência em 1991, depois de décadas como parte da União Soviética.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ee-04",
+      "text": "Nas Eliminatórias da Euro 2012, chegou à repescagem, mas foi eliminada pela Irlanda.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ee-05",
+      "text": "Flora e Levadia, ambos da capital, estão entre os maiores campeões nacionais.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ee-06",
+      "text": "Em 1996, um jogo em casa contra a Escócia durou só três segundos: a seleção não entrou em campo após uma mudança no horário da partida.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ee-07",
+      "text": "Mart Poom, goleiro que jogou no Derby County, no Sunderland e no Arsenal, é um dos maiores ídolos do país.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ee-08",
+      "text": "É um dos países mais digitalizados do mundo, e foi lá que o Skype foi desenvolvido.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ee-09",
+      "text": "Martin Reim disputou mais de 150 partidas pela seleção, por muitos anos um recorde.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ee-10",
+      "text": "Fica às margens do Mar Báltico, ao norte da Letônia; sua capital é Tallinn.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

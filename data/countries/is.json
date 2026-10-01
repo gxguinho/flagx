@@ -1,0 +1,76 @@
+{
+  "id": "is",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "is-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "is-02",
+      "text": "Tem uma das menores populações entre todos os países que já disputaram uma Copa do Mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "is-03",
+      "text": "Até 2024, sua única Copa do Mundo havia sido a de 2018, na Rússia.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "is-04",
+      "text": "Na Euro 2016, sua primeira grande competição, chegou às quartas de final.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "is-05",
+      "text": "Sua torcida ficou famosa pelo grito \"Huh!\", acompanhado de palmas sincronizadas.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "is-06",
+      "text": "Heimir Hallgrímsson, um dos técnicos da seleção nos anos 2010, também trabalhava como dentista.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "is-07",
+      "text": "Eliminou a Inglaterra nas oitavas da Euro 2016, vencendo por 2 a 1.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "is-08",
+      "text": "Eiður Guðjohnsen, ex-Chelsea e Barcelona, estreou pela seleção em 1996 entrando no lugar do próprio pai.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "is-09",
+      "text": "Na estreia em Copas, em 2018, empatou por 1 a 1 com a Argentina, e o goleiro Hannes Halldórsson defendeu um pênalti de Messi.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "is-10",
+      "text": "É uma ilha no Atlântico Norte, terra de vulcões e gêiseres; sua capital é Reykjavík.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

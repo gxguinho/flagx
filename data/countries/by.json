@@ -1,0 +1,76 @@
+{
+  "id": "by",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "by-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "by-02",
+      "text": "Nunca se classificou para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "by-03",
+      "text": "Até o início dos anos 1990, seus jogadores defendiam a seleção da União Soviética.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "by-04",
+      "text": "Seu campeonato nacional chamou atenção mundial em 2020 por seguir sendo disputado durante a pandemia de covid-19, quando quase todas as ligas pararam.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "by-05",
+      "text": "O BATE Borisov disputou várias vezes a fase de grupos da Champions League.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "by-06",
+      "text": "O Dinamo, clube tradicional da capital, foi campeão soviético em 1982.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "by-07",
+      "text": "Desde 2022, por decisão da UEFA, a seleção manda seus jogos em campo neutro, fora do país.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "by-08",
+      "text": "O hóquei no gelo é muito popular no país, que sediou o Campeonato Mundial da modalidade em 2014.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "by-09",
+      "text": "Aleksandr Hleb, ex-Arsenal e Barcelona, é um dos maiores jogadores da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "by-10",
+      "text": "Fica no Leste Europeu, sem saída para o mar, vizinho de Polônia, Lituânia, Letônia e Ucrânia, entre outros; sua capital é Minsk.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

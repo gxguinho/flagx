@@ -1,0 +1,76 @@
+{
+  "id": "fo",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "fo-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fo-02",
+      "text": "É um dos membros da UEFA com menor população.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fo-03",
+      "text": "Filiou-se à FIFA em 1988 e à UEFA em 1990.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fo-04",
+      "text": "Nunca se classificou para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fo-05",
+      "text": "Em 2023-24, o KÍ Klaksvík se tornou o primeiro clube local a disputar a fase de grupos de uma competição europeia, a Liga Conferência.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fo-06",
+      "text": "Muitos de seus jogadores conciliam o futebol com outras profissões, como a pesca.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fo-07",
+      "text": "Venceu a Grécia duas vezes nas Eliminatórias da Euro 2016.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fo-08",
+      "text": "Em seu primeiro jogo oficial, em 1990, venceu a Áustria por 1 a 0 pelas Eliminatórias da Euro 1992.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fo-09",
+      "text": "Na vitória sobre a Áustria em 1990, o goleiro Jens Martin Knudsen ficou famoso por jogar de gorro.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "fo-10",
+      "text": "É um arquipélago no Atlântico Norte, território autônomo ligado à Dinamarca.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

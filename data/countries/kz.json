@@ -1,0 +1,76 @@
+{
+  "id": "kz",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "kz-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kz-02",
+      "text": "É o maior país em território filiado à UEFA depois da Rússia.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kz-03",
+      "text": "Era filiado à confederação asiática e migrou para a UEFA em 2002.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kz-04",
+      "text": "Chegou à repescagem da Euro 2024, mas foi eliminado pela Grécia.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kz-05",
+      "text": "Um clube da capital disputou a fase de grupos da Champions League em 2015-16.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kz-06",
+      "text": "Em seu território fica o cosmódromo de Baikonur, de onde Yuri Gagarin partiu no primeiro voo tripulado ao espaço, em 1961.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kz-07",
+      "text": "Venceu a Dinamarca por 3 a 2 em casa, nas Eliminatórias da Euro 2024, depois de estar perdendo por 2 a 0.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kz-08",
+      "text": "O ciclista Alexander Vinokourov foi campeão olímpico da prova de estrada em 2012.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kz-09",
+      "text": "Ficou conhecido no Ocidente pelo filme de comédia \"Borat\", de 2006.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "kz-10",
+      "text": "É o maior país sem saída para o mar do mundo; suas principais cidades são Almaty e Astana.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

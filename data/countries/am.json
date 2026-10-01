@@ -1,0 +1,76 @@
+{
+  "id": "am",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "am-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "am-02",
+      "text": "Passou a disputar jogos como seleção independente no início dos anos 1990, após o fim da União Soviética.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "am-03",
+      "text": "Nunca se classificou para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "am-04",
+      "text": "Disputou a Liga B da Liga das Nações de 2022-23, num grupo com Escócia, Ucrânia e Irlanda.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "am-05",
+      "text": "Seu clube mais famoso foi campeão do campeonato soviético em 1973.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "am-06",
+      "text": "O Pyunik é um dos maiores campeões do campeonato nacional desde a independência.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "am-07",
+      "text": "Seus jogos contra o Azerbaijão pelas Eliminatórias da Euro 2008 não foram disputados, por causa do conflito entre os dois países.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "am-08",
+      "text": "É tradicionalmente considerado o primeiro país a adotar o cristianismo como religião oficial, no início do século IV.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "am-09",
+      "text": "Henrikh Mkhitaryan, ex-Borussia Dortmund, Manchester United, Arsenal e Roma, é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "am-10",
+      "text": "Fica no Cáucaso, sem saída para o mar; sua capital é Yerevan, de onde se avista o Monte Ararat.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

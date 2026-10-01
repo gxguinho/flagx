@@ -1,0 +1,76 @@
+{
+  "id": "hu",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "hu-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "hu-02",
+      "text": "Disputou nove Copas do Mundo até 2022.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "hu-03",
+      "text": "Foi vice-campeã mundial em 1938 e em 1954.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "hu-04",
+      "text": "Ganhou a medalha de ouro no futebol olímpico em 1952, 1964 e 1968.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "hu-05",
+      "text": "O Ferencváros é o clube mais vitorioso do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "hu-06",
+      "text": "Sua seleção dos anos 1950 ficou conhecida como o \"Time de Ouro\".",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "hu-07",
+      "text": "Venceu a Inglaterra por 6 a 3 em Wembley, em 1953, a primeira derrota inglesa em casa para uma seleção de fora das Ilhas Britânicas.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "hu-08",
+      "text": "Era favorita, mas perdeu a final da Copa de 1954 para a Alemanha Ocidental, no chamado \"Milagre de Berna\".",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "hu-09",
+      "text": "Ferenc Puskás, que dá nome ao prêmio da FIFA de gol mais bonito do ano, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "hu-10",
+      "text": "Fica na Europa Central, sem saída para o mar; sua capital é Budapeste, cortada pelo rio Danúbio.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

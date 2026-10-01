@@ -1,0 +1,76 @@
+{
+  "id": "bg",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "bg-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bg-02",
+      "text": "O país usa o alfabeto cirílico.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bg-03",
+      "text": "Disputou sete Copas do Mundo até 2022.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bg-04",
+      "text": "Ficou em 4º lugar na Copa de 1994, nos Estados Unidos.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bg-05",
+      "text": "CSKA e Levski, ambos da capital, fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bg-06",
+      "text": "O Ludogorets venceu o campeonato nacional ano após ano a partir de 2012.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bg-07",
+      "text": "Eliminou a Alemanha, então campeã mundial, nas quartas da Copa de 1994, com uma virada por 2 a 1.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bg-08",
+      "text": "Dimitar Berbatov, ex-Tottenham e Manchester United, divide o posto de maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bg-09",
+      "text": "Hristo Stoichkov, Bola de Ouro de 1994 e ídolo do Barcelona, é o maior ídolo desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bg-10",
+      "text": "Fica nos Bálcãs, com litoral no Mar Negro; sua capital é Sófia.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

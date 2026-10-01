@@ -1,0 +1,76 @@
+{
+  "id": "az",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "az-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "az-02",
+      "text": "Nunca se classificou para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "az-03",
+      "text": "Berti Vogts, campeão do mundo como jogador pela Alemanha, foi técnico desta seleção entre 2008 e 2014.",
+      "category": "jogador",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "az-04",
+      "text": "Sediou a Copa do Mundo Feminina Sub-17 da FIFA em 2012.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "az-05",
+      "text": "O Qarabağ, clube que por décadas jogou longe de sua cidade de origem por causa de um conflito, chegou à fase de grupos da Champions League em 2017-18.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "az-06",
+      "text": "Sua capital sediou a final da Liga Europa de 2019, entre Chelsea e Arsenal.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "az-07",
+      "text": "Sua capital recebeu quatro jogos da Euro 2020, incluindo uma quarta de final.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "az-08",
+      "text": "Recebe desde 2016 um Grande Prêmio de Fórmula 1 num circuito de rua na capital.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "az-09",
+      "text": "Sua capital sediou a primeira edição dos Jogos Europeus, em 2015.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "az-10",
+      "text": "Fica no Cáucaso, às margens do Mar Cáspio; sua capital é Baku.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

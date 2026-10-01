@@ -1,0 +1,76 @@
+{
+  "id": "al",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "al-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "al-02",
+      "text": "Até 2024, nunca havia disputado uma Copa do Mundo.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "al-03",
+      "text": "Disputou a Eurocopa pela primeira vez em 2016, na França.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "al-04",
+      "text": "Na Euro 2024, caiu num grupo com Espanha, Itália e Croácia.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "al-05",
+      "text": "Tem uma rivalidade tensa com a Sérvia: um jogo entre as duas em Belgrado, em 2014, foi interrompido depois que um drone sobrevoou o campo carregando uma bandeira.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "al-06",
+      "text": "Jogadores e torcedores costumam comemorar fazendo com as mãos o gesto de uma águia de duas cabeças.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "al-07",
+      "text": "Na Euro 2016, conquistou sua primeira vitória em Eurocopas: 1 a 0 sobre a Romênia.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "al-08",
+      "text": "Nedim Bajrami marcou contra a Itália aos 23 segundos, na Euro 2024, o gol mais rápido da história da Eurocopa.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "al-09",
+      "text": "Na Euro 2016, os irmãos Xhaka se enfrentaram em lados opostos: Granit pela Suíça e Taulant por esta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "al-10",
+      "text": "Fica nos Bálcãs, no litoral do Adriático, entre Montenegro e a Grécia; sua capital é Tirana.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

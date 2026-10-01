@@ -1,0 +1,76 @@
+{
+  "id": "ad",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ad-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ad-02",
+      "text": "É uma das seleções com menos vitórias na história das Eliminatórias europeias.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ad-03",
+      "text": "Filiou-se à FIFA e à UEFA apenas em 1996.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ad-04",
+      "text": "Nunca se classificou para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ad-05",
+      "text": "Seu campeonato nacional é semiprofissional, e muitos jogadores têm outras profissões.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ad-06",
+      "text": "Muitos jogadores da seleção atuam nas divisões inferiores do futebol espanhol.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ad-07",
+      "text": "Em 2017, venceu a Hungria por 1 a 0 nas Eliminatórias, encerrando um jejum de mais de dez anos sem vitórias em jogos oficiais.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ad-08",
+      "text": "Seu principal clube disputa a liga espanhola e foi comprado em 2018 pelo ex-zagueiro Gerard Piqué.",
+      "category": "clube",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ad-09",
+      "text": "O zagueiro Ildefons Lima defendeu a seleção por mais de 20 anos e é o maior artilheiro da história dela.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ad-10",
+      "text": "É um pequeno país nos Pireneus, entre a Espanha e a França.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

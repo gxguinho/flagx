@@ -1,0 +1,76 @@
+{
+  "id": "ge",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "ge-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ge-02",
+      "text": "Tem uma tradição de milhares de anos na produção de vinho.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ge-03",
+      "text": "Estreou em grandes torneios na Euro 2024, classificando-se pela repescagem ao vencer a Grécia nos pênaltis.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ge-04",
+      "text": "Até o início dos anos 1990, seus jogadores defendiam a seleção da União Soviética.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ge-05",
+      "text": "Seu clube mais famoso, o Dinamo, venceu a Recopa Europeia em 1981.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ge-06",
+      "text": "O rugby é muito popular no país, e sua seleção de rugby é presença frequente na Copa do Mundo da modalidade.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ge-07",
+      "text": "Na Euro 2024, venceu Portugal por 2 a 0 e avançou às oitavas de final.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ge-08",
+      "text": "Kakha Kaladze, zagueiro bicampeão da Champions League pelo Milan, é um ídolo do país.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ge-09",
+      "text": "Khvicha Kvaratskhelia, campeão italiano pelo Napoli em 2023, é o principal astro desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ge-10",
+      "text": "Fica no Cáucaso, às margens do Mar Negro; sua capital é Tbilisi.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

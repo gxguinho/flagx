@@ -1,0 +1,76 @@
+{
+  "id": "xk",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "xk-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "xk-02",
+      "text": "É um dos membros mais novos da UEFA e da FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "xk-03",
+      "text": "Foi aceito pela UEFA e pela FIFA em 2016.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "xk-04",
+      "text": "Até 2024, nunca havia disputado uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "xk-05",
+      "text": "Chegou à repescagem da Euro 2020, mas perdeu para a Macedônia do Norte.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "xk-06",
+      "text": "Sua primeira medalha olímpica foi o ouro da judoca Majlinda Kelmendi, nos Jogos do Rio, em 2016.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "xk-07",
+      "text": "Xherdan Shaqiri e Granit Xhaka, que defenderam a Suíça, têm origem familiar neste território.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "xk-08",
+      "text": "Vedat Muriqi, atacante com passagens por Lazio e Mallorca, é um dos principais nomes da seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "xk-09",
+      "text": "Declarou independência da Sérvia em 2008, reconhecida por parte dos países do mundo, mas não pela Sérvia.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "xk-10",
+      "text": "Fica nos Bálcãs, sem saída para o mar; sua capital é Pristina.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

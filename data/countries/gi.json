@@ -1,0 +1,76 @@
+{
+  "id": "gi",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "gi-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gi-02",
+      "text": "Tem uma das menores populações entre todos os filiados à UEFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gi-03",
+      "text": "Foi aceito pela UEFA em 2013 e pela FIFA só em 2016.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gi-04",
+      "text": "Nunca se classificou para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gi-05",
+      "text": "Por alguns anos, mandou seus jogos fora do próprio território, no Estádio Algarve, em Portugal.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gi-06",
+      "text": "O Lincoln Red Imps, maior campeão local, venceu o Celtic por 1 a 0 num jogo de qualificação da Champions em 2016.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gi-07",
+      "text": "Conquistou sua primeira vitória oficial em 2018: 1 a 0 sobre a Armênia, fora de casa, pela Liga das Nações.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gi-08",
+      "text": "A Espanha se opôs por anos à sua entrada na UEFA e na FIFA.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gi-09",
+      "text": "É um território britânico ultramarino cuja soberania é reivindicada pela Espanha.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gi-10",
+      "text": "Fica no extremo sul da Península Ibérica, junto ao estreito que separa a Europa da África, e é famoso por seu grande rochedo.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

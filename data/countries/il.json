@@ -1,0 +1,76 @@
+{
+  "id": "il",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "il-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "il-02",
+      "text": "O basquete é muito popular no país, e um de seus clubes já foi campeão da Euroliga várias vezes.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "il-03",
+      "text": "Disputou uma única Copa do Mundo, em 1970, no México.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "il-04",
+      "text": "Foi campeão da Copa da Ásia em 1964, torneio que sediou.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "il-05",
+      "text": "Maccabi Tel Aviv, Maccabi Haifa e Hapoel Tel Aviv estão entre os clubes mais populares do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "il-06",
+      "text": "Na Copa de 1970, empatou com a Suécia e com a Itália.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "il-07",
+      "text": "Deixou a confederação asiática nos anos 1970, disputou Eliminatórias pela Oceania e só depois foi aceito na UEFA.",
+      "category": "confederacao",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "il-08",
+      "text": "Eran Zahavi é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "il-09",
+      "text": "Yossi Benayoun, ex-West Ham, Liverpool e Chelsea, é um dos maiores ídolos desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "il-10",
+      "text": "Fica no Oriente Médio, às margens do Mediterrâneo; Jerusalém e Tel Aviv estão entre suas maiores cidades.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

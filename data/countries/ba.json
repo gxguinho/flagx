@@ -1,0 +1,76 @@
+{
+  "id": "ba",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "ba-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ba-02",
+      "text": "Joga como seleção independente desde os anos 1990, após a dissolução da Iugoslávia.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ba-03",
+      "text": "Até 2024, sua única Copa do Mundo havia sido a de 2014, no Brasil.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ba-04",
+      "text": "Em sua estreia em Copas, em 2014, perdeu por 2 a 1 para a Argentina no Maracanã.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ba-05",
+      "text": "A seleção é apelidada de \"Zmajevi\", os \"Dragões\".",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ba-06",
+      "text": "Željezničar e FK Sarajevo fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ba-07",
+      "text": "Miralem Pjanić, ex-Roma, Juventus e Barcelona, é um dos maiores nomes da história desta seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ba-08",
+      "text": "Sua capital sediou os Jogos Olímpicos de Inverno de 1984, quando o país ainda fazia parte da Iugoslávia.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ba-09",
+      "text": "Edin Džeko, ex-Manchester City e Roma, é o maior artilheiro da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ba-10",
+      "text": "Fica nos Bálcãs e tem só pouco mais de 20 km de litoral no Adriático, na cidade de Neum.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

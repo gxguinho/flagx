@@ -1,0 +1,76 @@
+{
+  "id": "cy",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "cy-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cy-02",
+      "text": "Seu campeonato nacional costuma atrair muitos jogadores estrangeiros, inclusive brasileiros.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cy-03",
+      "text": "Nunca se classificou para uma Copa do Mundo ou uma Eurocopa.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cy-04",
+      "text": "Empatou por 4 a 4 com Portugal, em Guimarães, nas Eliminatórias da Euro 2012.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cy-05",
+      "text": "O APOEL chegou às quartas de final da Champions League em 2011-12.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cy-06",
+      "text": "APOEL, Omonia e Anorthosis estão entre os clubes mais populares do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cy-07",
+      "text": "Desde 1974 o território está dividido, e a parte norte tem uma federação de futebol própria, não filiada à FIFA.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cy-08",
+      "text": "Segundo a mitologia grega, é o lugar onde nasceu a deusa Afrodite.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cy-09",
+      "text": "O grego e o turco são as línguas oficiais do país.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cy-10",
+      "text": "É uma ilha no Mediterrâneo oriental, ao sul da Turquia; sua capital é Nicósia.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

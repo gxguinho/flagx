@@ -1,0 +1,76 @@
+{
+  "id": "at",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "at-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "at-02",
+      "text": "O alemão é a língua oficial do país.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "at-03",
+      "text": "Disputou sete Copas do Mundo até 2022.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "at-04",
+      "text": "Sua melhor campanha em Copas foi o 3º lugar em 1954, na Suíça.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "at-05",
+      "text": "Nos anos 1930, sua seleção era tão forte que ganhou o apelido de \"Wunderteam\", o \"time maravilha\".",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "at-06",
+      "text": "O Red Bull Salzburg dominou o campeonato nacional ao longo da década de 2010.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "at-07",
+      "text": "Venceu a Alemanha Ocidental por 3 a 2 na Copa de 1978, jogo que ficou conhecido como \"Milagre de Córdoba\".",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "at-08",
+      "text": "Venceu a Suíça por 7 a 5 nas quartas da Copa de 1954, o jogo com mais gols da história das Copas.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "at-09",
+      "text": "David Alaba, campeão da Champions League com Bayern de Munique e Real Madrid, é um dos principais nomes da história desta seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "at-10",
+      "text": "Fica na Europa Central, nos Alpes; sua capital é Viena.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

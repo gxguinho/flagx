@@ -1,0 +1,76 @@
+{
+  "id": "gr",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "gr-01",
+      "text": "A seleção é filiada à UEFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gr-02",
+      "text": "Já conquistou um título continental de seleções.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gr-03",
+      "text": "Disputou três Copas do Mundo até 2022.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gr-04",
+      "text": "Na Copa de 2014, chegou às oitavas e foi eliminada pela Costa Rica nos pênaltis.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gr-05",
+      "text": "Olympiacos e Panathinaikos fazem o chamado \"clássico dos eternos inimigos\".",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gr-06",
+      "text": "O Olympiacos venceu a Liga Conferência da UEFA em 2023-24.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gr-07",
+      "text": "O técnico alemão Otto Rehhagel comandou a seleção em sua maior conquista.",
+      "category": "curiosidade",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gr-08",
+      "text": "Sediou a primeira Olimpíada da era moderna, em 1896, e voltou a receber os Jogos em 2004.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gr-09",
+      "text": "Foi a campeã surpresa da Euro 2004, vencendo Portugal, o dono da casa, na estreia e na final.",
+      "category": "titulo",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gr-10",
+      "text": "Angelos Charisteas marcou de cabeça o gol do título da Euro 2004.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
