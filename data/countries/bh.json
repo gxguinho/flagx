@@ -1,0 +1,76 @@
+{
+  "id": "bh",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "bh-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bh-02",
+      "text": "Disputa a Copa do Golfo, torneio entre seleções da Península Arábica e arredores.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bh-03",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bh-04",
+      "text": "Conquistou a Copa do Golfo pela primeira vez em 2019, vencendo a Arábia Saudita na final.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bh-05",
+      "text": "Sua melhor campanha na Copa da Ásia foi o quarto lugar em 2004.",
+      "category": "copa",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bh-06",
+      "text": "O Al-Muharraq, maior campeão nacional, venceu a Copa da AFC em 2008 e em 2021.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bh-07",
+      "text": "Perdeu duas repescagens intercontinentais seguidas por vaga na Copa: para Trinidad e Tobago (2006) e Nova Zelândia (2010).",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bh-08",
+      "text": "É um arquipélago no Golfo Pérsico, ligado à Arábia Saudita por uma ponte rodoviária.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bh-09",
+      "text": "Sedia um Grande Prêmio de Fórmula 1 no circuito de Sakhir.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bh-10",
+      "text": "Sua capital é Manama.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

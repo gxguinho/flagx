@@ -1,0 +1,76 @@
+{
+  "id": "af",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "af-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "af-02",
+      "text": "Por muitos anos, a seleção mandou seus jogos fora do país por questões de segurança.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "af-03",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "af-04",
+      "text": "Conquistou o Campeonato da SAFF, torneio do sul da Ásia, em 2013, vencendo a Índia na final.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "af-05",
+      "text": "Disputou o torneio de futebol dos Jogos Olímpicos de 1948 e perdeu para Luxemburgo por 6 a 0.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "af-06",
+      "text": "Em 2012, criou uma liga nacional cujos elencos foram escolhidos num reality show de televisão.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "af-07",
+      "text": "Sua seleção de críquete chegou à semifinal da Copa do Mundo de T20 de 2024.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "af-08",
+      "text": "Não tem saída para o mar e faz fronteira com o Paquistão e o Irã.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "af-09",
+      "text": "O buzkashi, disputado a cavalo com a carcaça de uma cabra, é o esporte nacional.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "af-10",
+      "text": "Sua capital é Cabul.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

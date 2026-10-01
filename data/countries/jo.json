@@ -1,0 +1,76 @@
+{
+  "id": "jo",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "jo-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "jo-02",
+      "text": "Sediou a Copa do Mundo feminina Sub-17 de 2016.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "jo-03",
+      "text": "Foi vice-campeã da Copa da Ásia de 2023, jogada em 2024, perdendo a final para o Catar.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "jo-04",
+      "text": "Classificou-se pela primeira vez para uma Copa do Mundo em 2025, garantindo vaga na edição de 2026.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "jo-05",
+      "text": "Al-Faisaly e Al-Wehdat fazem o maior clássico do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "jo-06",
+      "text": "Venceu a Coreia do Sul por 2 a 0 na semifinal da Copa da Ásia jogada em 2024.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "jo-07",
+      "text": "Musa Al-Taamari, atacante que jogou no Montpellier, é o maior astro da seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "jo-08",
+      "text": "Faz fronteira com Síria, Iraque, Arábia Saudita e Israel e tem um pequeno litoral no Mar Vermelho.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "jo-09",
+      "text": "A cidade de Petra, escavada na rocha, é seu ponto turístico mais famoso.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "jo-10",
+      "text": "Sua capital é Amã.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

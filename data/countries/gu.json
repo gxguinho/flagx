@@ -1,0 +1,76 @@
+{
+  "id": "gu",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "gu-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gu-02",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gu-03",
+      "text": "Não é um país independente, mas tem seleção própria filiada à FIFA.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gu-04",
+      "text": "Em 2015, conquistou suas primeiras vitórias em Eliminatórias para a Copa, contra Turcomenistão e Índia.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gu-05",
+      "text": "Sediou os Jogos do Pacífico Sul em 1975 e em 1999.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gu-06",
+      "text": "Fernão de Magalhães passou pela ilha em 1521.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gu-07",
+      "text": "Foi ocupado pelo Japão durante a Segunda Guerra Mundial.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gu-08",
+      "text": "Fica no arquipélago das Marianas, no Oceano Pacífico.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gu-09",
+      "text": "É um território dos Estados Unidos, com uma grande base militar americana.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gu-10",
+      "text": "Seu povo nativo são os chamorros.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

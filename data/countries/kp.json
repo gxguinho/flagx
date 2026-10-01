@@ -1,0 +1,76 @@
+{
+  "id": "kp",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "kp-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kp-02",
+      "text": "Suas seleções femininas de base estão entre as mais fortes do mundo.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kp-03",
+      "text": "Disputou duas Copas do Mundo masculinas: 1966 e 2010.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kp-04",
+      "text": "Em 2024, suas seleções femininas venceram o Mundial Sub-17 e o Mundial Sub-20.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kp-05",
+      "text": "O estádio Primeiro de Maio, na capital, é frequentemente citado como o de maior capacidade do mundo.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kp-06",
+      "text": "Na Copa de 2010, perdeu para o Brasil por 2 a 1 na estreia.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kp-07",
+      "text": "Jong Tae-se, atacante nascido no Japão, chorou durante o hino na Copa de 2010.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kp-08",
+      "text": "Na Copa de 1966, abriu 3 a 0 contra Portugal nas quartas de final, mas sofreu a virada por 5 a 3, com quatro gols de Eusébio.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kp-09",
+      "text": "Eliminou a Itália na Copa de 1966 com uma vitória por 1 a 0, gol de Pak Doo-ik.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "kp-10",
+      "text": "Sua capital é Pyongyang.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

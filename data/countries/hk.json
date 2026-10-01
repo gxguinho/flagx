@@ -1,0 +1,76 @@
+{
+  "id": "hk",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "hk-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "hk-02",
+      "text": "Não é um país independente, mas tem seleção própria filiada à FIFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "hk-03",
+      "text": "Sediou a primeira Copa da Ásia, em 1956, e terminou em terceiro lugar.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "hk-04",
+      "text": "Voltou a disputar a Copa da Ásia na edição de 2023, jogada em 2024, após mais de 50 anos de ausência.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "hk-05",
+      "text": "Em 2016, o Eastern foi campeão da liga local com Chan Yuen-ting, primeira mulher a levar um time masculino a um título de primeira divisão.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "hk-06",
+      "text": "Sedia um dos torneios de rugby sevens mais tradicionais do mundo.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "hk-07",
+      "text": "Em 1985, venceu a China por 2 a 1 em Pequim e a eliminou das Eliminatórias para a Copa.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "hk-08",
+      "text": "Foi administrado pelo Reino Unido até 1997.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "hk-09",
+      "text": "Hoje é uma região administrativa especial da China, vizinha de Macau.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "hk-10",
+      "text": "Bruce Lee cresceu aqui, e o lugar é um polo do cinema de artes marciais.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "bd",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "bd-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bd-02",
+      "text": "O críquete é muito mais popular que o futebol no país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bd-03",
+      "text": "Nunca disputou uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bd-04",
+      "text": "Conquistou o Campeonato da SAFF, torneio do sul da Ásia, em 2003, jogando em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bd-05",
+      "text": "Abahani e Mohammedan fazem o grande clássico do futebol local, ambos da capital.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bd-06",
+      "text": "Em Copas do Mundo, muitos torcedores do país se dividem em fanáticos pelo Brasil e pela Argentina.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bd-07",
+      "text": "Hamza Choudhury, volante revelado pelo Leicester, estreou pela seleção em 2025.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bd-08",
+      "text": "Fica no delta dos rios Ganges e Brahmaputra, e quase toda a sua fronteira terrestre é com a Índia.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bd-09",
+      "text": "Separou-se do Paquistão e se tornou independente em 1971.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bd-10",
+      "text": "Sua capital é Daca.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "bt",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "bt-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bt-02",
+      "text": "Costuma estar entre as últimas posições do ranking da FIFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bt-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bt-04",
+      "text": "Em 2015, eliminou o Sri Lanka na fase preliminar das Eliminatórias para a Copa de 2018, com duas vitórias.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bt-05",
+      "text": "O país mede seu desenvolvimento pela chamada 'Felicidade Interna Bruta'.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bt-06",
+      "text": "O tiro com arco é o esporte nacional.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bt-07",
+      "text": "Chencho Gyeltshen, atacante que fez carreira em clubes da Índia, é o maior astro da seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bt-08",
+      "text": "Fica no Himalaia, entre a China e a Índia.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bt-09",
+      "text": "No dia da final da Copa de 2002, venceu Montserrat por 4 a 0 no duelo entre as duas piores seleções do ranking, tema do documentário 'The Other Final'.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bt-10",
+      "text": "Sua capital é Thimphu.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "au",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "au-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "au-02",
+      "text": "O futebol divide a paixão do país com o rugby, o críquete e outros códigos de \"football\".",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "au-03",
+      "text": "Venceu a Copa da Ásia de 2015, disputada em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "au-04",
+      "text": "Chegou às oitavas de final da Copa do Mundo em 2006 e em 2022.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "au-05",
+      "text": "Trocou a confederação da Oceania pela asiática em 2006.",
+      "category": "confederacao",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "au-06",
+      "text": "Seus principais clubes disputam a A-League, criada em 2005.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "au-07",
+      "text": "Os torcedores chamam a seleção masculina de 'Socceroos'.",
+      "category": "curiosidade",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "au-08",
+      "text": "Venceu a Samoa Americana por 31 a 0 em 2001, a maior goleada da história do futebol entre seleções.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "au-09",
+      "text": "Tim Cahill é o maior artilheiro da história da seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "au-10",
+      "text": "Sediou a Copa do Mundo feminina de 2023 junto com a Nova Zelândia.",
+      "category": "copa",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "cn",
+  "flagDifficulty": 2,
+  "hints": [
+    {
+      "id": "cn-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cn-02",
+      "text": "Sua seleção feminina é bem mais vitoriosa que a masculina.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cn-03",
+      "text": "Disputou uma só Copa do Mundo masculina, em 2002, e perdeu os três jogos sem marcar gols.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cn-04",
+      "text": "Foi vice-campeã da Copa da Ásia em 1984 e em 2004.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cn-05",
+      "text": "O Guangzhou Evergrande venceu a Liga dos Campeões da Ásia em 2013 e 2015.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cn-06",
+      "text": "Sua seleção feminina foi vice-campeã mundial em 1999, perdendo a final para os Estados Unidos nos pênaltis.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cn-07",
+      "text": "Oscar, Hulk e Paulinho jogaram na liga do país na década de 2010.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cn-08",
+      "text": "Na Copa de 2002, comandada por Bora Milutinović, enfrentou o Brasil na fase de grupos.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cn-09",
+      "text": "Wu Lei, atacante que jogou no Espanyol, é um dos maiores artilheiros da seleção.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cn-10",
+      "text": "O cuju, jogo de bola com os pés praticado há mais de 2 mil anos, é reconhecido pela FIFA como a forma mais antiga do futebol.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

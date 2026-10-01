@@ -1,0 +1,76 @@
+{
+  "id": "tw",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "tw-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tw-02",
+      "text": "O beisebol é bem mais popular que o futebol no lugar.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tw-03",
+      "text": "Nunca disputou uma Copa do Mundo masculina.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tw-04",
+      "text": "Sua seleção feminina venceu a Copa da Ásia três vezes: 1977, 1979 e 1981.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tw-05",
+      "text": "Disputa competições internacionais com um nome diferente do seu nome oficial.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tw-06",
+      "text": "Nos anos 1950, com um time formado principalmente por jogadores de Hong Kong, ganhou o ouro do futebol nos Jogos Asiáticos de 1954 e 1958.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tw-07",
+      "text": "Foi campeão do torneio de beisebol Premier12 em 2024, vencendo o Japão na final.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tw-08",
+      "text": "É uma ilha a leste do continente asiático, entre o Japão e as Filipinas.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tw-09",
+      "text": "Nos Jogos Olímpicos, compete sob uma bandeira especial, com uma flor de ameixeira, em vez da sua bandeira.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tw-10",
+      "text": "É sede da TSMC, a maior fabricante de chips sob encomenda do mundo.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

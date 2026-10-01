@@ -1,0 +1,76 @@
+{
+  "id": "id",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "id-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "id-02",
+      "text": "Tem uma das torcidas mais numerosas e apaixonadas da Ásia.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "id-03",
+      "text": "Até 2024, já tinha perdido várias finais do Campeonato do Sudeste Asiático, mas nunca havia sido campeã.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "id-04",
+      "text": "Foi uma das sedes da Copa da Ásia de 2007, ao lado de três vizinhos.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "id-05",
+      "text": "Persija e Persib fazem um dos clássicos mais acirrados do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "id-06",
+      "text": "O badminton é o esporte que mais deu medalhas de ouro olímpicas ao país.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "id-07",
+      "text": "Sediou a Copa do Mundo Sub-17 de 2023, depois que a FIFA retirou o torneio do Peru.",
+      "category": "copa",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "id-08",
+      "text": "Na década de 2020, passou a naturalizar vários jogadores nascidos na Holanda, com raízes no país.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "id-09",
+      "text": "Foi a primeira seleção asiática a disputar uma Copa do Mundo, em 1938, sob o nome de Índias Orientais Holandesas.",
+      "category": "copa",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "id-10",
+      "text": "É o maior arquipélago do mundo, com capital em Jacarta.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "bn",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "bn-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bn-02",
+      "text": "Está entre as seleções de pior ranking da Ásia.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bn-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bn-04",
+      "text": "Foi suspenso pela FIFA entre 2009 e 2011 por interferência do governo na federação.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bn-05",
+      "text": "Seu principal clube, o DPMM, disputa a liga de Singapura e foi campeão em 2015 e 2019.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bn-06",
+      "text": "É governado por um sultão, um dos monarcas mais ricos do mundo.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bn-07",
+      "text": "Uma equipe representando o país venceu a Copa da Malásia em 1999.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bn-08",
+      "text": "Fica na ilha de Bornéu e é cercado pela Malásia.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bn-09",
+      "text": "O sultão Hassanal Bolkiah está no trono desde 1967.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bn-10",
+      "text": "Sua capital é Bandar Seri Begawan.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

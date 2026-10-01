@@ -1,0 +1,76 @@
+{
+  "id": "lb",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "lb-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lb-02",
+      "text": "O basquete rivaliza com o futebol como esporte mais popular do país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "lb-03",
+      "text": "Sediou a Copa da Ásia de 2000.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lb-04",
+      "text": "O Al-Ahed venceu a Copa da AFC em 2019.",
+      "category": "clube",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "lb-05",
+      "text": "Venceu a Coreia do Sul por 2 a 1, em casa, nas Eliminatórias para a Copa de 2014.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lb-06",
+      "text": "Nejmeh e Ansar estão entre os clubes mais populares e vitoriosos do país.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "lb-07",
+      "text": "Roda Antar jogou na Bundesliga por clubes como Freiburg e Colônia.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lb-08",
+      "text": "Fica no Mediterrâneo oriental, entre a Síria e Israel.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "lb-09",
+      "text": "O tabule e o homus são pratos típicos famosos da sua culinária.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "lb-10",
+      "text": "Sua capital é Beirute.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

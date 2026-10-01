@@ -1,0 +1,76 @@
+{
+  "id": "in",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "in-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "in-02",
+      "text": "O críquete é, de longe, o esporte mais popular do país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "in-03",
+      "text": "Ganhou o ouro do futebol nos Jogos Asiáticos de 1951 e de 1962.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "in-04",
+      "text": "Ficou em quarto lugar no torneio de futebol dos Jogos Olímpicos de 1956.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "in-05",
+      "text": "O clássico entre Mohun Bagan e East Bengal, em Calcutá, é um dos mais antigos da Ásia.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "in-06",
+      "text": "Zico treinou um clube da Superliga local, criada em 2014.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "in-07",
+      "text": "Classificou-se para a Copa de 1950, mas desistiu de disputá-la.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "in-08",
+      "text": "Sediou a Copa do Mundo Sub-17 de 2017.",
+      "category": "copa",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "in-09",
+      "text": "Sunil Chhetri é o maior artilheiro da história da seleção, com mais de 90 gols.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "in-10",
+      "text": "Desde 2023, é o país mais populoso do mundo, segundo a ONU.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

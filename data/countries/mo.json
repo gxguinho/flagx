@@ -1,0 +1,76 @@
+{
+  "id": "mo",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mo-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mo-02",
+      "text": "Não é um país independente, mas tem seleção própria filiada à FIFA.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mo-03",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mo-04",
+      "text": "Em 2019, foi eliminado das Eliminatórias ao se recusar a viajar ao Sri Lanka, alegando motivos de segurança.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mo-05",
+      "text": "Um dos clubes locais leva o nome de um gigante de Lisboa: o Benfica.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mo-06",
+      "text": "O português é uma das suas línguas oficiais.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mo-07",
+      "text": "Ayrton Senna e Michael Schumacher venceram o tradicional Grande Prêmio de Fórmula 3 disputado nas suas ruas.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mo-08",
+      "text": "Foi administrado por Portugal até 1999.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mo-09",
+      "text": "Hoje é uma região administrativa especial da China, vizinha de Hong Kong.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mo-10",
+      "text": "É um dos maiores polos de cassinos do mundo.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

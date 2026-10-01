@@ -1,0 +1,76 @@
+{
+  "id": "ir",
+  "flagDifficulty": 3,
+  "hints": [
+    {
+      "id": "ir-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ir-02",
+      "text": "A luta olímpica é um dos esportes mais vitoriosos do país.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ir-03",
+      "text": "Venceu três Copas da Ásia seguidas: 1968, 1972 e 1976.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ir-04",
+      "text": "Disputou seis Copas do Mundo até 2022 e se classificou para a de 2026.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ir-05",
+      "text": "Esteghlal e Persepolis fazem o maior clássico do país, na capital.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ir-06",
+      "text": "Seu principal estádio, o Azadi, já recebeu mais de 100 mil torcedores.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ir-07",
+      "text": "Venceu os Estados Unidos por 2 a 1 na Copa de 1998, num jogo em que os jogadores trocaram flores antes da partida.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ir-08",
+      "text": "Mehdi Taremi, atacante que jogou no Porto e na Inter de Milão, é um dos destaques da seleção.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ir-09",
+      "text": "Ali Daei marcou 108 gols pela seleção e foi o maior artilheiro da história do futebol entre seleções até 2021.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ir-10",
+      "text": "Sua capital é Teerã.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

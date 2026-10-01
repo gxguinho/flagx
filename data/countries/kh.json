@@ -1,0 +1,76 @@
+{
+  "id": "kh",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "kh-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kh-02",
+      "text": "Disputa o Campeonato da ASEAN, torneio entre seleções do Sudeste Asiático.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kh-03",
+      "text": "Nunca se classificou para uma Copa do Mundo.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kh-04",
+      "text": "Com outro nome oficial, terminou em quarto lugar na Copa da Ásia de 1972, sua única participação.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kh-05",
+      "text": "O Morodok Techo, estádio nacional inaugurado em 2021, recebeu os Jogos do Sudeste Asiático de 2023.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kh-06",
+      "text": "O bokator, arte marcial tradicional, é reconhecido pela UNESCO como patrimônio cultural do país.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kh-07",
+      "text": "Em 2018, o japonês Keisuke Honda assumiu o comando da seleção, como gerente-geral, sem parar de jogar.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kh-08",
+      "text": "Viveu sob o regime do Khmer Vermelho entre 1975 e 1979.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kh-09",
+      "text": "O templo de Angkor Wat aparece na sua bandeira.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "kh-10",
+      "text": "Sua capital é Phnom Penh.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "la",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "la-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "la-02",
+      "text": "Nunca disputou uma Copa do Mundo nem uma Copa da Ásia.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "la-03",
+      "text": "Costuma cair na fase de grupos do Campeonato do Sudeste Asiático.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "la-04",
+      "text": "Sediou os Jogos do Sudeste Asiático pela primeira vez em 2009.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "la-05",
+      "text": "O arroz glutinoso, comido com as mãos, é a base da culinária do país.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "la-06",
+      "text": "É considerado o país mais bombardeado do mundo por habitante, durante a Guerra do Vietnã.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "la-07",
+      "text": "É o único país do Sudeste Asiático sem saída para o mar.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "la-08",
+      "text": "Foi colônia francesa até 1953.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "la-09",
+      "text": "Luang Prabang, antiga capital real, é patrimônio mundial da UNESCO.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "la-10",
+      "text": "O rio Mekong marca boa parte da sua fronteira com a Tailândia, e sua capital é Vientiane.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

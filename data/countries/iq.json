@@ -1,0 +1,76 @@
+{
+  "id": "iq",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "iq-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "iq-02",
+      "text": "Durante anos, foi impedido pela FIFA de mandar jogos oficiais em casa e jogou em países vizinhos.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "iq-03",
+      "text": "Disputou a Copa do Mundo de 1986, no México, e perdeu os três jogos.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "iq-04",
+      "text": "Venceu a Copa do Golfo de 2023, disputada em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "iq-05",
+      "text": "Ficou em quarto lugar no torneio de futebol dos Jogos Olímpicos de Atenas 2004.",
+      "category": "momento",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "iq-06",
+      "text": "Al-Zawraa e Al-Shorta são rivais tradicionais da capital.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "iq-07",
+      "text": "Na Copa de 1986, marcou seu gol com Ahmed Radhi, contra a Bélgica.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "iq-08",
+      "text": "É cortado pelos rios Tigre e Eufrates.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "iq-09",
+      "text": "Foi campeão da Copa da Ásia de 2007, vencendo a Arábia Saudita na final com gol de Younis Mahmoud, em meio à guerra no país.",
+      "category": "titulo",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "iq-10",
+      "text": "Sua capital é Bagdá.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

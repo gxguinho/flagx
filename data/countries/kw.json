@@ -1,0 +1,76 @@
+{
+  "id": "kw",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "kw-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kw-02",
+      "text": "Disputou uma única Copa do Mundo, nos anos 1980.",
+      "category": "copa",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kw-03",
+      "text": "Foi campeão da Copa da Ásia em 1980, jogando em casa.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kw-04",
+      "text": "Foi suspenso pela FIFA entre 2015 e 2017 por interferência do governo no esporte.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kw-05",
+      "text": "É o maior campeão da história da Copa do Golfo.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kw-06",
+      "text": "Al-Qadsia e Al-Arabi estão entre os clubes mais tradicionais do país.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kw-07",
+      "text": "Na Copa de 1982, um dirigente entrou em campo no jogo contra a França para protestar contra um gol, que acabou anulado.",
+      "category": "momento",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kw-08",
+      "text": "É um pequeno país rico em petróleo no fundo do Golfo Pérsico, entre o Iraque e a Arábia Saudita.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kw-09",
+      "text": "Foi invadido pelo Iraque em 1990, o que levou à Guerra do Golfo.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "kw-10",
+      "text": "Sua capital tem o mesmo nome do país.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

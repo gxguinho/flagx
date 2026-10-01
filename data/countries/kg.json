@@ -1,0 +1,76 @@
+{
+  "id": "kg",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "kg-01",
+      "text": "A seleção é filiada à AFC.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kg-02",
+      "text": "Até 1991, seus jogadores defendiam a seleção da União Soviética.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "kg-03",
+      "text": "Estreou na Copa da Ásia em 2019 e chegou às oitavas de final.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kg-04",
+      "text": "O Dordoi, da capital, venceu a Copa do Presidente da AFC em 2006 e 2007.",
+      "category": "clube",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "kg-05",
+      "text": "O kok-boru, disputado a cavalo com a carcaça de uma cabra, é o esporte tradicional do país.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kg-06",
+      "text": "A seleção costuma mandar seus jogos no Estádio Dolen Omurzakov, na capital.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "kg-07",
+      "text": "Sediou os Jogos Mundiais Nômades em 2014, 2016 e 2018.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kg-08",
+      "text": "É um país montanhoso da Ásia Central, dominado pela cordilheira Tian Shan.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "kg-09",
+      "text": "O épico de Manas, um dos poemas orais mais longos do mundo, é símbolo nacional.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "kg-10",
+      "text": "Sua capital é Bishkek.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
