@@ -3,8 +3,13 @@ import { toast } from 'sonner'
 
 import { Button } from '@/components/ui/button'
 
+/** Compartilhamento nativo só no celular; no desktop (ex.: Windows) ele abre a janela do sistema em vez de copiar */
+function canShareNatively(): boolean {
+  return typeof navigator.share === 'function' && window.matchMedia('(pointer: coarse)').matches
+}
+
 async function shareText(text: string) {
-  if (navigator.share) {
+  if (canShareNatively()) {
     try {
       await navigator.share({ text })
       return
