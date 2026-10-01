@@ -6,6 +6,8 @@ import { countryContentSchema, membersSchema } from './schema.ts'
 const LEVELS: Level[] = [1, 2, 3, 4, 5]
 const MIN_HINTS = 8
 const MAX_HINTS = 12
+/** Geografia é último recurso: só nas dicas mais reveladoras */
+const MIN_GEOGRAPHY_LEVEL = 4
 
 const issues = (e: { issues: { path: PropertyKey[]; message: string }[] }) =>
   e.issues.map((i) => `${i.path.join('.')}: ${i.message}`).join('; ')
@@ -70,7 +72,14 @@ export function validateDataset(input: {
       hintIds.add(hint.id)
       const leaked = [member.name, ...member.aliases].find((term) => containsTerm(hint.text, term))
       if (leaked) errors.push(`${hint.id}: o texto menciona "${leaked}"`)
+      if (hint.category === 'geografia' && hint.level < MIN_GEOGRAPHY_LEVEL) {
+        errors.push(`${hint.id}: dica de geografia no nível ${hint.level} (mínimo ${MIN_GEOGRAPHY_LEVEL})`)
+      }
     }
+  }
+
+  for (const member of members) {
+    if (!(member.id in input.contents)) errors.push(`${member.id}: membro sem dicas (data/countries/${member.id}.json)`)
   }
 
   for (const level of LEVELS) {

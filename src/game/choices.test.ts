@@ -41,3 +41,11 @@ describe('buildChoices — independência da ordem de entrada', () => {
     expect(buildChoices(conmebol[0], reversed, createRng(5))).toEqual(buildChoices(conmebol[0], all, createRng(5)))
   })
 })
+
+describe('buildChoices — sem confederação', () => {
+  it('usa outros lugares sem confederação como distratores', () => {
+    const none = ['tk', 'nu', 'pn', 'nf'].map((id): Member => ({ id, name: id, aliases: [], confederation: null }))
+    const choices = buildChoices(none[0], [...all, ...none], createRng(3))
+    expect(choices.every((c) => c.confederation === null)).toBe(true)
+  })
+})

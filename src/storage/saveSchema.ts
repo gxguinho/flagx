@@ -8,7 +8,20 @@ const mode = z.enum(['normal', 'facil'])
 const hintSchema = z.object({
   id: z.string(),
   text: z.string(),
-  category: z.enum(['jogador', 'titulo', 'copa', 'clube', 'rivalidade', 'confederacao', 'momento', 'curiosidade']),
+  category: z.enum([
+      'jogador',
+      'titulo',
+      'copa',
+      'clube',
+      'rivalidade',
+      'confederacao',
+      'momento',
+      'curiosidade',
+      'esporte',
+      'cultura',
+      'historia',
+      'geografia',
+    ]),
   level: z.union([z.literal(1), z.literal(2), z.literal(3), z.literal(4), z.literal(5)]),
   reviewed: z.boolean(),
 })

@@ -9,6 +9,12 @@ export type HintCategory =
   | 'confederacao'
   | 'momento'
   | 'curiosidade'
+  // Quando falta material de futebol
+  | 'esporte'
+  | 'cultura'
+  | 'historia'
+  /** Só nos níveis 4 e 5 */
+  | 'geografia'
 
 export type Level = 1 | 2 | 3 | 4 | 5
 
@@ -29,7 +35,8 @@ export interface Member {
   id: string
   name: string
   aliases: string[]
-  confederation: Confederation
+  /** null = não filiado a nenhuma confederação */
+  confederation: Confederation | null
 }
 
 /** Conteúdo de um país, de data/countries/<id>.json */

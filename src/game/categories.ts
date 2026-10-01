@@ -9,4 +9,8 @@ export const CATEGORY_LABEL: Record<HintCategory, string> = {
   confederacao: '🗺️ Confederação',
   momento: '📅 Momento histórico',
   curiosidade: '💡 Curiosidade',
+  esporte: '🏅 Outros esportes',
+  cultura: '🎭 Cultura',
+  historia: '📜 História',
+  geografia: '🧭 Geografia',
 }

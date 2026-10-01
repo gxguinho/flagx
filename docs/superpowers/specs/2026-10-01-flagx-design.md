@@ -7,7 +7,7 @@ Status: aprovado em conversa, aguardando revisão da spec escrita
 
 ## 1. Visão geral
 
-flagx é um jogo web de adivinhação de países. A cada rodada uma bandeira é exibida; cada palpite errado libera uma nova dica, **sempre sobre futebol** (jogadores, títulos, Copas, clubes, rivalidades, confederação, momentos históricos, curiosidades). Quanto menos dicas o jogador usar, mais pontos ganha.
+flagx é um jogo web de adivinhação de países. A cada rodada uma bandeira é exibida; cada palpite errado libera uma nova dica, **de preferência sobre futebol** (jogadores, títulos, Copas, clubes, rivalidades, confederação, momentos históricos, curiosidades). Quando falta material de futebol, a dica vem de outros esportes, cultura ou história — e geografia só como último recurso, nos níveis 4 e 5. Quanto menos dicas o jogador usar, mais pontos ganha.
 
 ### Objetivo e público
 
@@ -20,7 +20,7 @@ flagx é um jogo web de adivinhação de países. A cada rodada uma bandeira é 
 |---|---|
 | Conteúdo | JSON versionado no repositório, um arquivo por país, sem servidor |
 | Criação das dicas | Geradas com IA em lotes e revisadas por humanos |
-| Cobertura | Os 211 membros da FIFA |
+| Cobertura | 240 bandeiras: os 211 membros da FIFA + 9 países soberanos fora da FIFA + 20 territórios com bandeira própria |
 | Modos | Desafio diário (principal) + modo livre (treino) |
 | Resposta | Normal = texto com autocomplete; Fácil = múltipla escolha |
 | Diário | 5 bandeiras por dia, dificuldade crescente |
@@ -36,7 +36,13 @@ Login, ranking online, PWA/offline, outros idiomas (o jogo é só pt-BR), sons, 
 
 ### Universo de países
 
-Os **211 membros da FIFA** — não os países da ONU. Inclui Inglaterra, Escócia, País de Gales e Irlanda do Norte separados, além de Ilhas Faroé, Gibraltar, Kosovo, etc.
+**240 bandeiras:**
+
+- Os **211 membros da FIFA**, incluindo Inglaterra, Escócia, País de Gales e Irlanda do Norte separados, além de Ilhas Faroé, Gibraltar, Kosovo, etc.
+- **9 países soberanos fora da FIFA:** Reino Unido, Mônaco, Vaticano, Micronésia, Kiribati, Ilhas Marshall, Nauru, Palau, Tuvalu.
+- **20 territórios com bandeira própria:** Groenlândia, Ilha de Man, Jersey, Guernsey, Ilhas Åland, Ilhas Malvinas, Martinica, Sint Maarten, Bonaire, Ilhas Marianas do Norte, Niue, Tokelau, Ilhas Pitcairn, Ilha Norfolk, Ilha Christmas, Ilhas Cocos, Santa Helena, Ilha de Ascensão, Tristão da Cunha, Saara Ocidental.
+
+Ficam de fora territórios cuja bandeira no `flag-icons` é idêntica à de outro país (os franceses de ultramar com a bandeira da França, Svalbard e Bouvet com a da Noruega, Ilhas Menores dos EUA, Heard e McDonald) e os desabitados (Antártida, Geórgia do Sul, Terras Austrais Francesas, Clipperton, Território Britânico do Oceano Índico): seriam rodadas impossíveis.
 
 ### Bandeiras
 
@@ -46,8 +52,8 @@ SVGs locais do pacote `flag-icons` (MIT), que cobre subdivisões como `gb-eng`, 
 
 Os dados ficam em dois lugares:
 
-- `data/members.json` — registro dos **211 membros** (metadados), usado pelo autocomplete e pelas opções do modo fácil desde o início, mesmo para países que ainda não têm dicas. Assim a lista de palpites não entrega quais países estão em jogo.
-- `data/countries/<id>.json` — conteúdo jogável de um país (`CountryContent`). Só países com esse arquivo aparecem como resposta.
+- `data/members.json` — registro das **240 bandeiras** (metadados), usado pelo autocomplete e pelas opções do modo fácil.
+- `data/countries/<id>.json` — conteúdo jogável de cada uma (`CountryContent`). Toda bandeira do registro tem esse arquivo.
 
 Em runtime, `Country` é a junção dos dois.
 
@@ -56,14 +62,17 @@ type Confederation = "CONMEBOL" | "UEFA" | "CAF" | "AFC" | "CONCACAF" | "OFC";
 
 type HintCategory =
   | "jogador" | "titulo" | "copa" | "clube"
-  | "rivalidade" | "confederacao" | "momento" | "curiosidade";
+  | "rivalidade" | "confederacao" | "momento" | "curiosidade"
+  // quando falta material de futebol:
+  | "esporte" | "cultura" | "historia"
+  | "geografia";             // só nos níveis 4 e 5
 
 // data/members.json → Member[]
 interface Member {
   id: string;               // código do flag-icons: "br", "gb-eng", "xk"
   name: string;             // nome exibido em pt-BR: "Brasil"
   aliases: string[];        // nomes alternativos aceitos: ["brazil"]
-  confederation: Confederation;
+  confederation: Confederation | null; // null = não filiado a nenhuma confederação
 }
 
 // data/countries/<id>.json
@@ -92,6 +101,8 @@ interface Hint {
 4. IDs de país, IDs de dica e nomes/aliases normalizados são únicos em todo o conjunto.
 5. Existe SVG correspondente no `flag-icons` para cada `id`.
 6. Cada faixa de `flagDifficulty` (1–5) tem pelo menos um país (necessário para o desafio diário).
+7. Dicas de `geografia` só nos níveis 4 e 5.
+8. Todo membro de `members.json` tem `data/countries/<id>.json`.
 
 O validador roda antes do build e no CI; dado inválido não é publicado. Em runtime os dados são tratados como confiáveis.
 
@@ -219,7 +230,8 @@ Hospedagem estática (Vercel ou Netlify). O script de build roda o validador ant
 
 ## 7. Geração de conteúdo
 
-- Gerado por IA em **lotes por confederação** (15–20 países por lote): CONMEBOL (10), UEFA (55, em 3 lotes), CONCACAF, CAF, AFC, OFC. Cada lote passa no validador antes do próximo.
+- Gerado por IA em **lotes por confederação**; cada lote passa no validador. Regras completas de escrita em `docs/content-guide.md`.
+- **Futebol primeiro.** Quando falta material de futebol (seleções muito pequenas, países e territórios fora da FIFA), as dicas restantes vêm de outros esportes, cultura e história; geografia (capital, continente, fronteiras, localização) só nos níveis 4 e 5.
 - **Guia de níveis:**
   - 1 — confederação, estatística vaga, curiosidade genérica
   - 2 — histórico em Copas, títulos continentais
@@ -234,7 +246,7 @@ Hospedagem estática (Vercel ou Netlify). O script de build roda o validador ant
 
 - **Dados:** barrados no build pelo validador (seção 2).
 - **`localStorage` indisponível** (aba anônima, bloqueio): o jogo funciona, apenas sem salvar. Dado com versão antiga ou corrompido é descartado.
-- **Modo fácil com confederação pequena:** fallback para outras confederações.
+- **Modo fácil com confederação pequena:** fallback para outras confederações. Lugares sem confederação usam outros lugares sem confederação como opções erradas.
 - **Web Share indisponível ou cancelado:** cai para copiar na área de transferência.
 
 ## 9. Testes

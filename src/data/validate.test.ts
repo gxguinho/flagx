@@ -93,4 +93,33 @@ describe('validateDataset', () => {
     expect(errorsOf((f) => ((f.contents.br.hints[0] as { level: number }).level = 7))).toMatch(/br/)
     expect(errorsOf((f) => ((f.contents.br.hints[0] as { category: string }).category = 'estadio'))).toMatch(/br/)
   })
+
+  it('aceita membro sem confederação e categorias além do futebol', () => {
+    expect(
+      errorsOf((f) => {
+        f.members[4] = { ...f.members[4], confederation: null }
+        f.contents.br.hints[0].category = 'esporte'
+        f.contents.br.hints[1].category = 'cultura'
+        f.contents.br.hints[2].category = 'historia'
+      }),
+    ).toBe('')
+  })
+
+  it('só aceita dica de geografia nos níveis 4 e 5', () => {
+    expect(errorsOf((f) => (f.contents.br.hints[0].category = 'geografia'))).toMatch(/br-01/)
+    expect(errorsOf((f) => (f.contents.br.hints[3].category = 'geografia'))).toBe('')
+  })
+
+  it('exige dicas para todo membro', () => {
+    expect(errorsOf((f) => f.members.push({ id: 'mc', name: 'Mônaco', aliases: [], confederation: null }))).toMatch(/mc/)
+  })
+
+  it('aceita ids de subdivisão com duas letras', () => {
+    expect(
+      errorsOf((f) => {
+        f.members.push({ id: 'sh-hl', name: 'Santa Helena', aliases: [], confederation: null })
+        f.contents['sh-hl'] = { ...f.contents.sm, id: 'sh-hl', hints: f.contents.sm.hints.map((h) => ({ ...h, id: h.id.replace('sm', 'sh-hl') })) }
+      }),
+    ).toBe('')
+  })
 })
