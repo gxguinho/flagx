@@ -76,3 +76,23 @@ describe('recordDailyFinished', () => {
     expect(recordDailyFinished(once, 5, 1000, ['🟩'])).toBe(once)
   })
 })
+
+describe('loadSave — formato inválido', () => {
+  const load = (data: unknown) => loadSave(memoryStorage({ [STORAGE_KEY]: JSON.stringify(data) }))
+
+  it('descarta estatísticas com formato errado', () => {
+    expect(load({ version: 1, stats: {}, daily: null, freeBest: 0 })).toEqual(emptySave())
+  })
+
+  it('descarta só o desafio quando ele está quebrado e mantém as estatísticas', () => {
+    const stats = { ...emptySave().stats, played: 3, streak: 1, maxStreak: 2, lastPuzzle: 2, totalPoints: 900 }
+    const save = load({ version: 1, stats, daily: { puzzle: 3 }, freeBest: 1200 })
+    expect(save.daily).toBeNull()
+    expect(save.stats).toEqual(stats)
+    expect(save.freeBest).toBe(1200)
+  })
+
+  it('assume recorde zero quando ele falta', () => {
+    expect(load({ version: 1, stats: emptySave().stats, daily: null }).freeBest).toBe(0)
+  })
+})

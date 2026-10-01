@@ -1,6 +1,8 @@
 import type { DailyRecord } from '@/game/daily'
 import type { Square } from '@/game/round'
 
+import { dailySchema, statsSchema } from './saveSchema'
+
 export const STORAGE_KEY = 'flagx:v1'
 
 export interface Stats {
@@ -48,9 +50,21 @@ export function loadSave(storage: Storage | null = browserStorage()): SaveData {
   try {
     const raw = storage?.getItem(STORAGE_KEY)
     if (!raw) return emptySave()
-    const data = JSON.parse(raw) as Partial<SaveData> | null
-    if (data?.version !== 1 || !data.stats) return emptySave()
-    return data as SaveData
+    const data = JSON.parse(raw) as Record<string, unknown> | null
+    if (data?.version !== 1) return emptySave()
+
+    // Estatísticas quebradas invalidam o save; um desafio quebrado é só descartado
+    const stats = statsSchema.safeParse(data.stats)
+    if (!stats.success) return emptySave()
+    const daily = dailySchema.safeParse(data.daily)
+    const freeBest = typeof data.freeBest === 'number' && data.freeBest >= 0 ? data.freeBest : 0
+
+    return {
+      version: 1,
+      stats: stats.data as Stats,
+      daily: daily.success ? (daily.data as DailyRecord) : null,
+      freeBest,
+    }
   } catch {
     return emptySave()
   }
