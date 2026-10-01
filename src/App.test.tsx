@@ -12,3 +12,12 @@ describe('App', () => {
     expect(screen.getByRole('img', { name: 'Bandeira' })).toHaveClass('fi-br')
   })
 })
+
+describe('App — navegação', () => {
+  it('abre o modo livre a partir do início', async () => {
+    const { default: userEvent } = await import('@testing-library/user-event')
+    render(<App />)
+    await userEvent.setup().click(screen.getByRole('button', { name: /Modo livre/ }))
+    expect(screen.getByRole('heading', { name: 'Modo livre' })).toBeInTheDocument()
+  })
+})
