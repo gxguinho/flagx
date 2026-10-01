@@ -44,7 +44,12 @@ SVGs locais do pacote `flag-icons` (MIT), que cobre subdivisões como `gb-eng`, 
 
 ### Formato
 
-Um arquivo por país em `data/countries/<id>.json`:
+Os dados ficam em dois lugares:
+
+- `data/members.json` — registro dos **211 membros** (metadados), usado pelo autocomplete e pelas opções do modo fácil desde o início, mesmo para países que ainda não têm dicas. Assim a lista de palpites não entrega quais países estão em jogo.
+- `data/countries/<id>.json` — conteúdo jogável de um país (`CountryContent`). Só países com esse arquivo aparecem como resposta.
+
+Em runtime, `Country` é a junção dos dois.
 
 ```ts
 type Confederation = "CONMEBOL" | "UEFA" | "CAF" | "AFC" | "CONCACAF" | "OFC";
@@ -53,14 +58,22 @@ type HintCategory =
   | "jogador" | "titulo" | "copa" | "clube"
   | "rivalidade" | "confederacao" | "momento" | "curiosidade";
 
-interface Country {
+// data/members.json → Member[]
+interface Member {
   id: string;               // código do flag-icons: "br", "gb-eng", "xk"
   name: string;             // nome exibido em pt-BR: "Brasil"
   aliases: string[];        // nomes alternativos aceitos: ["brazil"]
   confederation: Confederation;
+}
+
+// data/countries/<id>.json
+interface CountryContent {
+  id: string;
   flagDifficulty: 1 | 2 | 3 | 4 | 5; // quão reconhecível é a bandeira (1 = muito fácil)
   hints: Hint[];            // pool de 8 a 12 dicas
 }
+
+type Country = Member & CountryContent;
 
 interface Hint {
   id: string;               // "<countryId>-<nn>": "br-07"
@@ -73,7 +86,7 @@ interface Hint {
 
 ### Regras de validação (Zod, `scripts/validate.ts`)
 
-1. O arquivo segue o schema acima; `id` do arquivo = `id` do país.
+1. Os arquivos seguem os schemas acima; `id` do arquivo = `id` do país, e todo país com conteúdo existe em `members.json`.
 2. Cada país tem **8 a 12 dicas** e **pelo menos uma dica de cada nível 1–5**.
 3. Nenhum texto de dica contém o nome do país ou qualquer alias (comparação normalizada: sem acento, minúsculas).
 4. IDs de país, IDs de dica e nomes/aliases normalizados são únicos em todo o conjunto.
