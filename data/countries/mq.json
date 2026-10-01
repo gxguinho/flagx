@@ -1,0 +1,76 @@
+{
+  "id": "mq",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mq-01",
+      "text": "É filiada à CONCACAF, mas não à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mq-02",
+      "text": "Por ser território francês, seus clubes podem disputar a Copa da França.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mq-03",
+      "text": "Foi campeã da Copa do Caribe em 1993, vencendo a Jamaica nos pênaltis na final.",
+      "category": "titulo",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mq-04",
+      "text": "Já disputou várias edições da Copa Ouro da CONCACAF.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mq-05",
+      "text": "É famosa pelo rum agrícola, feito do caldo da cana-de-açúcar.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mq-06",
+      "text": "Josefina, primeira esposa de Napoleão, nasceu nesta ilha.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mq-07",
+      "text": "Thierry Henry e Raphaël Varane têm raízes familiares nesta ilha.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mq-08",
+      "text": "O poeta Aimé Césaire, um dos criadores do movimento da Negritude, nasceu aqui.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mq-09",
+      "text": "A erupção do Monte Pelée, em 1902, destruiu a cidade de Saint-Pierre e matou quase toda a sua população.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mq-10",
+      "text": "É uma região ultramarina da França nas Pequenas Antilhas, entre Dominica e Santa Lúcia, com capital em Fort-de-France.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

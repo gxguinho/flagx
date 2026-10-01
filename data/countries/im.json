@@ -1,0 +1,76 @@
+{
+  "id": "im",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "im-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "im-02",
+      "text": "Sua federação de futebol funciona como uma federação regional ligada à federação inglesa.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "im-03",
+      "text": "Sua seleção não oficial foi vice-campeã da Copa do Mundo da ConIFA de 2014, perdendo a final nos pênaltis.",
+      "category": "momento",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "im-04",
+      "text": "Sediou os Island Games (Jogos das Ilhas) em 2001.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "im-05",
+      "text": "Desde o início dos anos 2020, um clube local disputa as divisões inferiores do futebol inglês.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "im-06",
+      "text": "Seu parlamento, o Tynwald, é considerado um dos mais antigos do mundo em funcionamento contínuo.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "im-07",
+      "text": "Os irmãos Gibb, fundadores dos Bee Gees, nasceram nesta ilha.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "im-08",
+      "text": "Mark Cavendish, que até 2024 era o recordista de vitórias de etapa no Tour de France, nasceu aqui.",
+      "category": "esporte",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "im-09",
+      "text": "Sedia o TT, uma das corridas de moto mais famosas e perigosas do mundo, disputada em estradas públicas.",
+      "category": "esporte",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "im-10",
+      "text": "É uma dependência da Coroa britânica no Mar da Irlanda, entre a Grã-Bretanha e a Irlanda.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tk",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "tk-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tk-02",
+      "text": "É um dos territórios menos populosos do mundo, com cerca de 1.500 habitantes.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "tk-03",
+      "text": "O kilikiti, versão local do críquete, é um dos esportes mais populares.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tk-04",
+      "text": "É um território dependente da Nova Zelândia.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "tk-05",
+      "text": "Em 2006 e 2007, rejeitou em referendos a mudança para livre associação, que não atingiu os dois terços de votos exigidos.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tk-06",
+      "text": "Seu domínio de internet ficou famoso por ser oferecido de graça e virou um dos mais registrados do mundo.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "tk-07",
+      "text": "Em 2012, passou a gerar praticamente toda a sua eletricidade com energia solar.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tk-08",
+      "text": "Não tem aeroporto: o acesso é só por barco, a partir de Samoa.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "tk-09",
+      "text": "É formado por três atóis: Atafu, Nukunonu e Fakaofo.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "tk-10",
+      "text": "Reivindica a Ilha Swains, administrada pelos Estados Unidos como parte da Samoa Americana.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "cx",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "cx-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cx-02",
+      "text": "Tem menos de 2 mil habitantes.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cx-03",
+      "text": "A maioria da população é de origem chinesa ou malaia.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cx-04",
+      "text": "A mineração de fosfato foi por mais de um século sua principal atividade econômica.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cx-05",
+      "text": "Passou do controle de Singapura para a Austrália em 1958.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cx-06",
+      "text": "Abriga um centro de detenção de imigrantes do governo australiano.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cx-07",
+      "text": "Fica no Oceano Índico, ao sul da ilha de Java, na Indonésia.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cx-08",
+      "text": "Boa parte do território é parque nacional, com várias aves que só existem aqui.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cx-09",
+      "text": "Ficou famosa pela migração anual de milhões de caranguejos-vermelhos rumo ao mar.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cx-10",
+      "text": "Recebeu seu nome porque um capitão inglês a avistou no dia 25 de dezembro de 1643.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

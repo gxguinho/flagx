@@ -1,0 +1,76 @@
+{
+  "id": "ax",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "ax-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ax-02",
+      "text": "Seus clubes disputam o campeonato nacional do país a que o arquipélago pertence.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "ax-03",
+      "text": "Sediou os Jogos das Ilhas em 2009.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ax-04",
+      "text": "Tem bandeira, selos e domínio de internet próprios, embora não seja um país independente.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "ax-05",
+      "text": "O IFK Mariehamn, seu principal clube, foi campeão finlandês em 2016.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ax-06",
+      "text": "O mesmo clube ganhou a Copa da Finlândia em 2015.",
+      "category": "titulo",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "ax-07",
+      "text": "Em 1921, a Liga das Nações decidiu a quem pertenceria o arquipélago e determinou que ele fosse desmilitarizado.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ax-08",
+      "text": "É formado por milhares de ilhas no Mar Báltico, entre a Suécia e a Finlândia.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "ax-09",
+      "text": "É uma região autônoma da Finlândia, mas sua única língua oficial é o sueco.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "ax-10",
+      "text": "Sua capital é Mariehamn.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "je",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "je-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "je-02",
+      "text": "Sua federação de futebol funciona como uma federação regional ligada à federação inglesa.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "je-03",
+      "text": "Pediu filiação à UEFA na década de 2010, mas o pedido não foi aceito.",
+      "category": "confederacao",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "je-04",
+      "text": "Sediou os Island Games (Jogos das Ilhas) em 1997 e em 2015.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "je-05",
+      "text": "Disputa contra a ilha vizinha a Muratti Vase, um torneio de futebol entre ilhas realizado desde 1905.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "je-06",
+      "text": "Um clube local criado no fim dos anos 2010 disputa as divisões inferiores do futebol inglês.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "je-07",
+      "text": "Graeme Le Saux, ex-lateral do Chelsea e da seleção inglesa, nasceu nesta ilha.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "je-08",
+      "text": "Foi ocupada pela Alemanha durante a Segunda Guerra Mundial, de 1940 a 1945.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "je-09",
+      "text": "É a maior das Ilhas do Canal, perto da costa da Normandia, e sua capital é St. Helier.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "je-10",
+      "text": "Uma famosa raça de vaca leiteira leva o nome desta ilha.",
+      "category": "cultura",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

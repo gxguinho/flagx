@@ -1,0 +1,76 @@
+{
+  "id": "gg",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "gg-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gg-02",
+      "text": "Sua federação de futebol funciona como uma federação regional ligada à federação inglesa.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gg-03",
+      "text": "Já sediou os Island Games (Jogos das Ilhas), em 1987 e em 2003.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gg-04",
+      "text": "Foi ocupada pela Alemanha durante a Segunda Guerra Mundial, de 1940 a 1945.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gg-05",
+      "text": "Seu principal clube, fundado em 2011, disputa as divisões inferiores do futebol inglês.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gg-06",
+      "text": "Disputa contra a ilha vizinha a Muratti Vase, um torneio de futebol entre ilhas realizado desde 1905.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gg-07",
+      "text": "Victor Hugo viveu exilado nesta ilha por cerca de 15 anos e terminou aqui Os Miseráveis.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gg-08",
+      "text": "Seu bailiado inclui as ilhas de Alderney e Sark.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gg-09",
+      "text": "Matt Le Tissier, ídolo do Southampton, é o jogador mais famoso nascido nesta ilha.",
+      "category": "jogador",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gg-10",
+      "text": "É a segunda maior das Ilhas do Canal, e sua capital é St. Peter Port.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

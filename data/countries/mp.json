@@ -1,0 +1,76 @@
+{
+  "id": "mp",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "mp-01",
+      "text": "É filiado à AFC, mas não à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mp-02",
+      "text": "Também faz parte da federação regional de futebol do Leste Asiático.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "mp-03",
+      "text": "Nunca se classificou para a Copa da Ásia.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mp-04",
+      "text": "É uma comunidade associada aos Estados Unidos, e seus habitantes têm cidadania americana.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "mp-05",
+      "text": "Seu vizinho mais próximo no futebol é Guam, que é filiado à FIFA.",
+      "category": "rivalidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mp-06",
+      "text": "Os povos nativos são os chamorros e os carolinos.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "mp-07",
+      "text": "De uma de suas ilhas decolou, em 1945, o avião que lançou a bomba atômica sobre Hiroshima.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mp-08",
+      "text": "Fica no Pacífico Ocidental, ao norte de Guam e perto da fossa oceânica mais profunda do mundo.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "mp-09",
+      "text": "Sua maior ilha, Saipan, foi palco de uma das grandes batalhas da Segunda Guerra no Pacífico, em 1944.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "mp-10",
+      "text": "É formado por 14 ilhas, e a sede do governo fica em Saipan.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

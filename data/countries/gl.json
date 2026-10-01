@@ -1,0 +1,76 @@
+{
+  "id": "gl",
+  "flagDifficulty": 4,
+  "hints": [
+    {
+      "id": "gl-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gl-02",
+      "text": "Em 2024, a federação local anunciou que buscava se filiar à CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "gl-03",
+      "text": "O campeonato local é disputado em poucas semanas, no curto verão, por causa do clima.",
+      "category": "curiosidade",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gl-04",
+      "text": "Já sediou os Island Games (Jogos das Ilhas), em 2002.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "gl-05",
+      "text": "A grama natural quase não cresce aqui, e por isso os campos costumam ser de cascalho ou grama sintética.",
+      "category": "curiosidade",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gl-06",
+      "text": "O handebol é o esporte mais popular, e a seleção masculina já disputou o Mundial da modalidade.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "gl-07",
+      "text": "Jesper Grønkjær, ex-Chelsea e seleção dinamarquesa, nasceu na capital deste território.",
+      "category": "jogador",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gl-08",
+      "text": "A maior parte da população é inuíte e fala o kalaallisut, a língua oficial.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "gl-09",
+      "text": "É a maior ilha do mundo, coberta em grande parte por gelo.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "gl-10",
+      "text": "É um território autônomo do Reino da Dinamarca, com capital em Nuuk.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

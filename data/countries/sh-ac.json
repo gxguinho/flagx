@@ -1,0 +1,76 @@
+{
+  "id": "sh-ac",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "sh-ac-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ac-02",
+      "text": "Faz parte de um território ultramarino britânico formado por ilhas muito distantes entre si.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ac-03",
+      "text": "Não tem população nativa: quem vive aqui trabalha em bases ou serviços e não tem direito de residência permanente.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ac-04",
+      "text": "Abriga estações de rastreamento espacial e de retransmissão de rádio.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ac-05",
+      "text": "Recebeu uma guarnição da Marinha britânica em 1815, para evitar um resgate de Napoleão, preso numa ilha vizinha.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ac-06",
+      "text": "Seu aeródromo militar serviu de base de apoio no conflito de 1982 no Atlântico Sul.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ac-07",
+      "text": "Seu pico mais alto ganhou uma floresta plantada no século XIX, num projeto apoiado por Charles Darwin e Joseph Hooker.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ac-08",
+      "text": "Suas praias são um dos principais locais de desova da tartaruga-verde no Atlântico.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ac-09",
+      "text": "Recebeu o nome de um feriado cristão, o dia em que foi avistada por navegadores portugueses, em 1503.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ac-10",
+      "text": "Fica no meio do Atlântico Sul, a cerca de 1.300 km de Santa Helena, e sua capital é Georgetown.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

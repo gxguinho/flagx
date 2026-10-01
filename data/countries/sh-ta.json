@@ -1,0 +1,76 @@
+{
+  "id": "sh-ta",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "sh-ta-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ta-02",
+      "text": "Tem cerca de 250 habitantes, que compartilham poucos sobrenomes de família.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ta-03",
+      "text": "Faz parte de um território ultramarino britânico formado por ilhas muito distantes entre si.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ta-04",
+      "text": "A economia gira em torno da pesca da lagosta, e toda a terra é de propriedade comunitária.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ta-05",
+      "text": "Em 1961, uma erupção vulcânica obrigou toda a população a se mudar para a Inglaterra; a maioria voltou em 1963.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ta-06",
+      "text": "Foi anexado pelo Reino Unido em 1816, para evitar que fosse usado num resgate de Napoleão.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ta-07",
+      "text": "É considerado o arquipélago habitado mais remoto do mundo.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ta-08",
+      "text": "Não tem aeroporto: o acesso é por navio, a partir da Cidade do Cabo, numa viagem de cerca de uma semana.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ta-09",
+      "text": "Leva o nome do navegador português que o avistou em 1506.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sh-ta-10",
+      "text": "Sua única povoação se chama Edinburgh of the Seven Seas.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

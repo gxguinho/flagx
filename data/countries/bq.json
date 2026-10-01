@@ -1,0 +1,76 @@
+{
+  "id": "bq",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "bq-01",
+      "text": "É filiado à CONCACAF, mas não à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bq-02",
+      "text": "É um dos membros mais recentes da CONCACAF, admitido na década de 2010.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "bq-03",
+      "text": "Nunca se classificou para a Copa Ouro da CONCACAF.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bq-04",
+      "text": "Além do holandês, fala-se muito o papiamento, língua crioula das Antilhas.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "bq-05",
+      "text": "É conhecido como um dos melhores lugares do mundo para o windsurf, com campeões mundiais formados na ilha.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bq-06",
+      "text": "Desde 2010, é um município especial dos Países Baixos.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "bq-07",
+      "text": "É um destino famoso de mergulho, com recifes de coral protegidos por um parque marinho.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bq-08",
+      "text": "Suas salinas, de cor rosada, abrigam uma grande colônia de flamingos.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "bq-09",
+      "text": "Forma com Aruba e Curaçao as chamadas ilhas ABC, perto da costa da Venezuela.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "bq-10",
+      "text": "Sua capital é Kralendijk.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

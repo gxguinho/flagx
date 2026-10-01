@@ -1,0 +1,76 @@
+{
+  "id": "sx",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "sx-01",
+      "text": "É filiado à CONCACAF, mas não à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sx-02",
+      "text": "É um dos menores membros da CONCACAF.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sx-03",
+      "text": "Nunca se classificou para a Copa Ouro da CONCACAF.",
+      "category": "copa",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sx-04",
+      "text": "O inglês é a língua mais falada, embora o território faça parte de um reino europeu de língua neerlandesa.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sx-05",
+      "text": "Até 2010, fazia parte de uma federação de ilhas das Antilhas que foi dissolvida naquele ano.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sx-06",
+      "text": "Desde 2010, é um dos países constituintes do Reino dos Países Baixos.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sx-07",
+      "text": "Foi devastado pelo furacão Irma, em 2017.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sx-08",
+      "text": "Uma praia vizinha ao aeroporto ficou famosa pelos aviões que passam muito baixo sobre os banhistas.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sx-09",
+      "text": "Ocupa a metade sul de uma ilha das Antilhas dividida com uma coletividade francesa.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sx-10",
+      "text": "Sua capital é Philipsburg.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

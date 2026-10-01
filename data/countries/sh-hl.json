@@ -1,0 +1,76 @@
+{
+  "id": "sh-hl",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "sh-hl-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sh-hl-02",
+      "text": "Faz parte de um território ultramarino britânico formado por ilhas muito distantes entre si.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "sh-hl-03",
+      "text": "Foi descoberta por navegadores portugueses em 1502.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sh-hl-04",
+      "text": "Na capital, uma escadaria de 699 degraus, a Jacob's Ladder, sobe a encosta do vale.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "sh-hl-05",
+      "text": "Recebeu milhares de prisioneiros de guerra bôeres entre 1900 e 1902.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sh-hl-06",
+      "text": "Por séculos, só se chegava aqui de navio: voos comerciais regulares começaram apenas em 2017.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "sh-hl-07",
+      "text": "É o lar da tartaruga Jonathan, considerada até 2024 o animal terrestre vivo mais velho do mundo.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sh-hl-08",
+      "text": "Fica no Atlântico Sul, a quase 2 mil km da costa da África.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "sh-hl-09",
+      "text": "Napoleão Bonaparte viveu exilado nesta ilha e morreu aqui, em 1821.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "sh-hl-10",
+      "text": "Sua capital é Jamestown.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

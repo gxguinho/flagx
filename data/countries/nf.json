@@ -1,0 +1,76 @@
+{
+  "id": "nf",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "nf-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nf-02",
+      "text": "Participa dos Jogos da Commonwealth, mesmo não sendo um país independente.",
+      "category": "esporte",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nf-03",
+      "text": "Sediou os Mini Jogos do Pacífico Sul em 2001.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nf-04",
+      "text": "É um território externo da Austrália.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nf-05",
+      "text": "Comemora todo 8 de junho o Bounty Day, data da chegada de seus primeiros colonos permanentes.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nf-06",
+      "text": "Teve autogoverno próprio de 1979 até 2015, quando a Austrália aboliu sua assembleia legislativa.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nf-07",
+      "text": "Foi uma colônia penal britânica entre o fim do século XVIII e meados do século XIX.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nf-08",
+      "text": "Fica no Pacífico Sul, entre a Austrália, a Nova Zelândia e a Nova Caledônia.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nf-09",
+      "text": "Em 1856, recebeu toda a população de Pitcairn, descendente dos amotinados do Bounty.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "nf-10",
+      "text": "Uma espécie de araucária, que aparece na bandeira, leva o nome da ilha.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

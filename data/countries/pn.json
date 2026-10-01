@@ -1,0 +1,76 @@
+{
+  "id": "pn",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "pn-01",
+      "text": "Este território não é filiado à FIFA e não tem seleção de futebol.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pn-02",
+      "text": "Sua língua local mistura o inglês do século XVIII com o taitiano.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "pn-03",
+      "text": "É um território ultramarino britânico no Pacífico.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pn-04",
+      "text": "Quase toda a população segue a Igreja Adventista do Sétimo Dia, adotada no fim do século XIX.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "pn-05",
+      "text": "Tem apenas algumas dezenas de habitantes, uma das menores populações de qualquer território do mundo.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pn-06",
+      "text": "Uma das ilhas do arquipélago, desabitada, é Patrimônio Mundial da UNESCO desde 1988.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "pn-07",
+      "text": "Foi povoado em 1790 por marinheiros britânicos amotinados e taitianos que vieram com eles.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pn-08",
+      "text": "Não tem aeroporto: o acesso é por navio, a partir da Polinésia Francesa.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "pn-09",
+      "text": "Os moradores descendem dos amotinados do navio Bounty, liderados por Fletcher Christian.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "pn-10",
+      "text": "Sua única povoação e capital é Adamstown.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

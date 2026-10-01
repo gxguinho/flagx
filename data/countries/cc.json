@@ -1,0 +1,76 @@
+{
+  "id": "cc",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "cc-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cc-02",
+      "text": "Tem cerca de 600 habitantes, a maioria muçulmanos de origem malaia.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "cc-03",
+      "text": "É um território externo da Austrália desde 1955.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cc-04",
+      "text": "Charles Darwin passou por aqui em 1836, a bordo do Beagle, e estudou a formação dos atóis.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "cc-05",
+      "text": "Foi governado como um feudo particular pela família Clunies-Ross de 1827 a 1978.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cc-06",
+      "text": "Em 1914, foi palco da batalha em que o cruzador australiano HMAS Sydney derrotou o alemão SMS Emden.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "cc-07",
+      "text": "Em 1984, a população votou, sob supervisão da ONU, pela integração à Austrália.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cc-08",
+      "text": "É formado por dois atóis com 27 ilhas de coral no Oceano Índico.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "cc-09",
+      "text": "Só duas ilhas são habitadas: Home Island e West Island.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "cc-10",
+      "text": "Junto com a Ilha Christmas, forma os Territórios Australianos do Oceano Índico.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

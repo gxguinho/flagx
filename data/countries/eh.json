@@ -1,0 +1,76 @@
+{
+  "id": "eh",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "eh-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "eh-02",
+      "text": "Está na lista da ONU de territórios não autônomos.",
+      "category": "historia",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "eh-03",
+      "text": "Foi colônia da Espanha até 1975.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "eh-04",
+      "text": "A língua mais falada é o hassaniya, um dialeto do árabe.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "eh-05",
+      "text": "Clubes da maior cidade do território disputam as ligas do Marrocos, que administra a maior parte da área.",
+      "category": "clube",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "eh-06",
+      "text": "Sua soberania é disputada pelo Marrocos e pela Frente Polisário, que proclamou em 1976 uma república reconhecida pela União Africana.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "eh-07",
+      "text": "Desde 1991, uma missão da ONU acompanha o cessar-fogo, e um muro de areia de cerca de 2.700 km divide a área.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "eh-08",
+      "text": "Fica na costa atlântica da África, fazendo fronteira com o Marrocos, a Argélia e a Mauritânia.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "eh-09",
+      "text": "Em 1975, a chamada Marcha Verde levou cerca de 350 mil marroquinos ao território.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "eh-10",
+      "text": "É quase todo coberto pelo maior deserto quente do mundo, e sua maior cidade é Laayoune.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

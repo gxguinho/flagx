@@ -1,0 +1,76 @@
+{
+  "id": "fk",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "fk-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fk-02",
+      "text": "Tem menos de 4 mil habitantes, segundo o censo de 2021.",
+      "category": "cultura",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "fk-03",
+      "text": "Sua soberania é objeto de uma disputa diplomática entre dois países.",
+      "category": "historia",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fk-04",
+      "text": "Por muito tempo, a criação de ovelhas foi a base da economia; hoje a pesca também é muito importante.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "fk-05",
+      "text": "Participa dos Jogos das Ilhas, competição entre ilhas e pequenos territórios.",
+      "category": "esporte",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fk-06",
+      "text": "Abriga grandes colônias de pinguins, de várias espécies.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "fk-07",
+      "text": "Em 1982, foi palco de um conflito armado de 74 dias entre a Argentina e o Reino Unido.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fk-08",
+      "text": "Fica no Atlântico Sul, a cerca de 500 km da costa da Patagônia.",
+      "category": "geografia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "fk-09",
+      "text": "O jogo entre Argentina e Inglaterra na Copa de 1986, o da \"Mão de Deus\", foi marcado pelo contexto do conflito de 1982 por este arquipélago.",
+      "category": "momento",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "fk-10",
+      "text": "Em um referendo em 2013, 99,8% dos eleitores locais votaram por continuar como território ultramarino britânico.",
+      "category": "historia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}

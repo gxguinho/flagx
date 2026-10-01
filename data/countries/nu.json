@@ -1,0 +1,76 @@
+{
+  "id": "nu",
+  "flagDifficulty": 5,
+  "hints": [
+    {
+      "id": "nu-01",
+      "text": "Este território não é filiado à FIFA.",
+      "category": "confederacao",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nu-02",
+      "text": "Sua seleção de futebol disputou pouquíssimas partidas em toda a história.",
+      "category": "curiosidade",
+      "level": 1,
+      "reviewed": false
+    },
+    {
+      "id": "nu-03",
+      "text": "O rugby é o esporte mais popular da ilha.",
+      "category": "esporte",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nu-04",
+      "text": "Tem menos de 2 mil habitantes, e muito mais descendentes vivem na Nova Zelândia.",
+      "category": "cultura",
+      "level": 2,
+      "reviewed": false
+    },
+    {
+      "id": "nu-05",
+      "text": "Seu domínio de internet ficou popular na Suécia, porque significa \"agora\" em sueco.",
+      "category": "cultura",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nu-06",
+      "text": "Desde 1974, é autogovernado em livre associação com a Nova Zelândia.",
+      "category": "historia",
+      "level": 3,
+      "reviewed": false
+    },
+    {
+      "id": "nu-07",
+      "text": "Emite moedas colecionáveis com personagens como os de Star Wars e Pokémon, que valem como dinheiro oficial.",
+      "category": "cultura",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nu-08",
+      "text": "Em 2020, foi reconhecido como o primeiro \"país de céu escuro\" do mundo, pela proteção contra a poluição luminosa.",
+      "category": "historia",
+      "level": 4,
+      "reviewed": false
+    },
+    {
+      "id": "nu-09",
+      "text": "É uma das maiores ilhas de coral do mundo, conhecida como \"Rocha da Polinésia\".",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    },
+    {
+      "id": "nu-10",
+      "text": "Fica a leste de Tonga, e sua capital é Alofi.",
+      "category": "geografia",
+      "level": 5,
+      "reviewed": false
+    }
+  ]
+}
